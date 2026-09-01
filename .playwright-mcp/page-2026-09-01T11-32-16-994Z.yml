@@ -1,0 +1,82 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - generic [ref=e10]:
+          - heading "AI 공장장 4기 — 구글폼 자동 작성 실습" [level=1] [ref=e12]
+          - generic [ref=e13]: AI 에이전트가 대신 채우고 제출하는 연습용 폼입니다. 로그인 없이 누구나 제출할 수 있어요.
+        - generic [ref=e15]:
+          - generic [ref=e17]:
+            - link "Google에 로그인" [ref=e18] [cursor=pointer]:
+              - /url: https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSfKyhtnKbiLrbZ3I6iaY5M2EBPVjOrlHnAWuOUFQvTzfo-g0w/viewform?usp%3Dsend_form&service=wise
+            - text: 하여 진행상황을 저장하세요.
+            - button "자세히 알아보기" [ref=e19] [cursor=pointer]
+          - generic [aria-hidden] [ref=e21]: "* 표시는 필수 질문임"
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - generic [ref=e25]:
+            - heading "이름 필수 질문" [level=3] [ref=e28]:
+              - generic [ref=e29]: 이름
+              - generic "필수 질문" [ref=e30]: "*"
+            - generic [ref=e35]:
+              - textbox "이름 필수 질문" [disabled] [ref=e36]
+              - generic [aria-hidden]: 내 답변
+        - listitem [ref=e38]:
+          - generic [ref=e40]:
+            - heading "이번 주 목표 필수 질문" [level=3] [ref=e43]:
+              - generic [ref=e44]: 이번 주 목표
+              - generic "필수 질문" [ref=e45]: "*"
+            - generic [ref=e50]:
+              - textbox "이번 주 목표 필수 질문" [disabled] [ref=e51]
+              - generic [aria-hidden]: 내 답변
+        - listitem [ref=e53]:
+          - generic [ref=e55]:
+            - heading "이번 주 수업 만족도 (1~5) 필수 질문" [level=3] [ref=e58]:
+              - generic [ref=e59]: 이번 주 수업 만족도 (1~5)
+              - generic "필수 질문" [ref=e60]: "*"
+            - radiogroup "이번 주 수업 만족도 (1~5) 필수 질문" [ref=e63]:
+              - generic [ref=e64]:
+                - generic [ref=e67]:
+                  - generic [ref=e68]:
+                    - radio "1" [disabled]
+                  - generic [ref=e69]: "1"
+                - generic [ref=e74]:
+                  - generic [ref=e75]:
+                    - radio "2" [disabled]
+                  - generic [ref=e76]: "2"
+                - generic [ref=e81]:
+                  - generic [ref=e82]:
+                    - radio "3" [disabled]
+                  - generic [ref=e83]: "3"
+                - generic [ref=e88]:
+                  - generic [ref=e89]:
+                    - radio "4" [disabled]
+                  - generic [ref=e90]: "4"
+                - generic [ref=e95]:
+                  - generic [ref=e96]:
+                    - radio "5" [disabled]
+                  - generic [ref=e97]: "5"
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - button "제출" [ref=e103] [cursor=pointer]
+          - button "양식 지우기" [ref=e108] [cursor=pointer]
+        - generic [ref=e112]: Google Forms를 통해 비밀번호를 제출하지 마세요.
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - text: 이 콘텐츠는 Google이 만들거나 승인하지 않았습니다. -
+        - link "서비스 약관" [ref=e115] [cursor=pointer]:
+          - /url: https://policies.google.com/terms
+        - text: "-"
+        - link "개인정보처리방침" [ref=e116] [cursor=pointer]:
+          - /url: https://policies.google.com/privacy
+        - paragraph [ref=e117]:
+          - text: 양식이 의심스러운가요?
+          - link "보고서" [ref=e118] [cursor=pointer]:
+            - /url: https://docs.google.com/forms/d/e/1FAIpQLSfKyhtnKbiLrbZ3I6iaY5M2EBPVjOrlHnAWuOUFQvTzfo-g0w/abuse
+      - link [ref=e120] [cursor=pointer]:
+        - /url: //www.google.com/forms/about/?utm_source=product&utm_medium=forms_logo&utm_campaign=forms
+        - img "Google" [ref=e121]
+        - text: 설문지
+  - generic [ref=e125]:
+    - button "고객센터" [ref=e126] [cursor=pointer]
+    - tooltip [aria-hidden] [ref=e129]: 고객센터

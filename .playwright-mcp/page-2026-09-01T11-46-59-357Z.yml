@@ -1,0 +1,254 @@
+- generic [active] [ref=f66e1]:
+  - generic [ref=f66e3]:
+    - banner [ref=f66e5]:
+      - generic [ref=f66e6]:
+        - link [ref=f66e7] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - generic [ref=f66e8]:
+          - link "카페홈" [ref=f66e10] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com
+          - link "이웃" [ref=f66e12] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/home/town
+          - button "가입카페" [ref=f66e14] [cursor=pointer]
+          - link "새글" [ref=f66e16] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com/ca-fe/home/feed
+          - button "내소식" [ref=f66e18] [cursor=pointer]
+          - button "채팅" [ref=f66e20] [cursor=pointer]
+          - generic [ref=f66e22]:
+            - strong [ref=f66e23]: 사용자 링크
+            - list [ref=f66e24]:
+              - listitem [ref=f66e25]:
+                - link "btax1.. 내정보 보기" [ref=f66e27] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=f66e28]: btax1..
+                  - emphasis [ref=f66e29]: 내정보 보기
+              - listitem [ref=f66e30]:
+                - link "네이버톡 새 창 알림" [ref=f66e31] [cursor=pointer]:
+                  - /url: https://talks.naver.com/?frm=pcgnb&anchor=&category=
+              - listitem [ref=f66e34]:
+                - link "서비스 더보기" [ref=f66e35] [cursor=pointer]:
+                  - /url: javascript:;
+      - link [ref=f66e40] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+        - img "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [ref=f66e41]
+    - generic [ref=f66e42]:
+      - complementary [ref=f66e44]:
+        - generic [ref=f66e46]:
+          - tablist [ref=f66e48]:
+            - tab "카페정보" [selected] [ref=f66e49] [cursor=pointer]
+            - tab "나의활동" [ref=f66e50] [cursor=pointer]
+          - tabpanel [ref=f66e51]:
+            - generic [ref=f66e53]:
+              - link [ref=f66e55] [cursor=pointer]:
+                - /url: https://cafe.naver.com/semusarangkclep
+                - img "카페아이콘" [ref=f66e57]
+              - generic [ref=f66e58]:
+                - generic [ref=f66e59]:
+                  - link "카페지기" [ref=f66e60] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/members/4Jvvm0TRuKYQ9UzXmIrxe4pzbmZN0dhF0OXUIUa4eY8
+                  - emphasis [ref=f66e61]: 매니저
+                - link "2017.09.22. 개설" [ref=f66e63] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/history
+                - link "카페소개" [ref=f66e65] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/CafeProfileView.nhn?clubid=29179359
+            - list [ref=f66e67]:
+              - listitem [ref=f66e68]:
+                - link [ref=f66e69] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/ranking
+                  - strong [ref=f66e70]: 카페등급
+                  - emphasis [ref=f66e72]: 열매1단계
+              - listitem [ref=f66e73]:
+                - button "카페멤버수 41,858 멤버목록 비공개" [ref=f66e74] [cursor=pointer]:
+                  - generic [ref=f66e75]: 카페멤버수
+                  - emphasis [ref=f66e77]:
+                    - text: 41,858
+                    - img "멤버목록 비공개"
+                - link "초대" [ref=f66e78] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/semusarangkclep?iframe_url=/CafeInviteCheck.nhn?m=check&clubid=29179359
+        - button "카페 글쓰기" [ref=f66e80] [cursor=pointer]
+        - button "카페 채팅 NEW" [ref=f66e82] [cursor=pointer]:
+          - text: 카페 채팅
+          - img "NEW"
+        - generic [ref=f66e84]:
+          - textbox "카페글 검색어 입력" [ref=f66e85]
+          - button "검색" [ref=f66e86] [cursor=pointer]
+        - generic [ref=f66e87]:
+          - button "즐겨찾는 게시판 그룹펴기" [ref=f66e89] [cursor=pointer]:
+            - strong [ref=f66e90]: 즐겨찾는 게시판
+            - generic [ref=f66e91]: 그룹펴기
+          - menu [ref=f66e92]:
+            - menuitem "전체글보기" [ref=f66e93] [cursor=pointer]
+            - generic [ref=f66e94]: 54,957
+            - menuitem "인기글새 게시글" [ref=f66e95] [cursor=pointer]:
+              - text: 인기글
+              - img "새 게시글"
+            - menuitem "카페지식활동" [ref=f66e96] [cursor=pointer]
+          - strong [ref=f66e98]: 출입구
+          - list [ref=f66e99]:
+            - menuitem "출석체크새 게시글" [ref=f66e100] [cursor=pointer]:
+              - text: 출석체크
+              - img "새 게시글"
+            - menuitem "가입소식새 게시글" [ref=f66e101] [cursor=pointer]:
+              - text: 가입소식
+              - img "새 게시글"
+            - menuitem "가입인사" [ref=f66e102] [cursor=pointer]
+            - menuitem "일반등업요청(일반->모범)" [ref=f66e103] [cursor=pointer]
+          - strong [ref=f66e105]: 세무사랑Pro 관련 소식지
+          - list [ref=f66e106]:
+            - menuitem "조덕희세무사의 활용노트" [ref=f66e107] [cursor=pointer]
+            - menuitem "이문희세무사의 마스터클래스" [ref=f66e108] [cursor=pointer]
+            - menuitem "플랫폼세무사회 100% 활용하기" [ref=f66e109] [cursor=pointer]
+            - menuitem "세무사님들의 기고문 모음" [ref=f66e110] [cursor=pointer]
+            - menuitem "세무사랑 관련 신문 모음" [ref=f66e111] [cursor=pointer]
+            - menuitem "★세·알·고★" [ref=f66e112] [cursor=pointer]
+            - menuitem "세알고유튜브(크롬추천)" [ref=f66e114] [cursor=pointer]
+          - strong [ref=f66e116]: 프로그램문의(누구나답변가능)
+          - list [ref=f66e117]:
+            - menuitem "★VVIP(프로그램)멤버등업 (아이디등록)새 게시글" [ref=f66e119] [cursor=pointer]:
+              - text: ★VVIP(프로그램)멤버등업 (아이디등록)
+              - img "새 게시글"
+            - menuitem "↑등업시 꼭 스텝만보기(비밀글) 클릭~^^" [ref=f66e121] [cursor=pointer]
+            - menuitem "★★VVIP게시판 이용전 필독!!!!" [ref=f66e122] [cursor=pointer]
+            - menuitem "회계관리새 게시글" [ref=f66e124] [cursor=pointer]:
+              - text: 회계관리
+              - img "새 게시글"
+            - menuitem "부가가치세" [ref=f66e126] [cursor=pointer]
+            - menuitem "V-BOT(검증)" [ref=f66e128] [cursor=pointer]
+            - menuitem "원천징수새 게시글" [ref=f66e130] [cursor=pointer]:
+              - text: 원천징수
+              - img "새 게시글"
+            - menuitem "법인조정" [ref=f66e132] [cursor=pointer]
+            - menuitem "개인조정" [ref=f66e134] [cursor=pointer]
+            - menuitem "물류관리" [ref=f66e136] [cursor=pointer]
+            - menuitem "시스템새 게시글" [ref=f66e138] [cursor=pointer]:
+              - text: 시스템
+              - img "새 게시글"
+            - menuitem "OCT(원클릭택스)" [ref=f66e140] [cursor=pointer]
+            - menuitem "기타새 게시글" [ref=f66e142] [cursor=pointer]:
+              - text: 기타
+              - img "새 게시글"
+            - menuitem "주요문의사항(FAQ)" [ref=f66e144] [cursor=pointer]
+            - menuitem "세무사랑 업데이트새 게시글" [ref=f66e146] [cursor=pointer]:
+              - text: 세무사랑 업데이트
+              - img "새 게시글"
+            - menuitem "프로그램구입문의 새 게시글" [ref=f66e148] [cursor=pointer]:
+              - text: 프로그램구입문의
+              - img "새 게시글"
+            - menuitem "뉴젠에듀" [ref=f66e150] [cursor=pointer]
+            - menuitem "(구)VVIP 검색하기" [ref=f66e152] [cursor=pointer]
+          - strong [ref=f66e154]: 묻고답하기(모든회원)
+          - list [ref=f66e155]:
+            - menuitem "세무사랑의 정석 질문게시판" [ref=f66e156] [cursor=pointer]
+            - menuitem "[액셀활용팁 및 Q&A]" [ref=f66e157] [cursor=pointer]
+            - menuitem "무엇이든 질문새 게시글" [ref=f66e158] [cursor=pointer]:
+              - text: 무엇이든 질문
+              - img "새 게시글"
+            - menuitem "원천/4대보험새 게시글" [ref=f66e159] [cursor=pointer]:
+              - text: 원천/4대보험
+              - img "새 게시글"
+            - menuitem "부가세&소득세&법인세새 게시글" [ref=f66e160] [cursor=pointer]:
+              - text: 부가세&소득세&법인세
+              - img "새 게시글"
+          - strong [ref=f66e162]: 회원궁금증(모든회원)
+          - list [ref=f66e163]:
+            - menuitem "월별 주요신고 TIP" [ref=f66e164] [cursor=pointer]
+            - menuitem "신고실무 교육영상" [ref=f66e165] [cursor=pointer]
+          - strong [ref=f66e167]: 소식통(모든회원)
+          - list [ref=f66e168]:
+            - menuitem "공지사항" [ref=f66e169] [cursor=pointer]
+            - menuitem "세무일정 & 안내 새 게시글" [ref=f66e170] [cursor=pointer]:
+              - text: 세무일정 & 안내
+              - img "새 게시글"
+            - menuitem "이벤트" [ref=f66e171] [cursor=pointer]
+            - menuitem "세무사랑 꿀팁 알리기" [ref=f66e173] [cursor=pointer]
+            - menuitem "플랫폼세무사회 활용 사례" [ref=f66e175] [cursor=pointer]
+            - menuitem "플랫폼세무사회 개선 제안새 게시글" [ref=f66e177] [cursor=pointer]:
+              - text: 플랫폼세무사회 개선 제안
+              - img "새 게시글"
+            - menuitem "당첨자 발표" [ref=f66e179] [cursor=pointer]
+          - strong [ref=f66e181]: 지식공유(모든회원)
+          - list [ref=f66e182]:
+            - menuitem "업무 Tip & Tech" [ref=f66e183] [cursor=pointer]
+            - menuitem "업무서식 공유" [ref=f66e184] [cursor=pointer]
+            - menuitem "주요신고 FAQ" [ref=f66e185] [cursor=pointer]
+            - menuitem "세무사랑 유용한 TIP" [ref=f66e186] [cursor=pointer]
+            - menuitem "노무정보" [ref=f66e187] [cursor=pointer]
+          - strong [ref=f66e189]: 배움터(모든회원)
+          - list [ref=f66e190]:
+            - menuitem "초보Part" [ref=f66e191] [cursor=pointer]
+            - menuitem "회계Part" [ref=f66e192] [cursor=pointer]
+            - menuitem "결산part새 게시글" [ref=f66e193] [cursor=pointer]:
+              - text: 결산part
+              - img "새 게시글"
+            - menuitem "원천/4대보험Part" [ref=f66e194] [cursor=pointer]
+            - menuitem "부가가치세Part" [ref=f66e195] [cursor=pointer]
+            - menuitem "소득세part" [ref=f66e196] [cursor=pointer]
+            - menuitem "법인세Part" [ref=f66e197] [cursor=pointer]
+            - menuitem "세무사랑part" [ref=f66e198] [cursor=pointer]
+          - button "자격시험 & 교육일정 그룹펴기" [ref=f66e200] [cursor=pointer]:
+            - strong [ref=f66e201]: 자격시험 & 교육일정
+            - generic [ref=f66e202]: 그룹펴기
+          - strong [ref=f66e204]: 세무사랑 연동 세무포털
+          - list [ref=f66e205]:
+            - menuitem "한국세무사회전산법인" [ref=f66e206] [cursor=pointer]
+            - menuitem "세무라인(업무효율화)" [ref=f66e207] [cursor=pointer]
+          - strong [ref=f66e209]: 커뮤니티(모든회원)
+          - list [ref=f66e210]:
+            - menuitem "자유게시판" [ref=f66e211] [cursor=pointer]
+            - menuitem "유머·이슈·사용후기" [ref=f66e212] [cursor=pointer]
+            - menuitem "카페관련 건의사항" [ref=f66e213] [cursor=pointer]
+          - strong [ref=f66e215]: 링크
+          - list [ref=f66e216]:
+            - menuitem "홈택스" [ref=f66e217] [cursor=pointer]
+            - menuitem "국세청" [ref=f66e218] [cursor=pointer]
+            - menuitem "한국표준산업분류표" [ref=f66e219] [cursor=pointer]
+            - menuitem "주요 세법 개정내용" [ref=f66e220] [cursor=pointer]
+            - menuitem "세무서식" [ref=f66e221] [cursor=pointer]
+            - menuitem "무료세무상담(한국세무사회)" [ref=f66e222] [cursor=pointer]
+            - menuitem "전산세무회계자격시험" [ref=f66e223] [cursor=pointer]
+            - menuitem "세무사랑Pro" [ref=f66e224] [cursor=pointer]
+            - menuitem "한국세무사회전산법인" [ref=f66e225] [cursor=pointer]
+            - menuitem "뉴젠솔루션" [ref=f66e226] [cursor=pointer]
+          - strong [ref=f66e228]: 이전 메뉴
+          - list [ref=f66e229]:
+            - menuitem "세무사랑 AI 자동조정 활용(~3/31)" [ref=f66e231] [cursor=pointer]
+            - menuitem "[종료]득템이벤트 인증샷" [ref=f66e233] [cursor=pointer]
+            - menuitem "[종료]나만의 세무사랑Pro 활용노트" [ref=f66e235] [cursor=pointer]
+            - menuitem "[종료]옥에 티를 찾아라!" [ref=f66e237] [cursor=pointer]
+            - menuitem "[종료]세무사랑Pro 새내기 모여라!" [ref=f66e239] [cursor=pointer]
+            - menuitem "[종료]세무사랑 행복 추첨 이벤트" [ref=f66e241] [cursor=pointer]
+            - menuitem "출석체크" [ref=f66e243] [cursor=pointer]
+        - link "카페탈퇴하기" [ref=f66e245] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f66e246]:
+        - generic [ref=f66e248]:
+          - button "전체기간" [ref=f66e251] [cursor=pointer]
+          - button "법인조정" [ref=f66e254] [cursor=pointer]
+          - button "글 + 댓글" [ref=f66e257] [cursor=pointer]
+          - generic [ref=f66e258]:
+            - textbox "검색어를 입력해주세요" [ref=f66e259]: 통합고용 개정
+            - button "검색" [ref=f66e260] [cursor=pointer]
+          - button "상세검색 내용 닫기" [ref=f66e261] [cursor=pointer]:
+            - text: 상세검색
+            - generic [ref=f66e262]: 내용 닫기
+        - generic [ref=f66e264]:
+          - strong [ref=f66e265]: 통합고용 개정
+          - generic [ref=f66e266]:
+            - emphasis [ref=f66e267]: 키워드로 쓴 글
+            - generic [ref=f66e268]:
+              - checkbox "등록" [ref=f66e269]
+              - generic [ref=f66e270] [cursor=pointer]: 등록
+        - generic [ref=f66e272]:
+          - button "전체 게시글" [ref=f66e275] [cursor=pointer]
+          - generic [ref=f66e276]:
+            - button "최신순" [ref=f66e279] [cursor=pointer]
+            - button "제목만 보기" [ref=f66e282] [cursor=pointer]
+            - button "15개씩" [ref=f66e285] [cursor=pointer]
+        - generic [ref=f66e286]: 로딩중...
+    - contentinfo [ref=f66e293]:
+      - heading "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [level=2] [ref=f66e294]
+      - link "https://cafe.naver.com/semusarangkclep" [ref=f66e295] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+      - link "NAVER 카페" [ref=f66e296] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+  - alert [ref=f66e298]

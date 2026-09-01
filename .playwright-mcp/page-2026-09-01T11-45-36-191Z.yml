@@ -1,0 +1,29 @@
+- generic [active] [ref=f37e1]:
+  - generic [ref=f37e2]:
+    - banner [ref=f37e3]:
+      - heading [level=1] [ref=f37e4]:
+        - link [ref=f37e5] [cursor=pointer]:
+          - /url: https://www.naver.com
+          - img "네이버" [ref=f37e6]
+      - navigation [ref=f37e7]:
+        - link "네이버홈" [ref=f37e8] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - link "네이버 고객센터" [ref=f37e9] [cursor=pointer]:
+          - /url: http://help.naver.com/
+    - main [ref=f37e10]:
+      - generic [ref=f37e12]:
+        - generic [ref=f37e13]:
+          - strong [ref=f37e14]: 페이지를 찾을 수 없습니다
+          - paragraph [ref=f37e15]: 입력된 주소가 정확하지 않거나페이지가 삭제되었을 수 있습니다.주소를 다시 확인해주세요.
+        - generic [ref=f37e16]:
+          - link "이전 페이지" [ref=f37e17] [cursor=pointer]:
+            - /url: ""
+          - link "네이버 홈" [ref=f37e18] [cursor=pointer]:
+            - /url: https://www.naver.com
+    - contentinfo [ref=f37e19]:
+      - generic [ref=f37e20]:
+        - text: Copyright ©
+        - link "NAVER Corp." [ref=f37e21] [cursor=pointer]:
+          - /url: http://www.navercorp.com
+        - text: All Rights Reserved.
+  - alert [ref=f37e22]

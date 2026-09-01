@@ -1,0 +1,66 @@
+- generic [active] [ref=f100e1]:
+  - generic [ref=f100e3]:
+    - banner [ref=f100e5]:
+      - generic [ref=f100e6]:
+        - link [ref=f100e7] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - generic [ref=f100e8]:
+          - link "카페홈" [ref=f100e10] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com
+          - link "이웃" [ref=f100e12] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/home/town
+          - button "가입카페" [ref=f100e14] [cursor=pointer]
+          - link "새글" [ref=f100e16] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com/ca-fe/home/feed
+          - button "내소식" [ref=f100e18] [cursor=pointer]
+          - button "채팅" [ref=f100e20] [cursor=pointer]
+      - link [ref=f100e23] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+        - img "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [ref=f100e24]
+    - generic [ref=f100e25]:
+      - complementary [ref=f100e27]:
+        - generic [ref=f100e29]:
+          - tablist [ref=f100e31]:
+            - tab "카페정보" [selected] [ref=f100e32] [cursor=pointer]
+            - tab "나의활동" [ref=f100e33] [cursor=pointer]
+          - tabpanel [ref=f100e34]:
+            - generic [ref=f100e36]:
+              - link [ref=f100e38] [cursor=pointer]:
+                - /url: https://cafe.naver.com/semusarangkclep
+                - img "카페아이콘" [ref=f100e40]
+              - generic [ref=f100e41]:
+                - generic [ref=f100e42]:
+                  - link "카페지기" [ref=f100e43] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/members/4Jvvm0TRuKYQ9UzXmIrxe4pzbmZN0dhF0OXUIUa4eY8
+                  - emphasis [ref=f100e44]: 매니저
+                - link "2017.09.22. 개설" [ref=f100e46] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/history
+                - link "카페소개" [ref=f100e48] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/CafeProfileView.nhn?clubid=29179359
+            - list [ref=f100e50]:
+              - listitem [ref=f100e51]:
+                - link [ref=f100e52] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/ranking
+                  - strong [ref=f100e53]: 카페등급
+                  - emphasis [ref=f100e55]: 열매1단계
+              - listitem [ref=f100e56]:
+                - button "카페멤버수 41,859" [ref=f100e57] [cursor=pointer]:
+                  - generic: 카페멤버수
+                  - emphasis [ref=f100e59]: 41,859
+                - link "초대" [ref=f100e60] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/semusarangkclep?iframe_url=/CafeInviteCheck.nhn?m=check&clubid=29179359
+        - button [ref=f100e62] [cursor=pointer]
+        - button "카페 채팅" [ref=f100e64] [cursor=pointer]
+        - generic [ref=f100e66]:
+          - textbox "카페글 검색어 입력" [ref=f100e67]
+          - button "검색" [ref=f100e68] [cursor=pointer]
+        - complementary [ref=f100e69]
+      - generic:
+        - main
+    - contentinfo [ref=f100e80]:
+      - heading "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [level=2] [ref=f100e81]
+      - link "https://cafe.naver.com/semusarangkclep" [ref=f100e82] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+      - link "NAVER 카페" [ref=f100e83] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+  - alert [ref=f100e85]

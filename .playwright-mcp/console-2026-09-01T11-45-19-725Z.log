@@ -1,0 +1,2 @@
+[    1952ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cafe.naver.com/f-e/cafes/29179359/menus/undefined/scripts/ntm_1c17953995e7undefined.js:0
+[   11832ms] [LOG] Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm @ https://ca-fe.pstatic.net/pc/_next/static/chunks/25111-8a41de27bd77e41c.js:0

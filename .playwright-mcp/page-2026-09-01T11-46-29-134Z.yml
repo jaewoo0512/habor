@@ -1,0 +1,802 @@
+- generic [active] [ref=f59e1]:
+  - generic [ref=f59e3]:
+    - banner [ref=f59e5]:
+      - generic [ref=f59e6]:
+        - link [ref=f59e7] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - generic [ref=f59e8]:
+          - link "카페홈" [ref=f59e10] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com
+          - link "이웃" [ref=f59e12] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/home/town
+          - button "가입카페" [ref=f59e14] [cursor=pointer]
+          - link "새글" [ref=f59e16] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com/ca-fe/home/feed
+          - button "내소식" [ref=f59e18] [cursor=pointer]
+          - button "채팅" [ref=f59e20] [cursor=pointer]
+          - generic [ref=f59e22]:
+            - strong [ref=f59e23]: 사용자 링크
+            - list [ref=f59e24]:
+              - listitem [ref=f59e25]:
+                - link "btax1.. 내정보 보기" [ref=f59e27] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=f59e28]: btax1..
+                  - emphasis [ref=f59e29]: 내정보 보기
+              - listitem [ref=f59e30]:
+                - link "네이버톡 새 창 알림" [ref=f59e31] [cursor=pointer]:
+                  - /url: https://talks.naver.com/?frm=pcgnb&anchor=&category=
+              - listitem [ref=f59e34]:
+                - link "서비스 더보기" [ref=f59e35] [cursor=pointer]:
+                  - /url: javascript:;
+      - link [ref=f59e40] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+        - img "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [ref=f59e41]
+    - generic [ref=f59e42]:
+      - complementary [ref=f59e44]:
+        - generic [ref=f59e46]:
+          - tablist [ref=f59e48]:
+            - tab "카페정보" [selected] [ref=f59e49] [cursor=pointer]
+            - tab "나의활동" [ref=f59e50] [cursor=pointer]
+          - tabpanel [ref=f59e51]:
+            - generic [ref=f59e53]:
+              - link [ref=f59e55] [cursor=pointer]:
+                - /url: https://cafe.naver.com/semusarangkclep
+                - img "카페아이콘" [ref=f59e57]
+              - generic [ref=f59e58]:
+                - generic [ref=f59e59]:
+                  - link "카페지기" [ref=f59e60] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/members/4Jvvm0TRuKYQ9UzXmIrxe4pzbmZN0dhF0OXUIUa4eY8
+                  - emphasis [ref=f59e61]: 매니저
+                - link "2017.09.22. 개설" [ref=f59e63] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/history
+                - link "카페소개" [ref=f59e65] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/CafeProfileView.nhn?clubid=29179359
+            - list [ref=f59e67]:
+              - listitem [ref=f59e68]:
+                - link [ref=f59e69] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/ranking
+                  - strong [ref=f59e70]: 카페등급
+                  - emphasis [ref=f59e72]: 열매1단계
+              - listitem [ref=f59e73]:
+                - button "카페멤버수 41,858 멤버목록 비공개" [ref=f59e74] [cursor=pointer]:
+                  - generic [ref=f59e75]: 카페멤버수
+                  - emphasis [ref=f59e77]:
+                    - text: 41,858
+                    - img "멤버목록 비공개"
+                - link "초대" [ref=f59e78] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/semusarangkclep?iframe_url=/CafeInviteCheck.nhn?m=check&clubid=29179359
+        - button "카페 글쓰기" [ref=f59e80] [cursor=pointer]
+        - button "카페 채팅 NEW" [ref=f59e82] [cursor=pointer]:
+          - text: 카페 채팅
+          - img "NEW"
+        - generic [ref=f59e84]:
+          - textbox "카페글 검색어 입력" [ref=f59e85]
+          - button "검색" [ref=f59e86] [cursor=pointer]
+        - generic [ref=f59e87]:
+          - button "즐겨찾는 게시판 그룹펴기" [ref=f59e89] [cursor=pointer]:
+            - strong [ref=f59e90]: 즐겨찾는 게시판
+            - generic [ref=f59e91]: 그룹펴기
+          - menu [ref=f59e92]:
+            - menuitem "전체글보기" [ref=f59e93] [cursor=pointer]
+            - generic [ref=f59e94]: 54,957
+            - menuitem "인기글새 게시글" [ref=f59e95] [cursor=pointer]:
+              - text: 인기글
+              - img "새 게시글"
+            - menuitem "카페지식활동" [ref=f59e96] [cursor=pointer]
+          - strong [ref=f59e98]: 출입구
+          - list [ref=f59e99]:
+            - menuitem "출석체크새 게시글" [ref=f59e100] [cursor=pointer]:
+              - text: 출석체크
+              - img "새 게시글"
+            - menuitem "가입소식새 게시글" [ref=f59e101] [cursor=pointer]:
+              - text: 가입소식
+              - img "새 게시글"
+            - menuitem "가입인사" [ref=f59e102] [cursor=pointer]
+            - menuitem "일반등업요청(일반->모범)" [ref=f59e103] [cursor=pointer]
+          - strong [ref=f59e105]: 세무사랑Pro 관련 소식지
+          - list [ref=f59e106]:
+            - menuitem "조덕희세무사의 활용노트" [ref=f59e107] [cursor=pointer]
+            - menuitem "이문희세무사의 마스터클래스" [ref=f59e108] [cursor=pointer]
+            - menuitem "플랫폼세무사회 100% 활용하기" [ref=f59e109] [cursor=pointer]
+            - menuitem "세무사님들의 기고문 모음" [ref=f59e110] [cursor=pointer]
+            - menuitem "세무사랑 관련 신문 모음" [ref=f59e111] [cursor=pointer]
+            - menuitem "★세·알·고★" [ref=f59e112] [cursor=pointer]
+            - menuitem "세알고유튜브(크롬추천)" [ref=f59e114] [cursor=pointer]
+          - strong [ref=f59e116]: 프로그램문의(누구나답변가능)
+          - list [ref=f59e117]:
+            - menuitem "★VVIP(프로그램)멤버등업 (아이디등록)새 게시글" [ref=f59e119] [cursor=pointer]:
+              - text: ★VVIP(프로그램)멤버등업 (아이디등록)
+              - img "새 게시글"
+            - menuitem "↑등업시 꼭 스텝만보기(비밀글) 클릭~^^" [ref=f59e121] [cursor=pointer]
+            - menuitem "★★VVIP게시판 이용전 필독!!!!" [ref=f59e122] [cursor=pointer]
+            - menuitem "회계관리새 게시글" [ref=f59e124] [cursor=pointer]:
+              - text: 회계관리
+              - img "새 게시글"
+            - menuitem "부가가치세" [ref=f59e126] [cursor=pointer]
+            - menuitem "V-BOT(검증)" [ref=f59e128] [cursor=pointer]
+            - menuitem "원천징수새 게시글" [ref=f59e130] [cursor=pointer]:
+              - text: 원천징수
+              - img "새 게시글"
+            - menuitem "법인조정" [ref=f59e132] [cursor=pointer]
+            - menuitem "개인조정" [ref=f59e134] [cursor=pointer]
+            - menuitem "물류관리" [ref=f59e136] [cursor=pointer]
+            - menuitem "시스템새 게시글" [ref=f59e138] [cursor=pointer]:
+              - text: 시스템
+              - img "새 게시글"
+            - menuitem "OCT(원클릭택스)" [ref=f59e140] [cursor=pointer]
+            - menuitem "기타새 게시글" [ref=f59e142] [cursor=pointer]:
+              - text: 기타
+              - img "새 게시글"
+            - menuitem "주요문의사항(FAQ)" [ref=f59e144] [cursor=pointer]
+            - menuitem "세무사랑 업데이트새 게시글" [ref=f59e146] [cursor=pointer]:
+              - text: 세무사랑 업데이트
+              - img "새 게시글"
+            - menuitem "프로그램구입문의 새 게시글" [ref=f59e148] [cursor=pointer]:
+              - text: 프로그램구입문의
+              - img "새 게시글"
+            - menuitem "뉴젠에듀" [ref=f59e150] [cursor=pointer]
+            - menuitem "(구)VVIP 검색하기" [ref=f59e152] [cursor=pointer]
+          - strong [ref=f59e154]: 묻고답하기(모든회원)
+          - list [ref=f59e155]:
+            - menuitem "세무사랑의 정석 질문게시판" [ref=f59e156] [cursor=pointer]
+            - menuitem "[액셀활용팁 및 Q&A]" [ref=f59e157] [cursor=pointer]
+            - menuitem "무엇이든 질문새 게시글" [ref=f59e158] [cursor=pointer]:
+              - text: 무엇이든 질문
+              - img "새 게시글"
+            - menuitem "원천/4대보험새 게시글" [ref=f59e159] [cursor=pointer]:
+              - text: 원천/4대보험
+              - img "새 게시글"
+            - menuitem "부가세&소득세&법인세새 게시글" [ref=f59e160] [cursor=pointer]:
+              - text: 부가세&소득세&법인세
+              - img "새 게시글"
+          - strong [ref=f59e162]: 회원궁금증(모든회원)
+          - list [ref=f59e163]:
+            - menuitem "월별 주요신고 TIP" [ref=f59e164] [cursor=pointer]
+            - menuitem "신고실무 교육영상" [ref=f59e165] [cursor=pointer]
+          - strong [ref=f59e167]: 소식통(모든회원)
+          - list [ref=f59e168]:
+            - menuitem "공지사항" [ref=f59e169] [cursor=pointer]
+            - menuitem "세무일정 & 안내 새 게시글" [ref=f59e170] [cursor=pointer]:
+              - text: 세무일정 & 안내
+              - img "새 게시글"
+            - menuitem "이벤트" [ref=f59e171] [cursor=pointer]
+            - menuitem "세무사랑 꿀팁 알리기" [ref=f59e173] [cursor=pointer]
+            - menuitem "플랫폼세무사회 활용 사례" [ref=f59e175] [cursor=pointer]
+            - menuitem "플랫폼세무사회 개선 제안새 게시글" [ref=f59e177] [cursor=pointer]:
+              - text: 플랫폼세무사회 개선 제안
+              - img "새 게시글"
+            - menuitem "당첨자 발표" [ref=f59e179] [cursor=pointer]
+          - strong [ref=f59e181]: 지식공유(모든회원)
+          - list [ref=f59e182]:
+            - menuitem "업무 Tip & Tech" [ref=f59e183] [cursor=pointer]
+            - menuitem "업무서식 공유" [ref=f59e184] [cursor=pointer]
+            - menuitem "주요신고 FAQ" [ref=f59e185] [cursor=pointer]
+            - menuitem "세무사랑 유용한 TIP" [ref=f59e186] [cursor=pointer]
+            - menuitem "노무정보" [ref=f59e187] [cursor=pointer]
+          - strong [ref=f59e189]: 배움터(모든회원)
+          - list [ref=f59e190]:
+            - menuitem "초보Part" [ref=f59e191] [cursor=pointer]
+            - menuitem "회계Part" [ref=f59e192] [cursor=pointer]
+            - menuitem "결산part새 게시글" [ref=f59e193] [cursor=pointer]:
+              - text: 결산part
+              - img "새 게시글"
+            - menuitem "원천/4대보험Part" [ref=f59e194] [cursor=pointer]
+            - menuitem "부가가치세Part" [ref=f59e195] [cursor=pointer]
+            - menuitem "소득세part" [ref=f59e196] [cursor=pointer]
+            - menuitem "법인세Part" [ref=f59e197] [cursor=pointer]
+            - menuitem "세무사랑part" [ref=f59e198] [cursor=pointer]
+          - button "자격시험 & 교육일정 그룹펴기" [ref=f59e200] [cursor=pointer]:
+            - strong [ref=f59e201]: 자격시험 & 교육일정
+            - generic [ref=f59e202]: 그룹펴기
+          - strong [ref=f59e204]: 세무사랑 연동 세무포털
+          - list [ref=f59e205]:
+            - menuitem "한국세무사회전산법인" [ref=f59e206] [cursor=pointer]
+            - menuitem "세무라인(업무효율화)" [ref=f59e207] [cursor=pointer]
+          - strong [ref=f59e209]: 커뮤니티(모든회원)
+          - list [ref=f59e210]:
+            - menuitem "자유게시판" [ref=f59e211] [cursor=pointer]
+            - menuitem "유머·이슈·사용후기" [ref=f59e212] [cursor=pointer]
+            - menuitem "카페관련 건의사항" [ref=f59e213] [cursor=pointer]
+          - strong [ref=f59e215]: 링크
+          - list [ref=f59e216]:
+            - menuitem "홈택스" [ref=f59e217] [cursor=pointer]
+            - menuitem "국세청" [ref=f59e218] [cursor=pointer]
+            - menuitem "한국표준산업분류표" [ref=f59e219] [cursor=pointer]
+            - menuitem "주요 세법 개정내용" [ref=f59e220] [cursor=pointer]
+            - menuitem "세무서식" [ref=f59e221] [cursor=pointer]
+            - menuitem "무료세무상담(한국세무사회)" [ref=f59e222] [cursor=pointer]
+            - menuitem "전산세무회계자격시험" [ref=f59e223] [cursor=pointer]
+            - menuitem "세무사랑Pro" [ref=f59e224] [cursor=pointer]
+            - menuitem "한국세무사회전산법인" [ref=f59e225] [cursor=pointer]
+            - menuitem "뉴젠솔루션" [ref=f59e226] [cursor=pointer]
+          - strong [ref=f59e228]: 이전 메뉴
+          - list [ref=f59e229]:
+            - menuitem "세무사랑 AI 자동조정 활용(~3/31)" [ref=f59e231] [cursor=pointer]
+            - menuitem "[종료]득템이벤트 인증샷" [ref=f59e233] [cursor=pointer]
+            - menuitem "[종료]나만의 세무사랑Pro 활용노트" [ref=f59e235] [cursor=pointer]
+            - menuitem "[종료]옥에 티를 찾아라!" [ref=f59e237] [cursor=pointer]
+            - menuitem "[종료]세무사랑Pro 새내기 모여라!" [ref=f59e239] [cursor=pointer]
+            - menuitem "[종료]세무사랑 행복 추첨 이벤트" [ref=f59e241] [cursor=pointer]
+            - menuitem "출석체크" [ref=f59e243] [cursor=pointer]
+        - link "카페탈퇴하기" [ref=f59e245] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f59e246]:
+        - generic [ref=f59e250]:
+          - heading "법인조정" [level=3] [ref=f59e251]
+          - button "즐겨찾는 게시판 설정" [ref=f59e252] [cursor=pointer]
+        - generic [ref=f59e256]:
+          - generic [ref=f59e258]:
+            - emphasis [ref=f59e259]: 새글 구독
+            - generic [ref=f59e261]:
+              - checkbox "등록" [ref=f59e262]
+              - generic [ref=f59e263] [cursor=pointer]: 등록
+          - generic [ref=f59e266]:
+            - checkbox "공지 숨기기" [ref=f59e267]
+            - generic [ref=f59e268]: 공지 숨기기
+          - generic [ref=f59e269]:
+            - button "카드형" [ref=f59e270] [cursor=pointer]
+            - button "앨범형" [ref=f59e272] [cursor=pointer]
+            - button "목록형" [ref=f59e274] [cursor=pointer]
+          - button "15개씩" [ref=f59e278] [cursor=pointer]
+        - table "게시글 목록" [ref=f59e280]:
+          - caption:
+            - generic [ref=f59e281]: 게시글 목록
+          - rowgroup [ref=f59e289]:
+            - row [ref=f59e290]:
+              - columnheader "제목" [ref=f59e291]
+              - columnheader "작성자" [ref=f59e292]
+              - columnheader "작성일" [ref=f59e293]
+              - columnheader "조회수" [ref=f59e294]
+              - columnheader [ref=f59e295]:
+                - button "좋아요 많은 순서로 보기 선택" [ref=f59e296] [cursor=pointer]:
+                  - text: 좋아요
+                  - generic [ref=f59e297]: 많은 순서로 보기 선택
+          - rowgroup [ref=f59e298]:
+            - row [ref=f59e299]:
+              - cell [ref=f59e300]:
+                - emphasis [ref=f59e301]:
+                  - strong [ref=f59e302]: 필독
+              - cell [ref=f59e303]:
+                - link "[이벤트] 플랫폼세무사회 기능 개선제안 이벤트 안내" [ref=f59e306] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63039?boardtype=L&menuid=132&referrerAllArticles=false
+              - cell [ref=f59e307]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e309] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e310]: "멤버등급 : 매니저"
+              - cell "2026.05.21." [ref=f59e312]
+              - cell "224" [ref=f59e313]
+              - cell "0" [ref=f59e314]
+            - row [ref=f59e315]:
+              - cell [ref=f59e316]:
+                - emphasis [ref=f59e317]:
+                  - strong [ref=f59e318]: 필독
+              - cell [ref=f59e319]:
+                - generic [ref=f59e321]:
+                  - link "[이벤트] 활동보상이벤트&꿀팁이벤트 경품 변경 안내 (2026년도.Ver)" [ref=f59e322] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62956?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [12]" [ref=f59e323] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62956?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e324]: 댓글수
+                    - text: "[12]"
+              - cell [ref=f59e325]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e327] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e328]: "멤버등급 : 매니저"
+              - cell "2026.05.19." [ref=f59e330]
+              - cell "146" [ref=f59e331]
+              - cell "0" [ref=f59e332]
+            - row [ref=f59e333]:
+              - cell [ref=f59e334]:
+                - emphasis [ref=f59e335]:
+                  - strong [ref=f59e336]: 공지
+              - cell "2026년 9월 세무일정 - 세무렙 새 게시글 있음" [ref=f59e337]:
+                - generic [ref=f59e339]:
+                  - link "2026년 9월 세무일정 - 세무렙" [ref=f59e340] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64577?boardtype=L&menuid=132&referrerAllArticles=false
+                  - emphasis [ref=f59e341]:
+                    - generic [ref=f59e342]: 새 게시글 있음
+              - cell [ref=f59e343]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e345] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e346]: "멤버등급 : 매니저"
+              - cell "13:32" [ref=f59e348]
+              - cell "40" [ref=f59e349]
+              - cell "0" [ref=f59e350]
+            - row [ref=f59e351]:
+              - cell [ref=f59e352]:
+                - emphasis [ref=f59e353]:
+                  - strong [ref=f59e354]: 공지
+              - cell [ref=f59e355]:
+                - link "2026년 8월 3주차 세무사랑꿀팁이벤트 당첨자 발표 - 세무렙 (주간당첨자)" [ref=f59e358] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64547?boardtype=L&menuid=132&referrerAllArticles=false
+              - cell [ref=f59e359]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e361] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e362]: "멤버등급 : 매니저"
+              - cell "2026.08.28." [ref=f59e364]
+              - cell "33" [ref=f59e365]
+              - cell "0" [ref=f59e366]
+            - row [ref=f59e367]:
+              - cell [ref=f59e368]:
+                - emphasis [ref=f59e369]:
+                  - strong [ref=f59e370]: 공지
+              - cell [ref=f59e371]:
+                - generic [ref=f59e373]:
+                  - link "2026년 8월 3주차 활동보상이벤트 당첨자 발표 - 세무렙 (주간당첨자)" [ref=f59e374] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64546?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [1]" [ref=f59e375] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64546?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e376]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e377]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e379] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e380]: "멤버등급 : 매니저"
+              - cell "2026.08.28." [ref=f59e382]
+              - cell "16" [ref=f59e383]
+              - cell "0" [ref=f59e384]
+            - row [ref=f59e385]:
+              - cell [ref=f59e386]:
+                - emphasis [ref=f59e387]:
+                  - strong [ref=f59e388]: 공지
+              - cell [ref=f59e389]:
+                - generic [ref=f59e391]:
+                  - link "[공지] 신고업무 오류 축소를 위한 세무사랑Pro 신고검증 기능 안내" [ref=f59e392] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64541?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [3]" [ref=f59e393] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64541?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e394]: 댓글수
+                    - text: "[3]"
+              - cell [ref=f59e395]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e397] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e398]: "멤버등급 : 매니저"
+              - cell "2026.08.28." [ref=f59e400]
+              - cell "75" [ref=f59e401]
+              - cell "0" [ref=f59e402]
+            - row [ref=f59e403]:
+              - cell [ref=f59e404]:
+                - emphasis [ref=f59e405]:
+                  - strong [ref=f59e406]: 공지
+              - cell [ref=f59e407]:
+                - generic [ref=f59e409]:
+                  - link "2026년 7월 세무사랑꿀팁이벤트 당첨자 발표 - 세무렙 (월간당첨자)" [ref=f59e410] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64422?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [1]" [ref=f59e411] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64422?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e412]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e413]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e415] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e416]: "멤버등급 : 매니저"
+              - cell "2026.08.14." [ref=f59e418]
+              - cell "40" [ref=f59e419]
+              - cell "0" [ref=f59e420]
+            - row [ref=f59e421]:
+              - cell [ref=f59e422]:
+                - emphasis [ref=f59e423]:
+                  - strong [ref=f59e424]: 공지
+              - cell [ref=f59e425]:
+                - generic [ref=f59e427]:
+                  - link "2026년 7월 활동보상이벤트 당첨자 발표 - 세무렙 (월간당첨자)" [ref=f59e428] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64421?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [3]" [ref=f59e429] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64421?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e430]: 댓글수
+                    - text: "[3]"
+              - cell [ref=f59e431]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e433] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e434]: "멤버등급 : 매니저"
+              - cell "2026.08.14." [ref=f59e436]
+              - cell "31" [ref=f59e437]
+              - cell "0" [ref=f59e438]
+            - row [ref=f59e439]:
+              - cell [ref=f59e440]:
+                - emphasis [ref=f59e441]:
+                  - strong [ref=f59e442]: 공지
+              - cell [ref=f59e443]:
+                - generic [ref=f59e445]:
+                  - link "[한국세무사회 공식] 플랫폼세무사회 4월 1일 GRAND OPEN 안내" [ref=f59e446] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/61646?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [1]" [ref=f59e447] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/61646?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e448]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e449]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e451] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e452]: "멤버등급 : 매니저"
+              - cell "2026.03.24." [ref=f59e454]
+              - cell "514" [ref=f59e455]
+              - cell "2" [ref=f59e456]
+            - row [ref=f59e457]:
+              - cell [ref=f59e458]:
+                - emphasis [ref=f59e459]:
+                  - strong [ref=f59e460]: 공지
+              - cell [ref=f59e461]:
+                - link "플랫폼세무사회 기능 개선제안 이벤트 당첨자 발표 - 세무렙" [ref=f59e464] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64352?boardtype=L&menuid=132&referrerAllArticles=false
+              - cell [ref=f59e465]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e467] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e468]: "멤버등급 : 매니저"
+              - cell "2026.08.06." [ref=f59e470]
+              - cell "97" [ref=f59e471]
+              - cell "1" [ref=f59e472]
+            - row [ref=f59e473]:
+              - cell [ref=f59e474]:
+                - emphasis [ref=f59e475]:
+                  - strong [ref=f59e476]: 공지
+              - cell [ref=f59e477]:
+                - link "2026 세제개편안 - 주요 핵심 개정 자료 안내" [ref=f59e480] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64323?boardtype=L&menuid=132&referrerAllArticles=false
+              - cell [ref=f59e481]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e483] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e484]: "멤버등급 : 매니저"
+              - cell "2026.08.05." [ref=f59e486]
+              - cell "274" [ref=f59e487]
+              - cell "8" [ref=f59e488]
+            - row [ref=f59e489]:
+              - cell [ref=f59e490]:
+                - emphasis [ref=f59e491]:
+                  - strong [ref=f59e492]: 공지
+              - cell [ref=f59e493]:
+                - generic [ref=f59e495]:
+                  - link "[2025최신판] 세무사랑Pro의 정석 교육영상 (세무/회계 전체)(88편, 교재포함)" [ref=f59e496] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/59121?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [11]" [ref=f59e497] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/59121?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e498]: 댓글수
+                    - text: "[11]"
+              - cell [ref=f59e499]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e501] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e502]: "멤버등급 : 매니저"
+              - cell "2025.11.21." [ref=f59e504]
+              - cell "2,128" [ref=f59e505]
+              - cell "16" [ref=f59e506]
+            - row [ref=f59e507]:
+              - cell [ref=f59e508]:
+                - emphasis [ref=f59e509]:
+                  - strong [ref=f59e510]: 공지
+              - cell [ref=f59e511]:
+                - link "[2025] 세무사랑Pro 초단기 실무완성 오프라인 교육영상 (세무/회계 전체)(8편, 교재포함)" [ref=f59e514] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/60198?boardtype=L&menuid=132&referrerAllArticles=false
+              - cell [ref=f59e515]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e517] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e518]: "멤버등급 : 매니저"
+              - cell "2026.01.27." [ref=f59e520]
+              - cell "527" [ref=f59e521]
+              - cell "5" [ref=f59e522]
+            - row [ref=f59e523]:
+              - cell [ref=f59e524]:
+                - emphasis [ref=f59e525]:
+                  - strong [ref=f59e526]: 공지
+              - cell [ref=f59e527]:
+                - link "[공지] 신규 서비스 - 플랫폼세무사회 기능 건의 게시판 이용 안내" [ref=f59e530] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/55644?boardtype=L&menuid=132&referrerAllArticles=false
+              - cell [ref=f59e531]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e533] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e534]: "멤버등급 : 매니저"
+              - cell "2025.04.14." [ref=f59e536]
+              - cell "321" [ref=f59e537]
+              - cell "2" [ref=f59e538]
+            - row [ref=f59e539]:
+              - cell [ref=f59e540]:
+                - emphasis [ref=f59e541]:
+                  - strong [ref=f59e542]: 공지
+              - cell [ref=f59e543]:
+                - generic [ref=f59e545]:
+                  - link "프로그램문의 게시판과 VVIP(프로그램)멤버 등급 안내 - 세무렙" [ref=f59e546] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/13908?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [123]" [ref=f59e547] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/13908?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e548]: 댓글수
+                    - text: "[123]"
+              - cell [ref=f59e549]:
+                - 'button "카페지기 멤버등급 : 매니저" [ref=f59e551] [cursor=pointer]':
+                  - text: 카페지기
+                  - generic [ref=f59e552]: "멤버등급 : 매니저"
+              - cell "2019.02.10." [ref=f59e554]
+              - cell "1.9만" [ref=f59e555]
+              - cell "11" [ref=f59e556]
+          - rowgroup [ref=f59e557]:
+            - row [ref=f59e558]:
+              - cell "64507" [ref=f59e559]
+              - cell [ref=f59e560]:
+                - generic [ref=f59e562]:
+                  - link "법인지방소득세 수정신고 전자제출은 언제쯤 가능할까요?" [ref=f59e563] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64507?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [1]" [ref=f59e564] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64507?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e565]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e566]:
+                - 'button "SASA 멤버등급 : VVIP멤버" [ref=f59e568] [cursor=pointer]':
+                  - text: SASA
+                  - generic [ref=f59e569]: "멤버등급 : VVIP멤버"
+              - cell "2026.08.26." [ref=f59e571]
+              - cell "38" [ref=f59e572]
+              - cell "0" [ref=f59e573]
+            - row [ref=f59e574]:
+              - cell "64474" [ref=f59e575]
+              - cell [ref=f59e576]:
+                - generic [ref=f59e578]:
+                  - link "법인조정] 성실신고 주요항목명세서 외화계좌 불러오기" [ref=f59e579] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64474?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e580] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64474?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e581]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e582]:
+                - 'button "한강김정림 멤버등급 : VVIP멤버" [ref=f59e584] [cursor=pointer]':
+                  - text: 한강김정림
+                  - generic [ref=f59e585]: "멤버등급 : VVIP멤버"
+              - cell "2026.08.21." [ref=f59e587]
+              - cell "52" [ref=f59e588]
+              - cell "0" [ref=f59e589]
+            - row [ref=f59e590]:
+              - cell "64441" [ref=f59e591]
+              - cell [ref=f59e592]:
+                - generic [ref=f59e594]:
+                  - link "법인세 중간예납 홈택스 신고오류" [ref=f59e595] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64441?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e596] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64441?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e597]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e598]:
+                - 'button "sell 멤버등급 : VVIP멤버" [ref=f59e600] [cursor=pointer]':
+                  - text: sell
+                  - generic [ref=f59e601]: "멤버등급 : VVIP멤버"
+              - cell "2026.08.18." [ref=f59e603]
+              - cell "159" [ref=f59e604]
+              - cell "0" [ref=f59e605]
+            - row [ref=f59e606]:
+              - cell "64387" [ref=f59e607]
+              - cell [ref=f59e608]:
+                - generic [ref=f59e610]:
+                  - link "법인카드 사용내역이랑 통장상의 법인카드 결재대금 (미지급금)이 차이가 나면 어떻게 정리하시나요?" [ref=f59e611] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64387?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [4]" [ref=f59e612] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64387?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e613]: 댓글수
+                    - text: "[4]"
+              - cell [ref=f59e614]:
+                - 'button "래빗 멤버등급 : VVIP멤버" [ref=f59e616] [cursor=pointer]':
+                  - text: 래빗
+                  - generic [ref=f59e617]: "멤버등급 : VVIP멤버"
+              - cell "2026.08.11." [ref=f59e619]
+              - cell "122" [ref=f59e620]
+              - cell "0" [ref=f59e621]
+            - row [ref=f59e622]:
+              - cell "64285" [ref=f59e623]
+              - cell [ref=f59e624]:
+                - generic [ref=f59e626]:
+                  - link "법인세 중간예납세액 조회는 세무사랑에서 지원 안되나요?" [ref=f59e627] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64285?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [4]" [ref=f59e628] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/64285?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e629]: 댓글수
+                    - text: "[4]"
+              - cell [ref=f59e630]:
+                - 'button "elel 멤버등급 : VVIP멤버" [ref=f59e632] [cursor=pointer]':
+                  - text: elel
+                  - generic [ref=f59e633]: "멤버등급 : VVIP멤버"
+              - cell "2026.08.03." [ref=f59e635]
+              - cell "347" [ref=f59e636]
+              - cell "1" [ref=f59e637]
+            - row [ref=f59e638]:
+              - cell "63766" [ref=f59e639]
+              - cell [ref=f59e640]:
+                - generic [ref=f59e642]:
+                  - link "배당소득 입력문의" [ref=f59e643] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63766?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [3]" [ref=f59e644] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63766?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e645]: 댓글수
+                    - text: "[3]"
+              - cell [ref=f59e646]:
+                - 'button "부기뱀 멤버등급 : VVIP멤버" [ref=f59e648] [cursor=pointer]':
+                  - text: 부기뱀
+                  - generic [ref=f59e649]: "멤버등급 : VVIP멤버"
+              - cell "2026.06.26." [ref=f59e651]
+              - cell "83" [ref=f59e652]
+              - cell "0" [ref=f59e653]
+            - row [ref=f59e654]:
+              - cell "63567" [ref=f59e655]
+              - cell [ref=f59e656]:
+                - generic [ref=f59e658]:
+                  - link "주식등변동상황명세서 밑에 회사 직인" [ref=f59e659] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63567?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [1]" [ref=f59e660] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63567?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e661]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e662]:
+                - 'button "텍스사라사 멤버등급 : VVIP멤버" [ref=f59e664] [cursor=pointer]':
+                  - text: 텍스사라사
+                  - generic [ref=f59e665]: "멤버등급 : VVIP멤버"
+              - cell "2026.06.15." [ref=f59e667]
+              - cell "83" [ref=f59e668]
+              - cell "1" [ref=f59e669]
+            - row [ref=f59e670]:
+              - cell "63362" [ref=f59e671]
+              - cell [ref=f59e672]:
+                - generic [ref=f59e674]:
+                  - link "세무조정계산서 전자책 파일 변환 오류" [ref=f59e675] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63362?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e676] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63362?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e677]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e678]:
+                - 'button "행복한세린이 멤버등급 : VVIP멤버" [ref=f59e680] [cursor=pointer]':
+                  - text: 행복한세린이
+                  - generic [ref=f59e681]: "멤버등급 : VVIP멤버"
+              - cell "2026.06.04." [ref=f59e683]
+              - cell "82" [ref=f59e684]
+              - cell "0" [ref=f59e685]
+            - row [ref=f59e686]:
+              - cell "63187" [ref=f59e687]
+              - cell [ref=f59e688]:
+                - generic [ref=f59e690]:
+                  - link "지방세 전자신고는 Shift+Click이 안 되네요. ㅠㅠ11번째 항목 \"세무대리인대리구분(C_AGENT)\"은(는) 공백일 수 없습니다.이 오류가 떠서 5개씩 체크해서 신고하려고 하는데 ㅜㅜ 한땀 한땀 해결 했습니다,," [ref=f59e691] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63187?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e692] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63187?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e693]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e694]:
+                - 'button "모라구 멤버등급 : VVIP멤버" [ref=f59e696] [cursor=pointer]':
+                  - text: 모라구
+                  - generic [ref=f59e697]: "멤버등급 : VVIP멤버"
+              - cell "2026.05.27." [ref=f59e699]
+              - cell "73" [ref=f59e700]
+              - cell "0" [ref=f59e701]
+            - row [ref=f59e702]:
+              - cell "63091" [ref=f59e703]
+              - cell [ref=f59e704]:
+                - generic [ref=f59e706]:
+                  - link "공익법인 보유부동산명세서 소재지 오류 확인부탁드립니다." [ref=f59e707] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63091?boardtype=L&menuid=132&referrerAllArticles=false
+                  - link "댓글수 [1]" [ref=f59e708] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/63091?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e709]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e710]:
+                - 'button "센스쟁이 멤버등급 : VVIP멤버" [ref=f59e712] [cursor=pointer]':
+                  - text: 센스쟁이
+                  - generic [ref=f59e713]: "멤버등급 : VVIP멤버"
+              - cell "2026.05.23." [ref=f59e715]
+              - cell "16" [ref=f59e716]
+              - cell "0" [ref=f59e717]
+            - row [ref=f59e718]:
+              - cell "62464" [ref=f59e719]
+              - cell [ref=f59e720]:
+                - generic [ref=f59e722]:
+                  - link "법인지방소득세 위택스 파일변환오류" [ref=f59e723] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62464?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e724] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62464?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e725]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e726]:
+                - 'button "와다디이 멤버등급 : VVIP멤버" [ref=f59e728] [cursor=pointer]':
+                  - text: 와다디이
+                  - generic [ref=f59e729]: "멤버등급 : VVIP멤버"
+              - cell "2026.04.30." [ref=f59e731]
+              - cell "69" [ref=f59e732]
+              - cell "0" [ref=f59e733]
+            - row [ref=f59e734]:
+              - cell "62381" [ref=f59e735]
+              - cell [ref=f59e736]:
+                - generic [ref=f59e738]:
+                  - link "법인지방소득세 기한후신고 위택스 오류 문의드립니다." [ref=f59e739] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62381?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e740] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62381?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e741]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e742]:
+                - 'button "말린 멤버등급 : VVIP멤버" [ref=f59e744] [cursor=pointer]':
+                  - text: 말린
+                  - generic [ref=f59e745]: "멤버등급 : VVIP멤버"
+              - cell "2026.04.23." [ref=f59e747]
+              - cell "62" [ref=f59e748]
+              - cell "0" [ref=f59e749]
+            - row [ref=f59e750]:
+              - cell "62380" [ref=f59e751]
+              - cell [ref=f59e752]:
+                - generic [ref=f59e754]:
+                  - link "고용현황 월수 관련해서 문의드립니다." [ref=f59e755] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62380?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [2]" [ref=f59e756] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62380?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e757]: 댓글수
+                    - text: "[2]"
+              - cell [ref=f59e758]:
+                - 'button "뚜뚜정 멤버등급 : VVIP멤버" [ref=f59e760] [cursor=pointer]':
+                  - text: 뚜뚜정
+                  - generic [ref=f59e761]: "멤버등급 : VVIP멤버"
+              - cell "2026.04.23." [ref=f59e763]
+              - cell "183" [ref=f59e764]
+              - cell "1" [ref=f59e765]
+            - row [ref=f59e766]:
+              - cell "62369" [ref=f59e767]
+              - cell [ref=f59e768]:
+                - generic [ref=f59e770]:
+                  - link "성실신고법인 세율 홈텍스 오류" [ref=f59e771] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62369?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [1]" [ref=f59e772] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62369?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e773]: 댓글수
+                    - text: "[1]"
+              - cell [ref=f59e774]:
+                - 'button "보라모네 멤버등급 : VVIP멤버" [ref=f59e776] [cursor=pointer]':
+                  - text: 보라모네
+                  - generic [ref=f59e777]: "멤버등급 : VVIP멤버"
+              - cell "2026.04.23." [ref=f59e779]
+              - cell "211" [ref=f59e780]
+              - cell "0" [ref=f59e781]
+            - row [ref=f59e782]:
+              - cell "62362" [ref=f59e783]
+              - cell [ref=f59e784]:
+                - generic [ref=f59e786]:
+                  - link "일괄출력시 지분율 표기 오류" [ref=f59e787] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62362?boardtype=L&menuid=132&referrerAllArticles=false
+                  - img "사진"
+                  - link "댓글수 [2]" [ref=f59e788] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/articles/62362?boardtype=L&menuid=132&referrerAllArticles=false&commentFocus=true
+                    - generic [ref=f59e789]: 댓글수
+                    - text: "[2]"
+              - cell [ref=f59e790]:
+                - 'button "다함세무법인 멤버등급 : VVIP멤버" [ref=f59e792] [cursor=pointer]':
+                  - text: 다함세무법인
+                  - generic [ref=f59e793]: "멤버등급 : VVIP멤버"
+              - cell "2026.04.22." [ref=f59e795]
+              - cell "45" [ref=f59e796]
+              - cell "0" [ref=f59e797]
+        - link "글쓰기" [ref=f59e801] [cursor=pointer]:
+          - /url: https://cafe.naver.com/ca-fe/cafes/29179359/menus/132/articles/write?boardType=L
+        - generic [ref=f59e803]:
+          - generic [ref=f59e804]:
+            - strong [ref=f59e805]: 페이징 이동
+            - button "1" [pressed] [ref=f59e806] [cursor=pointer]
+            - button "2" [ref=f59e807] [cursor=pointer]
+            - button "3" [ref=f59e808] [cursor=pointer]
+            - button "4" [ref=f59e809] [cursor=pointer]
+            - button "5" [ref=f59e810] [cursor=pointer]
+            - button "6" [ref=f59e811] [cursor=pointer]
+            - button "7" [ref=f59e812] [cursor=pointer]
+            - button "8" [ref=f59e813] [cursor=pointer]
+            - button "9" [ref=f59e814] [cursor=pointer]
+            - button "10" [ref=f59e815] [cursor=pointer]
+            - button "다음" [ref=f59e816] [cursor=pointer]
+          - generic [ref=f59e817]:
+            - button "전체기간" [ref=f59e820] [cursor=pointer]
+            - button "글 + 댓글" [ref=f59e823] [cursor=pointer]
+            - generic [ref=f59e824]:
+              - textbox "검색어를 입력해주세요" [ref=f59e825]
+              - button "검색" [ref=f59e826] [cursor=pointer]
+    - contentinfo [ref=f59e827]:
+      - heading "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [level=2] [ref=f59e828]
+      - link "https://cafe.naver.com/semusarangkclep" [ref=f59e829] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+      - link "NAVER 카페" [ref=f59e830] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+  - alert [ref=f59e832]

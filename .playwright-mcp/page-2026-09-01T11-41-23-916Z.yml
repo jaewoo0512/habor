@@ -1,0 +1,694 @@
+- generic [ref=e3]:
+  - generic:
+    - link "메인 메뉴로 바로가기" [ref=e4] [cursor=pointer]:
+      - /url: "#gnbMenu"
+    - link "본문 바로가기" [ref=e5] [cursor=pointer]:
+      - /url: "#mainContainer"
+    - link "웹 접근성이 좋은 모바일 웹에서 사용하겠습니까?" [ref=e6] [cursor=pointer]:
+      - /url: https://m.cafe.naver.com/
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - heading [level=1] [ref=e9]:
+        - link "NAVER" [ref=e10] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - link "카페" [ref=e12] [cursor=pointer]:
+          - /url: https://section.cafe.naver.com
+        - link "플리마켓" [ref=e15] [cursor=pointer]:
+          - /url: https://fleamarket.naver.com
+      - search [ref=e17]:
+        - textbox "원하는 카페, 글을 찾아보세요" [ref=e18]
+        - button "카페 검색 TIP" [ref=e19] [cursor=pointer]:
+          - img "Tip"
+        - button "자동완성 펼침" [ref=e20] [cursor=pointer]
+        - button "검색" [ref=e21] [cursor=pointer]
+      - generic [ref=e23]:
+        - strong [ref=e24]: 사용자 링크
+        - list [ref=e25]:
+          - listitem [ref=e26]:
+            - link "로그인" [ref=e27] [cursor=pointer]:
+              - /url: https://nid.naver.com/nidlogin.login
+          - listitem [ref=e31]:
+            - link "서비스 더보기" [ref=e32] [cursor=pointer]:
+              - /url: javascript:;
+    - generic [ref=e35]:
+      - generic [ref=e36]: 믿고 쓰는 중고거래, 지금 시작하세요
+      - link "플리마켓" [ref=e37] [cursor=pointer]:
+        - /url: https://fleamarket.naver.com
+  - main [ref=e39]:
+    - menu [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - link "카페홈" [ref=e43] [cursor=pointer]:
+            - /url: /ca-fe/home
+          - link "이웃 Beta (새 창에서 열림)" [ref=e45] [cursor=pointer]:
+            - /url: /ca-fe/home/town
+            - generic [ref=e46]: 이웃
+            - img "Beta"
+            - generic [ref=e47]: (새 창에서 열림)
+          - link "구독" [ref=e48] [cursor=pointer]:
+            - /url: /ca-fe/home/feed
+          - link "인기글 New" [ref=e50] [cursor=pointer]:
+            - /url: /ca-fe/home/cafe-hots
+            - generic [ref=e51]: 인기글
+            - img "New"
+          - link "내소식" [ref=e52] [cursor=pointer]:
+            - /url: /ca-fe/home/my-news
+          - link "채팅 (새 창에서 열림)" [ref=e55] [cursor=pointer]:
+            - /url: ""
+            - generic [ref=e56]: 채팅
+            - generic [ref=e57]: (새 창에서 열림)
+        - generic [ref=e58]:
+          - link "주제별 카페" [ref=e59] [cursor=pointer]:
+            - /url: /ca-fe/home/themes
+          - link "지역별 카페" [ref=e60] [cursor=pointer]:
+            - /url: /ca-fe/home/areas
+          - link "인기 팬카페" [ref=e61] [cursor=pointer]:
+            - /url: /ca-fe/home/fans
+          - link "대표 카페" [ref=e62] [cursor=pointer]:
+            - /url: /ca-fe/home/powers/popular
+          - link "카페 랭킹" [ref=e63] [cursor=pointer]:
+            - /url: /ca-fe/home/rankings
+      - generic [ref=e65]:
+        - button [ref=e66] [cursor=pointer]:
+          - img "네팔을 덮친 홍수, 도움이 필요해요" [ref=e67]
+        - button "배너 닫기" [ref=e68] [cursor=pointer]
+    - generic [ref=e69]:
+      - heading "카페홈" [level=3] [ref=e70]
+      - link [ref=e72] [cursor=pointer]:
+        - /url: https://naver.me/5QsJFnNo
+        - img "AI탭 홍보 (3)" [ref=e74]
+      - generic [ref=e75]:
+        - generic [ref=e76]:
+          - heading "🔥 인기글" [level=3] [ref=e77]
+          - generic [ref=e78]: 오후 7시 기준
+          - link "더보기" [ref=e79] [cursor=pointer]:
+            - /url: /ca-fe/home/cafe-hots
+        - generic [ref=e80]:
+          - link "🇻🇳나트랑7방‼️롯데마트쇼핑편‼️고래밥 좋아하시나요??🐳 오리온 마린보이 씨푸드 스낵 후기💙🧡 나트랑 도깨비 - 베트남 나트랑 자유여행,무이네,달랏,맛집,호텔 (새 창에서 열림)" [ref=e81] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=10070820&articleid=4216003&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjQyMTYwMDMsImlzc3VlZEF0IjoxNzg4MjYyODgzMDcwLCJjYWZlSWQiOjEwMDcwODIwfQ.o9WRJ_wYEU67y6RwSfMy89HD88PZf046xUOLKu_A7FQ
+            - generic [ref=e82]:
+              - strong [ref=e85]: 🇻🇳나트랑7방‼️롯데마트쇼핑편‼️고래밥 좋아하시나요??🐳 오리온 마린보이 씨푸드 스낵 후기💙🧡
+              - strong [ref=e86]: 나트랑 도깨비 - 베트남 나트랑 자유여행,무이네,달랏,맛집,호텔
+            - generic [ref=e87]: (새 창에서 열림)
+          - 'link "[🇫🇷 M. 므셰누아 & A. 불마 🌕] 🚨🔵 첼시, 마누 코네 영입 검토 중. 원래 첼시는 라민 카마라와 상당히 가까웠지만, 이젠 가능성은 많이 낮으며 코네로 시선을 돌림.❗️ We Are The Blues: 첼시 팬 포럼 (새 창에서 열림)" [ref=e88] [cursor=pointer]':
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=15448608&articleid=469046&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjQ2OTA0NiwiaXNzdWVkQXQiOjE3ODgyNjI4ODMwNzAsImNhZmVJZCI6MTU0NDg2MDh9.1OOU8WP9fcoTKx-yT_LR4fhh3I_vLi3fLgjE-aCAwdo
+            - generic [ref=e89]:
+              - strong [ref=e92]: "[🇫🇷 M. 므셰누아 & A. 불마 🌕] 🚨🔵 첼시, 마누 코네 영입 검토 중. 원래 첼시는 라민 카마라와 상당히 가까웠지만, 이젠 가능성은 많이 낮으며 코네로 시선을 돌림.❗️"
+              - strong [ref=e93]: "We Are The Blues: 첼시 팬 포럼"
+            - generic [ref=e94]: (새 창에서 열림)
+          - link "9월! 꼭 제주도를 가야하는 이유! [느영나영] 제주도여행 대표카페 제주맛집 렌터카 숙소 여행지도 (새 창에서 열림)" [ref=e95] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=10456178&articleid=2667019&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjI2NjcwMTksImlzc3VlZEF0IjoxNzg4MjYyODgzMDcwLCJjYWZlSWQiOjEwNDU2MTc4fQ.Tu_624TNId-0yNXxrAGOX3zxv6_sS43OLWZSvZx5mwI
+            - generic [ref=e96]:
+              - strong [ref=e99]: 9월! 꼭 제주도를 가야하는 이유!
+              - strong [ref=e100]: "[느영나영] 제주도여행 대표카페 제주맛집 렌터카 숙소 여행지도"
+            - generic [ref=e101]: (새 창에서 열림)
+        - generic [ref=e102]:
+          - link "공기압 중요성을 깨달았습니다 좋아요 9 댓글 22 비머베르크 BMW 동호회 (새 창에서 열림)" [ref=e105] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=25233466&articleid=1131826&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjExMzE4MjYsImlzc3VlZEF0IjoxNzg4MjYyODgzMDcwLCJjYWZlSWQiOjI1MjMzNDY2fQ.jMRicqMX790lmaYcRcLyJN-V2Cjkx88pUA8Y06MLYfk
+            - generic [ref=e106]:
+              - strong [ref=e107]: 공기압 중요성을 깨달았습니다
+              - generic [ref=e108]:
+                - generic [ref=e109]:
+                  - generic [ref=e110]:
+                    - generic [ref=e111]: 좋아요
+                    - text: "9"
+                  - generic [ref=e112]:
+                    - generic [ref=e113]: 댓글
+                    - text: "22"
+                - generic [ref=e114]: 비머베르크 BMW 동호회
+            - generic [ref=e118]: (새 창에서 열림)
+          - link "캠핑장에서 남겨온거 처리 하기!!!! 일명 짬처리!! 좋아요 24 댓글 109 캠핑퍼스트(초보캠핑) 8+ 개의 이미지 더보기 (새 창에서 열림)" [ref=e121] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=14358379&articleid=3389825&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjMzODk4MjUsImlzc3VlZEF0IjoxNzg4MjYyODgzMDcwLCJjYWZlSWQiOjE0MzU4Mzc5fQ.Gb-uEmk0132oiA6z5Qm7SboHDrpLozWjtzgpSUw5EWE
+            - generic [ref=e122]:
+              - strong [ref=e123]: 캠핑장에서 남겨온거 처리 하기!!!! 일명 짬처리!!
+              - generic [ref=e124]:
+                - generic [ref=e125]:
+                  - generic [ref=e126]:
+                    - generic [ref=e127]: 좋아요
+                    - text: "24"
+                  - generic [ref=e128]:
+                    - generic [ref=e129]: 댓글
+                    - text: "109"
+                - generic [ref=e130]: 캠핑퍼스트(초보캠핑)
+            - generic [ref=e134]:
+              - text: 8+
+              - generic [ref=e135]: 개의 이미지 더보기
+            - generic [ref=e136]: (새 창에서 열림)
+          - 'link "[파브리지오 로마노] 🚨 바르셀로나, 훌리안 알바레즈에게 1월이나 내년 여름에 이적 가능한 상태면 그 때도 다시 영입을 시도하겠다고 전달 좋아요 15 댓글 41 아스날리쉬[Arsenalish] : 아스날팬들의 집합체 (새 창에서 열림)" [ref=e139] [cursor=pointer]':
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=11643699&articleid=539007&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjUzOTAwNywiaXNzdWVkQXQiOjE3ODgyNjI4ODMwNzAsImNhZmVJZCI6MTE2NDM2OTl9.p4yE9kaVWIwnxtOYjAd4fTU42tTVICcm4FBe1XqVrFA
+            - generic [ref=e140]:
+              - strong [ref=e141]: "[파브리지오 로마노] 🚨 바르셀로나, 훌리안 알바레즈에게 1월이나 내년 여름에 이적 가능한 상태면 그 때도 다시 영입을 시도하겠다고 전달"
+              - generic [ref=e142]:
+                - generic [ref=e143]:
+                  - generic [ref=e144]:
+                    - generic [ref=e145]: 좋아요
+                    - text: "15"
+                  - generic [ref=e146]:
+                    - generic [ref=e147]: 댓글
+                    - text: "41"
+                - generic [ref=e148]: "아스날리쉬[Arsenalish] : 아스날팬들의 집합체"
+            - generic [ref=e152]: (새 창에서 열림)
+          - link "블랙 존버단 카페에 꽤 계시네요 ㄷㄷ 좋아요 27 댓글 56 아사모 - [240만명, 아이폰17, 아이패드, 애플워치, iOS26] (새 창에서 열림)" [ref=e155] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=12789486&articleid=9113216&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjkxMTMyMTYsImlzc3VlZEF0IjoxNzg4MjYyODgzMDcwLCJjYWZlSWQiOjEyNzg5NDg2fQ.5HhrpYN5cs93SGsLNUUx9zI1ULGzZmVlcwEaY9Iz7pg
+            - generic [ref=e156]:
+              - strong [ref=e157]: 블랙 존버단 카페에 꽤 계시네요 ㄷㄷ
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - generic [ref=e160]:
+                    - generic [ref=e161]: 좋아요
+                    - text: "27"
+                  - generic [ref=e162]:
+                    - generic [ref=e163]: 댓글
+                    - text: "56"
+                - generic [ref=e164]: 아사모 - [240만명, 아이폰17, 아이패드, 애플워치, iOS26]
+            - generic [ref=e168]: (새 창에서 열림)
+          - link "기운 빠지는 사람들은 다 똑같은 걸 하고 있대 좋아요 257 댓글 53 레몬테라스 [인테리어,리폼,DIY,요리,결혼,육아,커뮤니티] (새 창에서 열림)" [ref=e171] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=10298136&articleid=34990047&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtcG9wdWxhcg.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0OTkwMDQ3LCJpc3N1ZWRBdCI6MTc4ODI2Mjg4MzA3MCwiY2FmZUlkIjoxMDI5ODEzNn0.OwPboU0KbXZN9738ovFb5tiIXtR38FNqY5BD0wCD7Ps
+            - generic [ref=e172]:
+              - strong [ref=e173]: 기운 빠지는 사람들은 다 똑같은 걸 하고 있대
+              - generic [ref=e174]:
+                - generic [ref=e175]:
+                  - generic [ref=e176]:
+                    - generic [ref=e177]: 좋아요
+                    - text: "257"
+                  - generic [ref=e178]:
+                    - generic [ref=e179]: 댓글
+                    - text: "53"
+                - generic [ref=e180]: 레몬테라스 [인테리어,리폼,DIY,요리,결혼,육아,커뮤니티]
+            - generic [ref=e184]: (새 창에서 열림)
+      - generic [ref=e185]:
+        - generic [ref=e186]:
+          - heading [level=3] [ref=e187]:
+            - button "서초구 이웃 소식" [ref=e188] [cursor=pointer]
+          - link "더보기" [ref=e189] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/home/town?rcode=09650
+        - generic [ref=e190]:
+          - link "이웃 🌿무더웠던 더위가 한 풀 꺾여, 여름이 떠나고 있다는 것이 조금씩 느껴지는 데요. 이번 여름의 시간과 장소는 어떤 모습으로 남아있나요? 📷️아마 여러 형태의 사진 속에도 기록해두셨으리라 생각됩니다! 사진은 우리가 지나온 시간과 장소를 기록하고, 그 순간의 기억에 여운을 남깁니다. 🎨우리의 기억에 남은 장면들을 돌아보게끔 만드는 새로운 전시를 소개해드리려고 합니다. 이번 전시에서는 장소와 기억을 바라보는 두 작가님의 시선을 사진을 통해 만나볼 수 있습니다. 사진과 탁본, 텍스트 아카이브부터 디지털 이미지까지 다양한 방식... 서초동 (새 창에서 열림)" [ref=e193] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/town-talks/QrDaWn8YS3W7xVmHN2IZ0Q?rcode=09650108
+            - generic [ref=e194]:
+              - strong [ref=e195]: 이웃 🌿무더웠던 더위가 한 풀 꺾여, 여름이 떠나고 있다는 것이 조금씩 느껴지는 데요. 이번 여름의 시간과 장소는 어떤 모습으로 남아있나요? 📷️아마 여러 형태의 사진 속에도 기록해두셨으리라 생각됩니다! 사진은 우리가 지나온 시간과 장소를 기록하고, 그 순간의 기억에 여운을 남깁니다. 🎨우리의 기억에 남은 장면들을 돌아보게끔 만드는 새로운 전시를 소개해드리려고 합니다. 이번 전시에서는 장소와 기억을 바라보는 두 작가님의 시선을 사진을 통해 만나볼 수 있습니다. 사진과 탁본, 텍스트 아카이브부터 디지털 이미지까지 다양한 방식...
+              - generic [ref=e196]: 서초동
+            - generic [ref=e198]: (새 창에서 열림)
+          - link "이웃 그동안 잘 했다 여기까지. 불신임 한다 댓글 6 서초동 (새 창에서 열림)" [ref=e201] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/town-talks/DLyBYDlrRbCwjePntvZIpA?rcode=09650108
+            - generic [ref=e202]:
+              - strong [ref=e203]: 이웃 그동안 잘 했다 여기까지. 불신임 한다
+              - generic [ref=e204]:
+                - generic [ref=e206]:
+                  - generic [ref=e207]: 댓글
+                  - text: "6"
+                - generic [ref=e208]: 서초동
+            - generic [ref=e209]: (새 창에서 열림)
+          - link "카페 저도 참토스트 ㅋㅋㅋ 좋아요 8 댓글 2 서초네이처힐엄마세상 (새 창에서 열림)" [ref=e212] [cursor=pointer]:
+            - /url: https://cafe.naver.com/seochomommom?iframe_url=%2FArticleRead.nhn%3Fclubid%3D25213335%26articleid%3D68274%26tc%3Dsection_home_town_articles%26art%3DaW50ZXJuYWwtY2FmZS13ZWItc2VjdGlvbi1zZWFyY2gtbGlzdA.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjY4Mjc0LCJpc3N1ZWRBdCI6MTc4ODI2Mjg4MzMzOCwiY2FmZUlkIjoyNTIxMzMzNX0.D2Dwuq0-rfYyjWHbLY110D3_KMOLvbSF25wmPMvAlE4
+            - generic [ref=e213]:
+              - strong [ref=e214]: 카페 저도 참토스트 ㅋㅋㅋ
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - generic [ref=e218]: 좋아요
+                    - text: "8"
+                  - generic [ref=e219]:
+                    - generic [ref=e220]: 댓글
+                    - text: "2"
+                - generic [ref=e221]: 서초네이처힐엄마세상
+            - generic [ref=e222]: (새 창에서 열림)
+      - generic [ref=e223]:
+        - heading "주제별 인기 카페" [level=3] [ref=e224]
+        - generic [ref=e225]:
+          - generic [ref=e226]:
+            - strong [ref=e227]: 카페 카테고리
+            - list [ref=e228]:
+              - listitem [ref=e229]:
+                - button "반려동물/동물 선택됨" [ref=e230] [cursor=pointer]:
+                  - text: 반려동물/동물
+                  - generic [ref=e231]: 선택됨
+              - listitem [ref=e232]:
+                - button "방송/연예" [ref=e233] [cursor=pointer]
+              - listitem [ref=e234]:
+                - button "패션/미용" [ref=e235] [cursor=pointer]
+              - listitem [ref=e236]:
+                - button "교육" [ref=e237] [cursor=pointer]
+              - listitem [ref=e238]:
+                - button "인문/과학" [ref=e239] [cursor=pointer]
+              - listitem [ref=e240]:
+                - button "문화/예술" [ref=e241] [cursor=pointer]
+              - listitem [ref=e242]:
+                - button "가족/육아" [ref=e243] [cursor=pointer]
+              - listitem [ref=e244]:
+                - button "컴퓨터/통신" [ref=e245] [cursor=pointer]
+              - listitem [ref=e246]:
+                - button "외국어" [ref=e247] [cursor=pointer]
+              - listitem [ref=e248]:
+                - button "영화" [ref=e249] [cursor=pointer]
+              - listitem [ref=e250]:
+                - button "동창/동문" [ref=e251] [cursor=pointer]
+              - listitem [ref=e252]:
+                - button "경제/금융" [ref=e253] [cursor=pointer]
+              - listitem [ref=e254]:
+                - button "팬카페" [ref=e255] [cursor=pointer]
+              - listitem [ref=e256]:
+                - button "문학/창작" [ref=e257] [cursor=pointer]
+              - listitem [ref=e258]:
+                - button "친목/모임" [ref=e259] [cursor=pointer]
+              - listitem [ref=e260]:
+                - button "취미" [ref=e261] [cursor=pointer]
+              - listitem [ref=e262]:
+                - button "종교/봉사" [ref=e263] [cursor=pointer]
+              - listitem [ref=e264]:
+                - button "게임" [ref=e265] [cursor=pointer]
+              - listitem [ref=e266]:
+                - button "음악" [ref=e267] [cursor=pointer]
+              - listitem [ref=e268]:
+                - button "생활" [ref=e269] [cursor=pointer]
+              - listitem [ref=e270]:
+                - button "만화/애니" [ref=e271] [cursor=pointer]
+              - listitem [ref=e272]:
+                - button "여행" [ref=e273] [cursor=pointer]
+              - listitem [ref=e274]:
+                - button "건강/다이어트" [ref=e275] [cursor=pointer]
+              - listitem [ref=e276]:
+                - button "스포츠/레저" [ref=e277] [cursor=pointer]
+          - button "이전" [disabled] [ref=e278] [cursor=pointer]
+          - button "다음" [ref=e280] [cursor=pointer]
+        - generic [ref=e282]:
+          - link "인섹트라이프 (insectlife) 외국곤충표본 전문카페 멤버수 466 랭킹 가지5단계 점수 상승 35,183 (새 창에서 열림)" [ref=e284] [cursor=pointer]:
+            - /url: https://cafe.naver.com/insectlife2024
+            - generic [ref=e287]:
+              - strong [ref=e288]: 인섹트라이프
+              - paragraph [ref=e289]: (insectlife) 외국곤충표본 전문카페
+              - generic [ref=e290]:
+                - generic [ref=e291]:
+                  - generic [ref=e292]: 멤버수
+                  - generic [ref=e293]: "466"
+                - generic [ref=e294]:
+                  - generic [ref=e295]: 랭킹
+                  - text: 가지5단계
+                - generic [ref=e296]:
+                  - generic [ref=e297]: 점수 상승
+                  - generic [ref=e298]: 35,183
+            - generic [ref=e299]: (새 창에서 열림)
+          - link "파충류 갤러리(파갤)｜대한민국 대표 파충류 분양 사육 커뮤니티 파충류 갤러리(파갤)｜대한민국 대표 파충류 분양 사육 커뮤니티 멤버수 23,335 랭킹 열매3단계 점수 상승 16,569 (새 창에서 열림)" [ref=e301] [cursor=pointer]:
+            - /url: https://cafe.naver.com/clubbox
+            - generic [ref=e304]:
+              - strong [ref=e305]: 파충류 갤러리(파갤)｜대한민국 대표 파충류 분양 사육 커뮤니티
+              - paragraph [ref=e306]: 파충류 갤러리(파갤)｜대한민국 대표 파충류 분양 사육 커뮤니티
+              - generic [ref=e307]:
+                - generic [ref=e308]:
+                  - generic [ref=e309]: 멤버수
+                  - generic [ref=e310]: 23,335
+                - generic [ref=e311]:
+                  - generic [ref=e312]: 랭킹
+                  - text: 열매3단계
+                - generic [ref=e313]:
+                  - generic [ref=e314]: 점수 상승
+                  - generic [ref=e315]: 16,569
+            - generic [ref=e316]: (새 창에서 열림)
+          - link "김씨네 등각류 [직수출, 최저가, 검역완료-정식수출, 도매가능] 등각류 사육의 모든 것, 사육정보, 신종,희귀종 정보, 관리 팁까지 같이 공유하며 즐기시면 됩니다. 멤버수 337 랭킹 가지5단계 점수 상승 16,568 (새 창에서 열림)" [ref=e318] [cursor=pointer]:
+            - /url: https://cafe.naver.com/thzoo
+            - generic [ref=e321]:
+              - strong [ref=e322]: 김씨네 등각류 [직수출, 최저가, 검역완료-정식수출, 도매가능]
+              - paragraph [ref=e323]: 등각류 사육의 모든 것, 사육정보, 신종,희귀종 정보, 관리 팁까지 같이 공유하며 즐기시면 됩니다.
+              - generic [ref=e324]:
+                - generic [ref=e325]:
+                  - generic [ref=e326]: 멤버수
+                  - generic [ref=e327]: "337"
+                - generic [ref=e328]:
+                  - generic [ref=e329]: 랭킹
+                  - text: 가지5단계
+                - generic [ref=e330]:
+                  - generic [ref=e331]: 점수 상승
+                  - generic [ref=e332]: 16,568
+            - generic [ref=e333]: (새 창에서 열림)
+          - link "와줘서 고마워 ★ 강아지 고양이 소동물 질문 수다 펫중고마켓 강아지,고양이,소동물(앵무새,햄스터 등)과 함께 사는 반려인을 위한 일상, 질문, 수다 커뮤니티 멤버수 11,930 랭킹 열매2단계 점수 상승 12,030 (새 창에서 열림)" [ref=e335] [cursor=pointer]:
+            - /url: https://cafe.naver.com/pixcool
+            - generic [ref=e338]:
+              - strong [ref=e339]: 와줘서 고마워 ★ 강아지 고양이 소동물 질문 수다 펫중고마켓
+              - paragraph [ref=e340]: 강아지,고양이,소동물(앵무새,햄스터 등)과 함께 사는 반려인을 위한 일상, 질문, 수다 커뮤니티
+              - generic [ref=e341]:
+                - generic [ref=e342]:
+                  - generic [ref=e343]: 멤버수
+                  - generic [ref=e344]: 11,930
+                - generic [ref=e345]:
+                  - generic [ref=e346]: 랭킹
+                  - text: 열매2단계
+                - generic [ref=e347]:
+                  - generic [ref=e348]: 점수 상승
+                  - generic [ref=e349]: 12,030
+            - generic [ref=e350]: (새 창에서 열림)
+          - link "비비드아쿠아 구피 코리 몰리 열대어 물생활장터 분양 나눔이벤트 멤버수 95 랭킹 잎새5단계 점수 상승 6,655 (새 창에서 열림)" [ref=e352] [cursor=pointer]:
+            - /url: https://cafe.naver.com/vividaqua
+            - generic [ref=e355]:
+              - strong [ref=e356]: 비비드아쿠아
+              - paragraph [ref=e357]: 구피 코리 몰리 열대어 물생활장터 분양 나눔이벤트
+              - generic [ref=e358]:
+                - generic [ref=e359]:
+                  - generic [ref=e360]: 멤버수
+                  - generic [ref=e361]: "95"
+                - generic [ref=e362]:
+                  - generic [ref=e363]: 랭킹
+                  - text: 잎새5단계
+                - generic [ref=e364]:
+                  - generic [ref=e365]: 점수 상승
+                  - generic [ref=e366]: 6,655
+            - generic [ref=e367]: (새 창에서 열림)
+          - link "토끼야 놀자-애완토끼 분양,토끼농장 토사모,토끼용품 무료분양 유기 토끼 키우기 카페, 토끼병원 토끼질병 종류 사진 먹이 먹거리 특징 사료 임신 수명 간식 건초 케이지 멤버수 44,351 랭킹 열매2단계 점수 상승 6,385 (새 창에서 열림)" [ref=e369] [cursor=pointer]:
+            - /url: https://cafe.naver.com/edongmu
+            - generic [ref=e372]:
+              - strong [ref=e373]: 토끼야 놀자-애완토끼 분양,토끼농장 토사모,토끼용품 무료분양
+              - paragraph [ref=e374]: 유기 토끼 키우기 카페, 토끼병원 토끼질병 종류 사진 먹이 먹거리 특징 사료 임신 수명 간식 건초 케이지
+              - generic [ref=e375]:
+                - generic [ref=e376]:
+                  - generic [ref=e377]: 멤버수
+                  - generic [ref=e378]: 44,351
+                - generic [ref=e379]:
+                  - generic [ref=e380]: 랭킹
+                  - text: 열매2단계
+                - generic [ref=e381]:
+                  - generic [ref=e382]: 점수 상승
+                  - generic [ref=e383]: 6,385
+            - generic [ref=e384]: (새 창에서 열림)
+          - link "우리 강아지와 나누는 더 깊은 대화 - 올바른 반려견교육 우나더 반려견문제행동과 반려견교육(훈련) 방법에 대해 함께 고민하고 올바른 방법으로 교육하는 보호자들의 모임 멤버수 55,636 랭킹 가지4단계 점수 상승 6,106 (새 창에서 열림)" [ref=e386] [cursor=pointer]:
+            - /url: https://cafe.naver.com/expert98
+            - generic [ref=e389]:
+              - strong [ref=e390]: 우리 강아지와 나누는 더 깊은 대화 - 올바른 반려견교육 우나더
+              - paragraph [ref=e391]: 반려견문제행동과 반려견교육(훈련) 방법에 대해 함께 고민하고 올바른 방법으로 교육하는 보호자들의 모임
+              - generic [ref=e392]:
+                - generic [ref=e393]:
+                  - generic [ref=e394]: 멤버수
+                  - generic [ref=e395]: 55,636
+                - generic [ref=e396]:
+                  - generic [ref=e397]: 랭킹
+                  - text: 가지4단계
+                - generic [ref=e398]:
+                  - generic [ref=e399]: 점수 상승
+                  - generic [ref=e400]: 6,106
+            - generic [ref=e401]: (새 창에서 열림)
+          - link "고사모-고양이를 사랑하는 모임,길 고양이 무료분양 길냥이 캣맘 고양이카페,고양이 종류,고양이 사료 분유,고양이모래,분양,호텔,탁묘,입양,귀여운 길냥이 사진,고양이용품 멤버수 285,795 랭킹 열매3단계 점수 상승 5,717 (새 창에서 열림)" [ref=e403] [cursor=pointer]:
+            - /url: https://cafe.naver.com/catmam
+            - generic [ref=e406]:
+              - strong [ref=e407]: 고사모-고양이를 사랑하는 모임,길 고양이 무료분양 길냥이 캣맘
+              - paragraph [ref=e408]: 고양이카페,고양이 종류,고양이 사료 분유,고양이모래,분양,호텔,탁묘,입양,귀여운 길냥이 사진,고양이용품
+              - generic [ref=e409]:
+                - generic [ref=e410]:
+                  - generic [ref=e411]: 멤버수
+                  - generic [ref=e412]: 285,795
+                - generic [ref=e413]:
+                  - generic [ref=e414]: 랭킹
+                  - text: 열매3단계
+                - generic [ref=e415]:
+                  - generic [ref=e416]: 점수 상승
+                  - generic [ref=e417]: 5,717
+            - generic [ref=e418]: (새 창에서 열림)
+          - link "포메라니안~♡ 포메/포메라니안/포메라이언/포메라이안/포메라니언/전국정모/애견카페/애견용품/강아지 멤버수 42,538 랭킹 열매3단계 점수 상승 5,422 (새 창에서 열림)" [ref=e420] [cursor=pointer]:
+            - /url: https://cafe.naver.com/pomeranian
+            - generic [ref=e423]:
+              - strong [ref=e424]: 포메라니안~♡
+              - paragraph [ref=e425]: 포메/포메라니안/포메라이언/포메라이안/포메라니언/전국정모/애견카페/애견용품/강아지
+              - generic [ref=e426]:
+                - generic [ref=e427]:
+                  - generic [ref=e428]: 멤버수
+                  - generic [ref=e429]: 42,538
+                - generic [ref=e430]:
+                  - generic [ref=e431]: 랭킹
+                  - text: 열매3단계
+                - generic [ref=e432]:
+                  - generic [ref=e433]: 점수 상승
+                  - generic [ref=e434]: 5,422
+            - generic [ref=e435]: (새 창에서 열림)
+          - link "길냥이 급식소 길냥이를 사랑하는 캣맘, 캣대디들의 모임입니다 멤버수 34,805 랭킹 나무2단계 점수 상승 4,679 (새 창에서 열림)" [ref=e437] [cursor=pointer]:
+            - /url: https://cafe.naver.com/icfc0520
+            - generic [ref=e440]:
+              - strong [ref=e441]: 길냥이 급식소
+              - paragraph [ref=e442]: 길냥이를 사랑하는 캣맘, 캣대디들의 모임입니다
+              - generic [ref=e443]:
+                - generic [ref=e444]:
+                  - generic [ref=e445]: 멤버수
+                  - generic [ref=e446]: 34,805
+                - generic [ref=e447]:
+                  - generic [ref=e448]: 랭킹
+                  - text: 나무2단계
+                - generic [ref=e449]:
+                  - generic [ref=e450]: 점수 상승
+                  - generic [ref=e451]: 4,679
+            - generic [ref=e452]: (새 창에서 열림)
+          - link "반려동물 정보 ❤️ 반려동물 정보와 일상을 공유하고 전국 맛집 후기까지 함께 나누는 소통형 커뮤니티 카페입니다 멤버수 1,478 랭킹 열매3단계 점수 상승 4,431 (새 창에서 열림)" [ref=e454] [cursor=pointer]:
+            - /url: https://cafe.naver.com/20090604br
+            - generic [ref=e457]:
+              - strong [ref=e458]: 반려동물 정보 ❤️
+              - paragraph [ref=e459]: 반려동물 정보와 일상을 공유하고 전국 맛집 후기까지 함께 나누는 소통형 커뮤니티 카페입니다
+              - generic [ref=e460]:
+                - generic [ref=e461]:
+                  - generic [ref=e462]: 멤버수
+                  - generic [ref=e463]: 1,478
+                - generic [ref=e464]:
+                  - generic [ref=e465]: 랭킹
+                  - text: 열매3단계
+                - generic [ref=e466]:
+                  - generic [ref=e467]: 점수 상승
+                  - generic [ref=e468]: 4,431
+            - generic [ref=e469]: (새 창에서 열림)
+          - link "대한진돗개모임,진돗개카페,진돗개 대한민국 천연기념물 제 53호 진돗개를 무궁무진하게 발전시키기 위한 카페입니다 멤버수 10,325 랭킹 가지5단계 점수 상승 4,418 (새 창에서 열림)" [ref=e471] [cursor=pointer]:
+            - /url: https://cafe.naver.com/korjindo
+            - generic [ref=e474]:
+              - strong [ref=e475]: 대한진돗개모임,진돗개카페,진돗개
+              - paragraph [ref=e476]: 대한민국 천연기념물 제 53호 진돗개를 무궁무진하게 발전시키기 위한 카페입니다
+              - generic [ref=e477]:
+                - generic [ref=e478]:
+                  - generic [ref=e479]: 멤버수
+                  - generic [ref=e480]: 10,325
+                - generic [ref=e481]:
+                  - generic [ref=e482]: 랭킹
+                  - text: 가지5단계
+                - generic [ref=e483]:
+                  - generic [ref=e484]: 점수 상승
+                  - generic [ref=e485]: 4,418
+            - generic [ref=e486]: (새 창에서 열림)
+          - link "비단잉어와 금붕어 대한민국 NO-1 카페,비단잉어와 금붕어에 대한 정보의 일반화로 누구나 쉽게 키울수 있는 취미화의 조성. 멤버수 27,637 랭킹 가지5단계 점수 상승 4,209 (새 창에서 열림)" [ref=e488] [cursor=pointer]:
+            - /url: https://cafe.naver.com/0194776373
+            - generic [ref=e491]:
+              - strong [ref=e492]: 비단잉어와 금붕어
+              - paragraph [ref=e493]: 대한민국 NO-1 카페,비단잉어와 금붕어에 대한 정보의 일반화로 누구나 쉽게 키울수 있는 취미화의 조성.
+              - generic [ref=e494]:
+                - generic [ref=e495]:
+                  - generic [ref=e496]: 멤버수
+                  - generic [ref=e497]: 27,637
+                - generic [ref=e498]:
+                  - generic [ref=e499]: 랭킹
+                  - text: 가지5단계
+                - generic [ref=e500]:
+                  - generic [ref=e501]: 점수 상승
+                  - generic [ref=e502]: 4,209
+            - generic [ref=e503]: (새 창에서 열림)
+          - link "「사마귀」 사마귀(곤충)을 주제로 하는 사마귀매니아들의 터전 멤버수 8,918 랭킹 가지5단계 점수 상승 4,088 (새 창에서 열림)" [ref=e505] [cursor=pointer]:
+            - /url: https://cafe.naver.com/navermantis
+            - generic [ref=e508]:
+              - strong [ref=e509]: 「사마귀」
+              - paragraph [ref=e510]: 사마귀(곤충)을 주제로 하는 사마귀매니아들의 터전
+              - generic [ref=e511]:
+                - generic [ref=e512]:
+                  - generic [ref=e513]: 멤버수
+                  - generic [ref=e514]: 8,918
+                - generic [ref=e515]:
+                  - generic [ref=e516]: 랭킹
+                  - text: 가지5단계
+                - generic [ref=e517]:
+                  - generic [ref=e518]: 점수 상승
+                  - generic [ref=e519]: 4,088
+            - generic [ref=e520]: (새 창에서 열림)
+          - link "핸드메이드 몽몽-강아지 옷만들기,간식 수제사료,미용,분양 정보 내손으로 강아지용품 만들기-강아지옷 패턴 제공,애견용품,애완동물용품,강아지분양,강아지간식,강아지미용 멤버수 194,132 랭킹 열매2단계 점수 상승 4,065 (새 창에서 열림)" [ref=e522] [cursor=pointer]:
+            - /url: https://cafe.naver.com/gangajipul
+            - generic [ref=e525]:
+              - strong [ref=e526]: 핸드메이드 몽몽-강아지 옷만들기,간식 수제사료,미용,분양 정보
+              - paragraph [ref=e527]: 내손으로 강아지용품 만들기-강아지옷 패턴 제공,애견용품,애완동물용품,강아지분양,강아지간식,강아지미용
+              - generic [ref=e528]:
+                - generic [ref=e529]:
+                  - generic [ref=e530]: 멤버수
+                  - generic [ref=e531]: 194,132
+                - generic [ref=e532]:
+                  - generic [ref=e533]: 랭킹
+                  - text: 열매2단계
+                - generic [ref=e534]:
+                  - generic [ref=e535]: 점수 상승
+                  - generic [ref=e536]: 4,065
+            - generic [ref=e537]: (새 창에서 열림)
+          - link "세상의 모든고양이와 강아지 천상계 세상의 모든 고양이와 강아지, 건강, 일상, 정보, 여행, 입양, 추억까지 함께하는 반려동물모임 멤버수 38,958 랭킹 열매4단계 점수 상승 4,053 (새 창에서 열림)" [ref=e539] [cursor=pointer]:
+            - /url: https://cafe.naver.com/strongcat
+            - generic [ref=e542]:
+              - strong [ref=e543]: 세상의 모든고양이와 강아지
+              - paragraph [ref=e544]: 천상계 세상의 모든 고양이와 강아지, 건강, 일상, 정보, 여행, 입양, 추억까지 함께하는 반려동물모임
+              - generic [ref=e545]:
+                - generic [ref=e546]:
+                  - generic [ref=e547]: 멤버수
+                  - generic [ref=e548]: 38,958
+                - generic [ref=e549]:
+                  - generic [ref=e550]: 랭킹
+                  - text: 열매4단계
+                - generic [ref=e551]:
+                  - generic [ref=e552]: 점수 상승
+                  - generic [ref=e553]: 4,053
+            - generic [ref=e554]: (새 창에서 열림)
+          - link "이리온 - 대학연합 유기동물보호동아리 이리온(기쁠 이, 퍼질 리, 따뜻할 온) 동물을 사랑하는 기쁜 마음을 널리 퍼뜨릴 청춘들이 모인 카페 멤버수 738 랭킹 새싹2단계 점수 상승 4,041 (새 창에서 열림)" [ref=e556] [cursor=pointer]:
+            - /url: https://cafe.naver.com/irion
+            - generic [ref=e559]:
+              - strong [ref=e560]: 이리온 - 대학연합 유기동물보호동아리
+              - paragraph [ref=e561]: 이리온(기쁠 이, 퍼질 리, 따뜻할 온) 동물을 사랑하는 기쁜 마음을 널리 퍼뜨릴 청춘들이 모인 카페
+              - generic [ref=e562]:
+                - generic [ref=e563]:
+                  - generic [ref=e564]: 멤버수
+                  - generic [ref=e565]: "738"
+                - generic [ref=e566]:
+                  - generic [ref=e567]: 랭킹
+                  - text: 새싹2단계
+                - generic [ref=e568]:
+                  - generic [ref=e569]: 점수 상승
+                  - generic [ref=e570]: 4,041
+            - generic [ref=e571]: (새 창에서 열림)
+          - link "탐조시대 올바른 탐조를 위한 카페 멤버수 355 랭킹 가지4단계 점수 상승 3,586 (새 창에서 열림)" [ref=e573] [cursor=pointer]:
+            - /url: https://cafe.naver.com/birdtimes
+            - generic [ref=e576]:
+              - strong [ref=e577]: 탐조시대
+              - paragraph [ref=e578]: 올바른 탐조를 위한 카페
+              - generic [ref=e579]:
+                - generic [ref=e580]:
+                  - generic [ref=e581]: 멤버수
+                  - generic [ref=e582]: "355"
+                - generic [ref=e583]:
+                  - generic [ref=e584]: 랭킹
+                  - text: 가지4단계
+                - generic [ref=e585]:
+                  - generic [ref=e586]: 점수 상승
+                  - generic [ref=e587]: 3,586
+            - generic [ref=e588]: (새 창에서 열림)
+          - link "[플라이댕댕] 강아지 고양이 해외여행 이민준비 네이버1위카페 [플라이댕댕] 강아지 고양이 해외여행,이민준비 반려동물 검역 및 여행 정보 공유 카페 멤버수 8,726 랭킹 가지4단계 점수 상승 3,534 (새 창에서 열림)" [ref=e590] [cursor=pointer]:
+            - /url: https://cafe.naver.com/flydengdeng
+            - generic [ref=e593]:
+              - strong [ref=e594]: "[플라이댕댕] 강아지 고양이 해외여행 이민준비"
+              - paragraph [ref=e595]: 네이버1위카페 [플라이댕댕] 강아지 고양이 해외여행,이민준비 반려동물 검역 및 여행 정보 공유 카페
+              - generic [ref=e596]:
+                - generic [ref=e597]:
+                  - generic [ref=e598]: 멤버수
+                  - generic [ref=e599]: 8,726
+                - generic [ref=e600]:
+                  - generic [ref=e601]: 랭킹
+                  - text: 가지4단계
+                - generic [ref=e602]:
+                  - generic [ref=e603]: 점수 상승
+                  - generic [ref=e604]: 3,534
+            - generic [ref=e605]: (새 창에서 열림)
+          - link "강사모 공식카페(강아지를 사랑하는 모임)반려견 생애주기 교육 강사모(강아지를 사랑하는 모임)는 강아지에 대한 지식과정보를 배우고 실천하고 생명을 존중하는 커뮤니티 멤버수 149,725 랭킹 가지5단계 점수 상승 3,180 (새 창에서 열림)" [ref=e607] [cursor=pointer]:
+            - /url: https://cafe.naver.com/kangsamo2019
+            - generic [ref=e610]:
+              - strong [ref=e611]: 강사모 공식카페(강아지를 사랑하는 모임)반려견 생애주기 교육
+              - paragraph [ref=e612]: 강사모(강아지를 사랑하는 모임)는 강아지에 대한 지식과정보를 배우고 실천하고 생명을 존중하는 커뮤니티
+              - generic [ref=e613]:
+                - generic [ref=e614]:
+                  - generic [ref=e615]: 멤버수
+                  - generic [ref=e616]: 149,725
+                - generic [ref=e617]:
+                  - generic [ref=e618]: 랭킹
+                  - text: 가지5단계
+                - generic [ref=e619]:
+                  - generic [ref=e620]: 점수 상승
+                  - generic [ref=e621]: 3,180
+            - generic [ref=e622]: (새 창에서 열림)
+          - button "더보기" [ref=e623] [cursor=pointer]
+    - banner [ref=e624]:
+      - generic [ref=e625]:
+        - generic [ref=e627]:
+          - link "로그인" [ref=e629] [cursor=pointer]:
+            - /url: "#"
+          - list [ref=e631]:
+            - listitem [ref=e632]:
+              - link "아이디 찾기" [ref=e633] [cursor=pointer]:
+                - /url: https://nid.naver.com/user2/help/idInquiry.nhn?menu=idinquiry
+            - listitem [ref=e634]:
+              - link "비밀번호 찾기" [ref=e635] [cursor=pointer]:
+                - /url: https://nid.naver.com/user2/help/pwInquiry.nhn?menu=pwinquiry
+            - listitem [ref=e636]:
+              - link "회원가입" [ref=e637] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidregister.form
+        - generic [ref=e638]:
+          - link "공지사항 (새 창에서 열림)" [ref=e639] [cursor=pointer]:
+            - /url: https://notice.naver.com/notices/cafe
+            - heading "공지사항" [level=3] [ref=e640]
+            - generic [ref=e641]: (새 창에서 열림)
+          - list [ref=e642]:
+            - listitem [ref=e643]:
+              - link "공정거래위원회 협조 요청에 따른 사업자정보 표시 안내 등 (2011.11.24) (새 창에서 열림)" [ref=e644] [cursor=pointer]:
+                - /url: https://notice.naver.com/notices/cafe/11558
+                - text: 공정거래위원회 협조 요청에 따른 사업자정보 표시 안내 등 (2011.11.24)
+                - generic [ref=e645]: (새 창에서 열림)
+            - listitem [ref=e646]:
+              - link "[사전안내] 카페 앱 검색 이용을 위한 업데이트 안내 (새 창에서 열림)" [ref=e647] [cursor=pointer]:
+                - /url: https://notice.naver.com/notices/cafe/33923
+                - text: "[사전안내] 카페 앱 검색 이용을 위한 업데이트 안내"
+                - generic [ref=e648]: (새 창에서 열림)
+            - listitem [ref=e649]:
+              - link "[점검안내] 9/2(수) 01:00~07:00 카페서비스 임시점검 (새 창에서 열림)" [ref=e650] [cursor=pointer]:
+                - /url: https://notice.naver.com/notices/cafe/33826
+                - text: "[점검안내] 9/2(수) 01:00~07:00 카페서비스 임시점검"
+                - generic [ref=e651]: (새 창에서 열림)
+            - listitem [ref=e652]:
+              - link "[안내] 네이버 카페 콘텐츠 무단 수집·이용 금지 안내 (새 창에서 열림)" [ref=e653] [cursor=pointer]:
+                - /url: https://notice.naver.com/notices/cafe/33743
+                - text: "[안내] 네이버 카페 콘텐츠 무단 수집·이용 금지 안내"
+                - generic [ref=e654]: (새 창에서 열림)
+        - link "카페팀 공식카페 바로가기 (새 창에서 열림)" [ref=e656] [cursor=pointer]:
+          - /url: https://cafe.naver.com/cafesupport
+          - generic [ref=e657]:
+            - strong [ref=e658]: 카페팀 공식카페 바로가기
+            - generic [ref=e659]: (새 창에서 열림)
+        - iframe [ref=e663]:
+          - heading [level=5] [ref=f5e2]:
+            - link "[광고]섬해진미 가득 담은 제주로운 마켓 새 창" [ref=f5e3] [cursor=pointer]:
+              - /url: https://siape.veta.naver.com/fxclick?eu=EU10041115&calp=-&oj=xc0H4Zkpi60OnC6WBYbmb41dfRmhn6NutwOU%2FnjIfPfEBuML%2BqEJJ2x%2FhcG054wn2qsQsVX0oX1meAp6b1yae6CKwZZ62Oq3mROQRLRLRbAzplUxrgkAuQ&ac=9316382&src=8220614&br=4979441&evtcd=P901&x_ti=1108&tb=&oid=&sid1=&sid2=&rk=O7B0_9dJAGGv5L91U8N0CQ&eltts=o9O4ILFuAPGgrtA%2BlL4nlQ%3D%3D&brs=Y&
+              - img "[광고]섬해진미 가득 담은 제주로운 마켓" [ref=f5e4]
+              - generic [ref=f5e5]: 새 창
+        - link "카페 서비스에 궁금한 점이 있을 때 카페 스마트봇 (새 창에서 열림)" [ref=e665] [cursor=pointer]:
+          - /url: https://talk.naver.com/ct/w4nd8o
+          - generic [ref=e666]:
+            - paragraph [ref=e667]: 카페 서비스에 궁금한 점이 있을 때
+            - strong [ref=e668]: 카페 스마트봇
+            - generic [ref=e669]: (새 창에서 열림)
+        - link "신고센터 (새 창에서 열림)" [ref=e671] [cursor=pointer]:
+          - /url: https://help.naver.com/support/reportCenter/home.nhn
+          - strong [ref=e672]: 신고센터
+          - generic [ref=e673]: (새 창에서 열림)
+        - contentinfo [ref=e674]:
+          - list [ref=e675]:
+            - listitem [ref=e676]:
+              - link "카페 이용약관 (새 창에서 열림)" [ref=e677] [cursor=pointer]:
+                - /url: /ca-fe/home/terms/latest
+                - text: 카페 이용약관
+                - generic [ref=e678]: (새 창에서 열림)
+            - listitem [ref=e679]:
+              - link "카페 운영원칙 (새 창에서 열림)" [ref=e680] [cursor=pointer]:
+                - /url: /ca-fe/home/operating-rules/1
+                - text: 카페 운영원칙
+                - generic [ref=e681]: (새 창에서 열림)
+            - listitem [ref=e682]:
+              - link "개인정보처리방침 (새 창에서 열림)" [ref=e683] [cursor=pointer]:
+                - /url: https://policy.naver.com/rules/privacy.html
+                - strong [ref=e684]: 개인정보처리방침
+                - generic [ref=e685]: (새 창에서 열림)
+            - listitem [ref=e686]:
+              - link "책임의 한계와 법적고지 (새 창에서 열림)" [ref=e687] [cursor=pointer]:
+                - /url: https://policy.naver.com/rules/disclaimer.html
+                - text: 책임의 한계와 법적고지
+                - generic [ref=e688]: (새 창에서 열림)
+            - listitem [ref=e689]:
+              - link "권리보호센터 (새 창에서 열림)" [ref=e690] [cursor=pointer]:
+                - /url: https://right.naver.com
+                - text: 권리보호센터
+                - generic [ref=e691]: (새 창에서 열림)
+            - listitem [ref=e692]:
+              - link "카페 고객센터 (새 창에서 열림)" [ref=e693] [cursor=pointer]:
+                - /url: https://help.naver.com/alias/cafe/cafe_code_01.naver
+                - text: 카페 고객센터
+                - generic [ref=e694]: (새 창에서 열림)
+            - listitem [ref=e695]:
+              - link "ⓒ NAVER Corp. (새 창에서 열림)" [ref=e696] [cursor=pointer]:
+                - /url: http://www.navercorp.com
+                - strong [ref=e697]: ⓒ NAVER Corp.
+                - generic [ref=e698]: (새 창에서 열림)

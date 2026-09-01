@@ -1,0 +1,2548 @@
+- generic [active] [ref=e1]:
+  - link "본문 바로가기" [ref=e2] [cursor=pointer]:
+    - /url: "#ct"
+  - banner:
+    - generic [ref=e6]:
+      - heading [level=1] [ref=e7]:
+        - link "Naver" [ref=e8] [cursor=pointer]:
+          - /url: https://m.naver.com/
+        - link "이전페이지":
+          - /url: "#"
+      - search [ref=e10]:
+        - generic [ref=e11]:
+          - generic [ref=e13]:
+            - textbox "검색어를 입력해 주세요." [ref=e14]: 오늘날씨
+            - button "입력 내용 삭제" [ref=e15]
+          - generic [ref=e17]:
+            - button "음성검색" [ref=e18]
+            - button "검색"
+    - tablist [ref=e22]:
+      - tab "AI new" [ref=e23] [cursor=pointer]:
+        - text: AI
+        - generic [ref=e24]: new
+      - tab "블로그" [ref=e26] [cursor=pointer]
+      - tab "카페" [ref=e27] [cursor=pointer]
+      - tab "클립" [ref=e28] [cursor=pointer]
+      - tab "이미지" [ref=e29] [cursor=pointer]
+      - tab "지식iN" [ref=e30] [cursor=pointer]
+      - tab "동영상" [ref=e31] [cursor=pointer]
+      - tab "쇼핑" [ref=e32] [cursor=pointer]
+      - tab "뉴스" [ref=e33] [cursor=pointer]
+      - tab "어학사전" [ref=e34] [cursor=pointer]
+      - tab "지도" [ref=e35] [cursor=pointer]
+      - tab "인플루언서" [ref=e36] [cursor=pointer]
+      - tab "검색옵션" [ref=e37] [cursor=pointer]
+  - generic [ref=e39]:
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - heading "날씨" [level=2] [ref=e46]
+          - button "내위치" [ref=e48]
+        - tablist [ref=e53]:
+          - tab [selected] [ref=e54]:
+            - link "전국날씨" [ref=e55] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EA%B5%AD%EB%82%A0%EC%94%A8"
+          - tab [ref=e57]:
+            - link "미세먼지" [ref=e58] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80"
+          - tab [ref=e60]:
+            - link "초미세먼지" [ref=e61] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B4%88%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80"
+          - tab [ref=e63]:
+            - link "기상특보" [ref=e64] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=bkFJ&qvt=0&query=%EA%B8%B0%EC%83%81%ED%8A%B9%EB%B3%B4"
+          - tab [ref=e66]:
+            - link "생활지수" [ref=e67] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=bkFJ&qvt=0&query=%EC%83%9D%ED%99%9C%EC%A7%80%EC%88%98"
+          - tab [ref=e69]:
+            - link "날씨영상" [ref=e70] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=bjJC&qvt=0&query=%EB%82%A0%EC%94%A8%EC%98%81%EC%83%81"
+          - tab [ref=e72]:
+            - link "바다날씨" [ref=e73] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&mra=bllC&qvt=0&query=%EB%B0%94%EB%8B%A4%EB%82%A0%EC%94%A8"
+      - generic [ref=e75]:
+        - tablist [ref=e78]:
+          - tab [selected] [ref=e79]:
+            - link "오늘 9.01." [ref=e80] [cursor=pointer]:
+              - /url: "#"
+          - tab [ref=e81]:
+            - link "수 9.02." [ref=e82] [cursor=pointer]:
+              - /url: "#"
+          - tab [ref=e83]:
+            - link "목 9.03." [ref=e84] [cursor=pointer]:
+              - /url: "#"
+          - tab [ref=e85]:
+            - link "금 9.04." [ref=e86] [cursor=pointer]:
+              - /url: "#"
+          - tab [ref=e87]:
+            - link "토 9.05." [ref=e88] [cursor=pointer]:
+              - /url: "#"
+          - tab [ref=e89]:
+            - link "일 9.06." [ref=e90] [cursor=pointer]:
+              - /url: "#"
+          - tab [ref=e91]:
+            - link "월 9.07." [ref=e92] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e93]:
+          - tablist [ref=e95]:
+            - tab [ref=e96]:
+              - button "현재" [ref=e97]
+            - tab [selected] [ref=e98]:
+              - button "오늘오전" [ref=e99]
+            - tab [ref=e100]:
+              - button "오늘오후" [ref=e101]
+          - tablist [ref=e103]:
+            - tab [selected] [ref=e104]:
+              - button "기온" [ref=e105]
+            - tab [ref=e106]:
+              - button "강수" [ref=e107]
+            - tab [ref=e108]:
+              - button "바람" [disabled] [ref=e109]
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - heading "09.01. 오늘오전 기온" [level=3] [ref=e113]
+              - generic [ref=e116]:
+                - link "춘천 22.1° 흐림" [ref=e117] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e118]: 춘천
+                  - generic [ref=e119]: 22.1°
+                  - generic [ref=e120]: 흐림
+                - link "강릉 22.6° 흐림" [ref=e121] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e122]: 강릉
+                  - generic [ref=e123]: 22.6°
+                  - generic [ref=e124]: 흐림
+                - link "수원 22.4° 구름많음" [ref=e125] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e126]: 수원
+                  - generic [ref=e127]: 22.4°
+                  - generic [ref=e128]: 구름많음
+                - link "포항 27.0° 구름많음" [ref=e129] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e130]: 포항
+                  - generic [ref=e131]: 27.0°
+                  - generic [ref=e132]: 구름많음
+                - link "안동 23.7° 비" [ref=e133] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e134]: 안동
+                  - generic [ref=e135]: 23.7°
+                  - generic [ref=e136]: 비
+                - link "울릉/독도 25.0° 흐림" [ref=e137] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e138]: 울릉/독도
+                  - generic [ref=e139]: 25.0°
+                  - generic [ref=e140]: 흐림
+                - link "대구 28.7° 구름많음" [ref=e141] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e142]: 대구
+                  - generic [ref=e143]: 28.7°
+                  - generic [ref=e144]: 구름많음
+                - link "대전 24.0° 흐림" [ref=e145] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e146]: 대전
+                  - generic [ref=e147]: 24.0°
+                  - generic [ref=e148]: 흐림
+                - link "부산 27.7° 구름많음" [ref=e149] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e150]: 부산
+                  - generic [ref=e151]: 27.7°
+                  - generic [ref=e152]: 구름많음
+                - link "울산 27.0° 구름많음" [ref=e153] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e154]: 울산
+                  - generic [ref=e155]: 27.0°
+                  - generic [ref=e156]: 구름많음
+                - link "청주 25.9° 흐림" [ref=e157] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e158]: 청주
+                  - generic [ref=e159]: 25.9°
+                  - generic [ref=e160]: 흐림
+                - link "서울 21.9° 비" [ref=e161] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e162]: 서울
+                  - generic [ref=e163]: 21.9°
+                  - generic [ref=e164]: 비
+                - link "목포 27.2° 구름많음" [ref=e165] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e166]: 목포
+                  - generic [ref=e167]: 27.2°
+                  - generic [ref=e168]: 구름많음
+                - link "여수 27.7° 흐림" [ref=e169] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e170]: 여수
+                  - generic [ref=e171]: 27.7°
+                  - generic [ref=e172]: 흐림
+                - link "인천 22.4° 비" [ref=e173] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e174]: 인천
+                  - generic [ref=e175]: 22.4°
+                  - generic [ref=e176]: 비
+                - link "전주 26.0° 구름많음" [ref=e177] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e178]: 전주
+                  - generic [ref=e179]: 26.0°
+                  - generic [ref=e180]: 구름많음
+                - link "제주 25.4° 흐림" [ref=e181] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e182]: 제주
+                  - generic [ref=e183]: 25.4°
+                  - generic [ref=e184]: 흐림
+                - link "광주 27.0° 흐림" [ref=e185] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e186]: 광주
+                  - generic [ref=e187]: 27.0°
+                  - generic [ref=e188]: 흐림
+            - generic [ref=e189]:
+              - heading "09.01. 오전 기온" [level=3] [ref=e190]
+              - generic [ref=e193]:
+                - link "춘천 21° 흐리고 비" [ref=e194] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e195]: 춘천
+                  - generic [ref=e196]: 21°
+                  - generic [ref=e197]: 흐리고 비
+                - link "강릉 22° 흐리고 한때 비" [ref=e198] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e199]: 강릉
+                  - generic [ref=e200]: 22°
+                  - generic [ref=e201]: 흐리고 한때 비
+                - link "수원 23° 흐리고 가끔 비" [ref=e202] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e203]: 수원
+                  - generic [ref=e204]: 23°
+                  - generic [ref=e205]: 흐리고 가끔 비
+                - link "포항 23° 구름많음" [ref=e206] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e207]: 포항
+                  - generic [ref=e208]: 23°
+                  - generic [ref=e209]: 구름많음
+                - link "안동 23° 구름많음" [ref=e210] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e211]: 안동
+                  - generic [ref=e212]: 23°
+                  - generic [ref=e213]: 구름많음
+                - link "울릉/독도 25° 맑음" [ref=e214] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e215]: 울릉/독도
+                  - generic [ref=e216]: 25°
+                  - generic [ref=e217]: 맑음
+                - link "대구 25° 맑음" [ref=e218] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e219]: 대구
+                  - generic [ref=e220]: 25°
+                  - generic [ref=e221]: 맑음
+                - link "대전 23° 흐리고 한때 비" [ref=e222] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e223]: 대전
+                  - generic [ref=e224]: 23°
+                  - generic [ref=e225]: 흐리고 한때 비
+                - link "부산 26° 구름많음" [ref=e226] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e227]: 부산
+                  - generic [ref=e228]: 26°
+                  - generic [ref=e229]: 구름많음
+                - link "울산 23° 맑음" [ref=e230] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e231]: 울산
+                  - generic [ref=e232]: 23°
+                  - generic [ref=e233]: 맑음
+                - link "청주 23° 흐리고 한때 비 곳" [ref=e234] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e235]: 청주
+                  - generic [ref=e236]: 23°
+                  - generic [ref=e237]: 흐리고 한때 비 곳
+                - link "서울 23° 흐리고 가끔 비" [ref=e238] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e239]: 서울
+                  - generic [ref=e240]: 23°
+                  - generic [ref=e241]: 흐리고 가끔 비
+                - link "목포 26° 구름많음" [ref=e242] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e243]: 목포
+                  - generic [ref=e244]: 26°
+                  - generic [ref=e245]: 구름많음
+                - link "여수 26° 구름많고 한때 소나기" [ref=e246] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e247]: 여수
+                  - generic [ref=e248]: 26°
+                  - generic [ref=e249]: 구름많고 한때 소나기
+                - link "인천 23° 흐리고 한때 비" [ref=e250] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e251]: 인천
+                  - generic [ref=e252]: 23°
+                  - generic [ref=e253]: 흐리고 한때 비
+                - link "전주 24° 구름많음" [ref=e254] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e255]: 전주
+                  - generic [ref=e256]: 24°
+                  - generic [ref=e257]: 구름많음
+                - link "제주 26° 구름많음" [ref=e258] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e259]: 제주
+                  - generic [ref=e260]: 26°
+                  - generic [ref=e261]: 구름많음
+                - link "광주 26° 구름많음" [ref=e262] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e263]: 광주
+                  - generic [ref=e264]: 26°
+                  - generic [ref=e265]: 구름많음
+            - generic [ref=e266]:
+              - heading "09.01. 오후 기온" [level=3] [ref=e267]
+              - generic [ref=e270]:
+                - link "춘천 27° 흐리고 한때 비" [ref=e271] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e272]: 춘천
+                  - generic [ref=e273]: 27°
+                  - generic [ref=e274]: 흐리고 한때 비
+                - link "강릉 25° 흐리고 한때 비" [ref=e275] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e276]: 강릉
+                  - generic [ref=e277]: 25°
+                  - generic [ref=e278]: 흐리고 한때 비
+                - link "수원 26° 흐리고 한때 비" [ref=e279] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e280]: 수원
+                  - generic [ref=e281]: 26°
+                  - generic [ref=e282]: 흐리고 한때 비
+                - link "포항 32° 흐림" [ref=e283] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e284]: 포항
+                  - generic [ref=e285]: 32°
+                  - generic [ref=e286]: 흐림
+                - link "안동 32° 흐리고 한때 소나기 곳" [ref=e287] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e288]: 안동
+                  - generic [ref=e289]: 32°
+                  - generic [ref=e290]: 흐리고 한때 소나기 곳
+                - link "울릉/독도 29° 구름많음" [ref=e291] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e292]: 울릉/독도
+                  - generic [ref=e293]: 29°
+                  - generic [ref=e294]: 구름많음
+                - link "대구 33° 흐리고 한때 소나기 곳" [ref=e295] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e296]: 대구
+                  - generic [ref=e297]: 33°
+                  - generic [ref=e298]: 흐리고 한때 소나기 곳
+                - link "대전 30° 흐림" [ref=e299] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e300]: 대전
+                  - generic [ref=e301]: 30°
+                  - generic [ref=e302]: 흐림
+                - link "부산 32° 구름많음" [ref=e303] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e304]: 부산
+                  - generic [ref=e305]: 32°
+                  - generic [ref=e306]: 구름많음
+                - link "울산 32° 구름많음" [ref=e307] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e308]: 울산
+                  - generic [ref=e309]: 32°
+                  - generic [ref=e310]: 구름많음
+                - link "청주 29° 흐림" [ref=e311] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e312]: 청주
+                  - generic [ref=e313]: 29°
+                  - generic [ref=e314]: 흐림
+                - link "서울 26° 흐리고 한때 비" [ref=e315] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e316]: 서울
+                  - generic [ref=e317]: 26°
+                  - generic [ref=e318]: 흐리고 한때 비
+                - link "목포 31° 흐림" [ref=e319] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e320]: 목포
+                  - generic [ref=e321]: 31°
+                  - generic [ref=e322]: 흐림
+                - link "여수 31° 흐림" [ref=e323] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e324]: 여수
+                  - generic [ref=e325]: 31°
+                  - generic [ref=e326]: 흐림
+                - link "인천 26° 흐리고 한때 비" [ref=e327] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e328]: 인천
+                  - generic [ref=e329]: 26°
+                  - generic [ref=e330]: 흐리고 한때 비
+                - link "전주 32° 구름많고 한때 소나기" [ref=e331] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e332]: 전주
+                  - generic [ref=e333]: 32°
+                  - generic [ref=e334]: 구름많고 한때 소나기
+                - link "제주 32° 흐림" [ref=e335] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e336]: 제주
+                  - generic [ref=e337]: 32°
+                  - generic [ref=e338]: 흐림
+                - link "광주 31° 흐림" [ref=e339] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e340]: 광주
+                  - generic [ref=e341]: 31°
+                  - generic [ref=e342]: 흐림
+            - generic [ref=e343]:
+              - heading "09.02. 오전 기온" [level=3] [ref=e344]
+              - generic [ref=e347]:
+                - link "춘천 22° 흐림" [ref=e348] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e349]: 춘천
+                  - generic [ref=e350]: 22°
+                  - generic [ref=e351]: 흐림
+                - link "강릉 22° 흐림" [ref=e352] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e353]: 강릉
+                  - generic [ref=e354]: 22°
+                  - generic [ref=e355]: 흐림
+                - link "수원 23° 흐림" [ref=e356] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e357]: 수원
+                  - generic [ref=e358]: 23°
+                  - generic [ref=e359]: 흐림
+                - link "포항 24° 흐림" [ref=e360] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e361]: 포항
+                  - generic [ref=e362]: 24°
+                  - generic [ref=e363]: 흐림
+                - link "안동 22° 흐림" [ref=e364] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e365]: 안동
+                  - generic [ref=e366]: 22°
+                  - generic [ref=e367]: 흐림
+                - link "울릉/독도 24° 흐리고 한때 비" [ref=e368] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e369]: 울릉/독도
+                  - generic [ref=e370]: 24°
+                  - generic [ref=e371]: 흐리고 한때 비
+                - link "대구 25° 흐림" [ref=e372] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e373]: 대구
+                  - generic [ref=e374]: 25°
+                  - generic [ref=e375]: 흐림
+                - link "대전 23° 흐리고 가끔 비" [ref=e376] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e377]: 대전
+                  - generic [ref=e378]: 23°
+                  - generic [ref=e379]: 흐리고 가끔 비
+                - link "부산 26° 흐림" [ref=e380] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e381]: 부산
+                  - generic [ref=e382]: 26°
+                  - generic [ref=e383]: 흐림
+                - link "울산 23° 흐림" [ref=e384] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e385]: 울산
+                  - generic [ref=e386]: 23°
+                  - generic [ref=e387]: 흐림
+                - link "청주 23° 흐리고 한때 비" [ref=e388] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e389]: 청주
+                  - generic [ref=e390]: 23°
+                  - generic [ref=e391]: 흐리고 한때 비
+                - link "서울 23° 흐림" [ref=e392] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e393]: 서울
+                  - generic [ref=e394]: 23°
+                  - generic [ref=e395]: 흐림
+                - link "목포 26° 흐림" [ref=e396] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e397]: 목포
+                  - generic [ref=e398]: 26°
+                  - generic [ref=e399]: 흐림
+                - link "여수 26° 구름많음" [ref=e400] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e401]: 여수
+                  - generic [ref=e402]: 26°
+                  - generic [ref=e403]: 구름많음
+                - link "인천 23° 흐림" [ref=e404] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e405]: 인천
+                  - generic [ref=e406]: 23°
+                  - generic [ref=e407]: 흐림
+                - link "전주 24° 흐림" [ref=e408] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e409]: 전주
+                  - generic [ref=e410]: 24°
+                  - generic [ref=e411]: 흐림
+                - link "제주 26° 구름많음" [ref=e412] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e413]: 제주
+                  - generic [ref=e414]: 26°
+                  - generic [ref=e415]: 구름많음
+                - link "광주 26° 흐림" [ref=e416] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e417]: 광주
+                  - generic [ref=e418]: 26°
+                  - generic [ref=e419]: 흐림
+            - generic [ref=e420]:
+              - heading "09.02. 오후 기온" [level=3] [ref=e421]
+              - generic [ref=e424]:
+                - link "춘천 28° 흐림" [ref=e425] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e426]: 춘천
+                  - generic [ref=e427]: 28°
+                  - generic [ref=e428]: 흐림
+                - link "강릉 26° 흐림" [ref=e429] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e430]: 강릉
+                  - generic [ref=e431]: 26°
+                  - generic [ref=e432]: 흐림
+                - link "수원 29° 구름많음" [ref=e433] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e434]: 수원
+                  - generic [ref=e435]: 29°
+                  - generic [ref=e436]: 구름많음
+                - link "포항 32° 구름많음" [ref=e437] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e438]: 포항
+                  - generic [ref=e439]: 32°
+                  - generic [ref=e440]: 구름많음
+                - link "안동 31° 흐리고 한때 소나기 곳" [ref=e441] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e442]: 안동
+                  - generic [ref=e443]: 31°
+                  - generic [ref=e444]: 흐리고 한때 소나기 곳
+                - link "울릉/독도 28° 흐림" [ref=e445] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e446]: 울릉/독도
+                  - generic [ref=e447]: 28°
+                  - generic [ref=e448]: 흐림
+                - link "대구 32° 구름많고 한때 소나기 곳" [ref=e449] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e450]: 대구
+                  - generic [ref=e451]: 32°
+                  - generic [ref=e452]: 구름많고 한때 소나기 곳
+                - link "대전 29° 흐리고 한때 소나기" [ref=e453] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e454]: 대전
+                  - generic [ref=e455]: 29°
+                  - generic [ref=e456]: 흐리고 한때 소나기
+                - link "부산 32° 구름많고 한때 소나기" [ref=e457] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e458]: 부산
+                  - generic [ref=e459]: 32°
+                  - generic [ref=e460]: 구름많고 한때 소나기
+                - link "울산 32° 구름많고 한때 소나기" [ref=e461] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e462]: 울산
+                  - generic [ref=e463]: 32°
+                  - generic [ref=e464]: 구름많고 한때 소나기
+                - link "청주 29° 흐리고 한때 소나기 곳" [ref=e465] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e466]: 청주
+                  - generic [ref=e467]: 29°
+                  - generic [ref=e468]: 흐리고 한때 소나기 곳
+                - link "서울 29° 구름많음" [ref=e469] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e470]: 서울
+                  - generic [ref=e471]: 29°
+                  - generic [ref=e472]: 구름많음
+                - link "목포 32° 구름많고 가끔 소나기" [ref=e473] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e474]: 목포
+                  - generic [ref=e475]: 32°
+                  - generic [ref=e476]: 구름많고 가끔 소나기
+                - link "여수 31° 맑음" [ref=e477] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e478]: 여수
+                  - generic [ref=e479]: 31°
+                  - generic [ref=e480]: 맑음
+                - link "인천 28° 구름많음" [ref=e481] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e482]: 인천
+                  - generic [ref=e483]: 28°
+                  - generic [ref=e484]: 구름많음
+                - link "전주 31° 흐림" [ref=e485] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e486]: 전주
+                  - generic [ref=e487]: 31°
+                  - generic [ref=e488]: 흐림
+                - link "제주 32° 구름많고 한때 소나기" [ref=e489] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e490]: 제주
+                  - generic [ref=e491]: 32°
+                  - generic [ref=e492]: 구름많고 한때 소나기
+                - link "광주 32° 흐리고 한때 소나기" [ref=e493] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e494]: 광주
+                  - generic [ref=e495]: 32°
+                  - generic [ref=e496]: 흐리고 한때 소나기
+            - generic [ref=e497]:
+              - heading "09.03. 오전 기온" [level=3] [ref=e498]
+              - generic [ref=e501]:
+                - link "춘천 20° 구름많음" [ref=e502] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e503]: 춘천
+                  - generic [ref=e504]: 20°
+                  - generic [ref=e505]: 구름많음
+                - link "강릉 21° 흐리고 한때 비" [ref=e506] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e507]: 강릉
+                  - generic [ref=e508]: 21°
+                  - generic [ref=e509]: 흐리고 한때 비
+                - link "수원 21° 구름많음" [ref=e510] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e511]: 수원
+                  - generic [ref=e512]: 21°
+                  - generic [ref=e513]: 구름많음
+                - link "포항 24° 흐리고 한때 비 곳" [ref=e514] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e515]: 포항
+                  - generic [ref=e516]: 24°
+                  - generic [ref=e517]: 흐리고 한때 비 곳
+                - link "안동 22° 흐림" [ref=e518] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e519]: 안동
+                  - generic [ref=e520]: 22°
+                  - generic [ref=e521]: 흐림
+                - link "울릉/독도 23° 흐리고 한때 비" [ref=e522] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e523]: 울릉/독도
+                  - generic [ref=e524]: 23°
+                  - generic [ref=e525]: 흐리고 한때 비
+                - link "대구 23° 흐림" [ref=e526] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e527]: 대구
+                  - generic [ref=e528]: 23°
+                  - generic [ref=e529]: 흐림
+                - link "대전 22° 구름많음" [ref=e530] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e531]: 대전
+                  - generic [ref=e532]: 22°
+                  - generic [ref=e533]: 구름많음
+                - link "부산 25° 구름많고 한때 비" [ref=e534] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e535]: 부산
+                  - generic [ref=e536]: 25°
+                  - generic [ref=e537]: 구름많고 한때 비
+                - link "울산 23° 흐리고 한때 비" [ref=e538] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e539]: 울산
+                  - generic [ref=e540]: 23°
+                  - generic [ref=e541]: 흐리고 한때 비
+                - link "청주 23° 구름많음" [ref=e542] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e543]: 청주
+                  - generic [ref=e544]: 23°
+                  - generic [ref=e545]: 구름많음
+                - link "서울 21° 맑음" [ref=e546] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e547]: 서울
+                  - generic [ref=e548]: 21°
+                  - generic [ref=e549]: 맑음
+                - link "목포 24° 흐림" [ref=e550] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e551]: 목포
+                  - generic [ref=e552]: 24°
+                  - generic [ref=e553]: 흐림
+                - link "여수 24° 구름많음" [ref=e554] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e555]: 여수
+                  - generic [ref=e556]: 24°
+                  - generic [ref=e557]: 구름많음
+                - link "인천 21° 맑음" [ref=e558] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e559]: 인천
+                  - generic [ref=e560]: 21°
+                  - generic [ref=e561]: 맑음
+                - link "전주 23° 흐림" [ref=e562] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e563]: 전주
+                  - generic [ref=e564]: 23°
+                  - generic [ref=e565]: 흐림
+                - link "제주 26° 흐리고 한때 비" [ref=e566] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e567]: 제주
+                  - generic [ref=e568]: 26°
+                  - generic [ref=e569]: 흐리고 한때 비
+                - link "광주 23° 흐림" [ref=e570] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e571]: 광주
+                  - generic [ref=e572]: 23°
+                  - generic [ref=e573]: 흐림
+            - generic [ref=e574]:
+              - heading "09.03. 오후 기온" [level=3] [ref=e575]
+              - generic [ref=e578]:
+                - link "춘천 29° 맑음" [ref=e579] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e580]: 춘천
+                  - generic [ref=e581]: 29°
+                  - generic [ref=e582]: 맑음
+                - link "강릉 26° 흐리고 비" [ref=e583] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e584]: 강릉
+                  - generic [ref=e585]: 26°
+                  - generic [ref=e586]: 흐리고 비
+                - link "수원 30° 맑음" [ref=e587] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e588]: 수원
+                  - generic [ref=e589]: 30°
+                  - generic [ref=e590]: 맑음
+                - link "포항 28° 구름많고 한때 비 곳" [ref=e591] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e592]: 포항
+                  - generic [ref=e593]: 28°
+                  - generic [ref=e594]: 구름많고 한때 비 곳
+                - link "안동 29° 구름많고 한때 소나기 곳" [ref=e595] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e596]: 안동
+                  - generic [ref=e597]: 29°
+                  - generic [ref=e598]: 구름많고 한때 소나기 곳
+                - link "울릉/독도 26° 구름많고 가끔 비" [ref=e599] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e600]: 울릉/독도
+                  - generic [ref=e601]: 26°
+                  - generic [ref=e602]: 구름많고 가끔 비
+                - link "대구 29° 구름많고 한때 소나기 곳" [ref=e603] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e604]: 대구
+                  - generic [ref=e605]: 29°
+                  - generic [ref=e606]: 구름많고 한때 소나기 곳
+                - link "대전 30° 맑음" [ref=e607] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e608]: 대전
+                  - generic [ref=e609]: 30°
+                  - generic [ref=e610]: 맑음
+                - link "부산 30° 구름많고 가끔 비" [ref=e611] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e612]: 부산
+                  - generic [ref=e613]: 30°
+                  - generic [ref=e614]: 구름많고 가끔 비
+                - link "울산 28° 흐리고 가끔 비" [ref=e615] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e616]: 울산
+                  - generic [ref=e617]: 28°
+                  - generic [ref=e618]: 흐리고 가끔 비
+                - link "청주 30° 구름많고 한때 소나기 곳" [ref=e619] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e620]: 청주
+                  - generic [ref=e621]: 30°
+                  - generic [ref=e622]: 구름많고 한때 소나기 곳
+                - link "서울 30° 맑음" [ref=e623] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e624]: 서울
+                  - generic [ref=e625]: 30°
+                  - generic [ref=e626]: 맑음
+                - link "목포 31° 구름많음" [ref=e627] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e628]: 목포
+                  - generic [ref=e629]: 31°
+                  - generic [ref=e630]: 구름많음
+                - link "여수 31° 구름많음" [ref=e631] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e632]: 여수
+                  - generic [ref=e633]: 31°
+                  - generic [ref=e634]: 구름많음
+                - link "인천 30° 맑음" [ref=e635] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e636]: 인천
+                  - generic [ref=e637]: 30°
+                  - generic [ref=e638]: 맑음
+                - link "전주 31° 맑음" [ref=e639] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e640]: 전주
+                  - generic [ref=e641]: 31°
+                  - generic [ref=e642]: 맑음
+                - link "제주 31° 구름많음" [ref=e643] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e644]: 제주
+                  - generic [ref=e645]: 31°
+                  - generic [ref=e646]: 구름많음
+                - link "광주 32° 구름많음" [ref=e647] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e648]: 광주
+                  - generic [ref=e649]: 32°
+                  - generic [ref=e650]: 구름많음
+            - generic [ref=e651]:
+              - heading "09.04. 오전 기온" [level=3] [ref=e652]
+              - generic [ref=e655]:
+                - link "춘천 18° 맑음" [ref=e656] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e657]: 춘천
+                  - generic [ref=e658]: 18°
+                  - generic [ref=e659]: 맑음
+                - link "강릉 20° 흐리고 가끔 비" [ref=e660] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e661]: 강릉
+                  - generic [ref=e662]: 20°
+                  - generic [ref=e663]: 흐리고 가끔 비
+                - link "수원 21° 맑음" [ref=e664] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e665]: 수원
+                  - generic [ref=e666]: 21°
+                  - generic [ref=e667]: 맑음
+                - link "포항 23° 맑음" [ref=e668] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e669]: 포항
+                  - generic [ref=e670]: 23°
+                  - generic [ref=e671]: 맑음
+                - link "안동 20° 맑음" [ref=e672] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e673]: 안동
+                  - generic [ref=e674]: 20°
+                  - generic [ref=e675]: 맑음
+                - link "울릉/독도 22° 흐리고 가끔 비" [ref=e676] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e677]: 울릉/독도
+                  - generic [ref=e678]: 22°
+                  - generic [ref=e679]: 흐리고 가끔 비
+                - link "대구 22° 맑음" [ref=e680] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e681]: 대구
+                  - generic [ref=e682]: 22°
+                  - generic [ref=e683]: 맑음
+                - link "대전 21° 맑음" [ref=e684] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e685]: 대전
+                  - generic [ref=e686]: 21°
+                  - generic [ref=e687]: 맑음
+                - link "부산 24° 구름많음" [ref=e688] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e689]: 부산
+                  - generic [ref=e690]: 24°
+                  - generic [ref=e691]: 구름많음
+                - link "울산 23° 구름많음" [ref=e692] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e693]: 울산
+                  - generic [ref=e694]: 23°
+                  - generic [ref=e695]: 구름많음
+                - link "청주 21° 맑음" [ref=e696] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e697]: 청주
+                  - generic [ref=e698]: 21°
+                  - generic [ref=e699]: 맑음
+                - link "서울 21° 맑음" [ref=e700] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e701]: 서울
+                  - generic [ref=e702]: 21°
+                  - generic [ref=e703]: 맑음
+                - link "목포 23° 맑음" [ref=e704] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e705]: 목포
+                  - generic [ref=e706]: 23°
+                  - generic [ref=e707]: 맑음
+                - link "여수 23° 맑음" [ref=e708] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e709]: 여수
+                  - generic [ref=e710]: 23°
+                  - generic [ref=e711]: 맑음
+                - link "인천 21° 맑음" [ref=e712] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e713]: 인천
+                  - generic [ref=e714]: 21°
+                  - generic [ref=e715]: 맑음
+                - link "전주 22° 맑음" [ref=e716] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e717]: 전주
+                  - generic [ref=e718]: 22°
+                  - generic [ref=e719]: 맑음
+                - link "제주 25° 흐리고 비" [ref=e720] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e721]: 제주
+                  - generic [ref=e722]: 25°
+                  - generic [ref=e723]: 흐리고 비
+                - link "광주 23° 맑음" [ref=e724] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e725]: 광주
+                  - generic [ref=e726]: 23°
+                  - generic [ref=e727]: 맑음
+            - generic [ref=e728]:
+              - heading "09.04. 오후 기온" [level=3] [ref=e729]
+              - generic [ref=e732]:
+                - link "춘천 28° 맑음" [ref=e733] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e734]: 춘천
+                  - generic [ref=e735]: 28°
+                  - generic [ref=e736]: 맑음
+                - link "강릉 25° 흐리고 가끔 비" [ref=e737] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e738]: 강릉
+                  - generic [ref=e739]: 25°
+                  - generic [ref=e740]: 흐리고 가끔 비
+                - link "수원 29° 맑음" [ref=e741] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e742]: 수원
+                  - generic [ref=e743]: 29°
+                  - generic [ref=e744]: 맑음
+                - link "포항 27° 맑음" [ref=e745] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e746]: 포항
+                  - generic [ref=e747]: 27°
+                  - generic [ref=e748]: 맑음
+                - link "안동 27° 맑음" [ref=e749] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e750]: 안동
+                  - generic [ref=e751]: 27°
+                  - generic [ref=e752]: 맑음
+                - link "울릉/독도 25° 흐리고 가끔 비" [ref=e753] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e754]: 울릉/독도
+                  - generic [ref=e755]: 25°
+                  - generic [ref=e756]: 흐리고 가끔 비
+                - link "대구 28° 맑음" [ref=e757] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e758]: 대구
+                  - generic [ref=e759]: 28°
+                  - generic [ref=e760]: 맑음
+                - link "대전 29° 맑음" [ref=e761] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e762]: 대전
+                  - generic [ref=e763]: 29°
+                  - generic [ref=e764]: 맑음
+                - link "부산 28° 맑음" [ref=e765] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e766]: 부산
+                  - generic [ref=e767]: 28°
+                  - generic [ref=e768]: 맑음
+                - link "울산 27° 맑음" [ref=e769] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e770]: 울산
+                  - generic [ref=e771]: 27°
+                  - generic [ref=e772]: 맑음
+                - link "청주 29° 맑음" [ref=e773] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e774]: 청주
+                  - generic [ref=e775]: 29°
+                  - generic [ref=e776]: 맑음
+                - link "서울 29° 맑음" [ref=e777] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e778]: 서울
+                  - generic [ref=e779]: 29°
+                  - generic [ref=e780]: 맑음
+                - link "목포 31° 맑음" [ref=e781] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e782]: 목포
+                  - generic [ref=e783]: 31°
+                  - generic [ref=e784]: 맑음
+                - link "여수 29° 맑음" [ref=e785] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e786]: 여수
+                  - generic [ref=e787]: 29°
+                  - generic [ref=e788]: 맑음
+                - link "인천 29° 맑음" [ref=e789] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e790]: 인천
+                  - generic [ref=e791]: 29°
+                  - generic [ref=e792]: 맑음
+                - link "전주 29° 맑음" [ref=e793] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e794]: 전주
+                  - generic [ref=e795]: 29°
+                  - generic [ref=e796]: 맑음
+                - link "제주 30° 맑음" [ref=e797] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e798]: 제주
+                  - generic [ref=e799]: 30°
+                  - generic [ref=e800]: 맑음
+                - link "광주 32° 맑음" [ref=e801] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e802]: 광주
+                  - generic [ref=e803]: 32°
+                  - generic [ref=e804]: 맑음
+            - generic [ref=e805]:
+              - heading "09.05. 오전 기온" [level=3] [ref=e806]
+              - generic [ref=e809]:
+                - link "춘천 17° 맑음" [ref=e810] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e811]: 춘천
+                  - generic [ref=e812]: 17°
+                  - generic [ref=e813]: 맑음
+                - link "강릉 19° 흐리고 비" [ref=e814] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e815]: 강릉
+                  - generic [ref=e816]: 19°
+                  - generic [ref=e817]: 흐리고 비
+                - link "수원 20° 맑음" [ref=e818] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e819]: 수원
+                  - generic [ref=e820]: 20°
+                  - generic [ref=e821]: 맑음
+                - link "포항 22° 맑음" [ref=e822] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e823]: 포항
+                  - generic [ref=e824]: 22°
+                  - generic [ref=e825]: 맑음
+                - link "안동 18° 맑음" [ref=e826] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e827]: 안동
+                  - generic [ref=e828]: 18°
+                  - generic [ref=e829]: 맑음
+                - link "울릉/독도 21° 흐리고 비" [ref=e830] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e831]: 울릉/독도
+                  - generic [ref=e832]: 21°
+                  - generic [ref=e833]: 흐리고 비
+                - link "대구 21° 맑음" [ref=e834] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e835]: 대구
+                  - generic [ref=e836]: 21°
+                  - generic [ref=e837]: 맑음
+                - link "대전 19° 맑음" [ref=e838] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e839]: 대전
+                  - generic [ref=e840]: 19°
+                  - generic [ref=e841]: 맑음
+                - link "부산 23° 맑음" [ref=e842] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e843]: 부산
+                  - generic [ref=e844]: 23°
+                  - generic [ref=e845]: 맑음
+                - link "울산 22° 맑음" [ref=e846] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e847]: 울산
+                  - generic [ref=e848]: 22°
+                  - generic [ref=e849]: 맑음
+                - link "청주 20° 맑음" [ref=e850] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e851]: 청주
+                  - generic [ref=e852]: 20°
+                  - generic [ref=e853]: 맑음
+                - link "서울 20° 맑음" [ref=e854] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e855]: 서울
+                  - generic [ref=e856]: 20°
+                  - generic [ref=e857]: 맑음
+                - link "목포 21° 맑음" [ref=e858] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e859]: 목포
+                  - generic [ref=e860]: 21°
+                  - generic [ref=e861]: 맑음
+                - link "여수 22° 맑음" [ref=e862] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e863]: 여수
+                  - generic [ref=e864]: 22°
+                  - generic [ref=e865]: 맑음
+                - link "인천 20° 맑음" [ref=e866] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e867]: 인천
+                  - generic [ref=e868]: 20°
+                  - generic [ref=e869]: 맑음
+                - link "전주 20° 맑음" [ref=e870] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e871]: 전주
+                  - generic [ref=e872]: 20°
+                  - generic [ref=e873]: 맑음
+                - link "제주 24° 구름많음" [ref=e874] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e875]: 제주
+                  - generic [ref=e876]: 24°
+                  - generic [ref=e877]: 구름많음
+                - link "광주 21° 맑음" [ref=e878] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e879]: 광주
+                  - generic [ref=e880]: 21°
+                  - generic [ref=e881]: 맑음
+            - generic [ref=e882]:
+              - heading "09.05. 오후 기온" [level=3] [ref=e883]
+              - generic [ref=e886]:
+                - link "춘천 27° 맑음" [ref=e887] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e888]: 춘천
+                  - generic [ref=e889]: 27°
+                  - generic [ref=e890]: 맑음
+                - link "강릉 25° 흐리고 비" [ref=e891] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e892]: 강릉
+                  - generic [ref=e893]: 25°
+                  - generic [ref=e894]: 흐리고 비
+                - link "수원 29° 맑음" [ref=e895] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e896]: 수원
+                  - generic [ref=e897]: 29°
+                  - generic [ref=e898]: 맑음
+                - link "포항 27° 맑음" [ref=e899] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e900]: 포항
+                  - generic [ref=e901]: 27°
+                  - generic [ref=e902]: 맑음
+                - link "안동 27° 맑음" [ref=e903] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e904]: 안동
+                  - generic [ref=e905]: 27°
+                  - generic [ref=e906]: 맑음
+                - link "울릉/독도 24° 흐리고 비" [ref=e907] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e908]: 울릉/독도
+                  - generic [ref=e909]: 24°
+                  - generic [ref=e910]: 흐리고 비
+                - link "대구 27° 맑음" [ref=e911] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e912]: 대구
+                  - generic [ref=e913]: 27°
+                  - generic [ref=e914]: 맑음
+                - link "대전 28° 맑음" [ref=e915] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e916]: 대전
+                  - generic [ref=e917]: 28°
+                  - generic [ref=e918]: 맑음
+                - link "부산 27° 맑음" [ref=e919] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e920]: 부산
+                  - generic [ref=e921]: 27°
+                  - generic [ref=e922]: 맑음
+                - link "울산 27° 맑음" [ref=e923] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e924]: 울산
+                  - generic [ref=e925]: 27°
+                  - generic [ref=e926]: 맑음
+                - link "청주 29° 맑음" [ref=e927] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e928]: 청주
+                  - generic [ref=e929]: 29°
+                  - generic [ref=e930]: 맑음
+                - link "서울 29° 맑음" [ref=e931] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e932]: 서울
+                  - generic [ref=e933]: 29°
+                  - generic [ref=e934]: 맑음
+                - link "목포 31° 맑음" [ref=e935] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e936]: 목포
+                  - generic [ref=e937]: 31°
+                  - generic [ref=e938]: 맑음
+                - link "여수 28° 맑음" [ref=e939] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e940]: 여수
+                  - generic [ref=e941]: 28°
+                  - generic [ref=e942]: 맑음
+                - link "인천 29° 맑음" [ref=e943] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e944]: 인천
+                  - generic [ref=e945]: 29°
+                  - generic [ref=e946]: 맑음
+                - link "전주 29° 맑음" [ref=e947] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e948]: 전주
+                  - generic [ref=e949]: 29°
+                  - generic [ref=e950]: 맑음
+                - link "제주 28° 구름많음" [ref=e951] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e952]: 제주
+                  - generic [ref=e953]: 28°
+                  - generic [ref=e954]: 구름많음
+                - link "광주 31° 맑음" [ref=e955] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e956]: 광주
+                  - generic [ref=e957]: 31°
+                  - generic [ref=e958]: 맑음
+            - generic [ref=e959]:
+              - heading "09.06. 오전 기온" [level=3] [ref=e960]
+              - generic [ref=e963]:
+                - link "춘천 18° 맑음" [ref=e964] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e965]: 춘천
+                  - generic [ref=e966]: 18°
+                  - generic [ref=e967]: 맑음
+                - link "강릉 20° 흐리고 비" [ref=e968] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e969]: 강릉
+                  - generic [ref=e970]: 20°
+                  - generic [ref=e971]: 흐리고 비
+                - link "수원 20° 맑음" [ref=e972] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e973]: 수원
+                  - generic [ref=e974]: 20°
+                  - generic [ref=e975]: 맑음
+                - link "포항 24° 구름많음" [ref=e976] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e977]: 포항
+                  - generic [ref=e978]: 24°
+                  - generic [ref=e979]: 구름많음
+                - link "안동 20° 구름많음" [ref=e980] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e981]: 안동
+                  - generic [ref=e982]: 20°
+                  - generic [ref=e983]: 구름많음
+                - link "울릉/독도 22° 흐리고 비" [ref=e984] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e985]: 울릉/독도
+                  - generic [ref=e986]: 22°
+                  - generic [ref=e987]: 흐리고 비
+                - link "대구 22° 구름많음" [ref=e988] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e989]: 대구
+                  - generic [ref=e990]: 22°
+                  - generic [ref=e991]: 구름많음
+                - link "대전 20° 맑음" [ref=e992] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e993]: 대전
+                  - generic [ref=e994]: 20°
+                  - generic [ref=e995]: 맑음
+                - link "부산 23° 구름많음" [ref=e996] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e997]: 부산
+                  - generic [ref=e998]: 23°
+                  - generic [ref=e999]: 구름많음
+                - link "울산 22° 구름많음" [ref=e1000] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1001]: 울산
+                  - generic [ref=e1002]: 22°
+                  - generic [ref=e1003]: 구름많음
+                - link "청주 20° 맑음" [ref=e1004] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1005]: 청주
+                  - generic [ref=e1006]: 20°
+                  - generic [ref=e1007]: 맑음
+                - link "서울 21° 맑음" [ref=e1008] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1009]: 서울
+                  - generic [ref=e1010]: 21°
+                  - generic [ref=e1011]: 맑음
+                - link "목포 22° 구름많음" [ref=e1012] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1013]: 목포
+                  - generic [ref=e1014]: 22°
+                  - generic [ref=e1015]: 구름많음
+                - link "여수 22° 구름많음" [ref=e1016] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1017]: 여수
+                  - generic [ref=e1018]: 22°
+                  - generic [ref=e1019]: 구름많음
+                - link "인천 21° 맑음" [ref=e1020] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1021]: 인천
+                  - generic [ref=e1022]: 21°
+                  - generic [ref=e1023]: 맑음
+                - link "전주 21° 맑음" [ref=e1024] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1025]: 전주
+                  - generic [ref=e1026]: 21°
+                  - generic [ref=e1027]: 맑음
+                - link "제주 25° 흐림" [ref=e1028] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1029]: 제주
+                  - generic [ref=e1030]: 25°
+                  - generic [ref=e1031]: 흐림
+                - link "광주 21° 구름많음" [ref=e1032] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1033]: 광주
+                  - generic [ref=e1034]: 21°
+                  - generic [ref=e1035]: 구름많음
+            - generic [ref=e1036]:
+              - heading "09.06. 오후 기온" [level=3] [ref=e1037]
+              - generic [ref=e1040]:
+                - link "춘천 26° 맑음" [ref=e1041] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1042]: 춘천
+                  - generic [ref=e1043]: 26°
+                  - generic [ref=e1044]: 맑음
+                - link "강릉 25° 흐리고 비" [ref=e1045] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1046]: 강릉
+                  - generic [ref=e1047]: 25°
+                  - generic [ref=e1048]: 흐리고 비
+                - link "수원 28° 맑음" [ref=e1049] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1050]: 수원
+                  - generic [ref=e1051]: 28°
+                  - generic [ref=e1052]: 맑음
+                - link "포항 26° 구름많음" [ref=e1053] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1054]: 포항
+                  - generic [ref=e1055]: 26°
+                  - generic [ref=e1056]: 구름많음
+                - link "안동 27° 구름많음" [ref=e1057] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1058]: 안동
+                  - generic [ref=e1059]: 27°
+                  - generic [ref=e1060]: 구름많음
+                - link "울릉/독도 26° 흐리고 비" [ref=e1061] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1062]: 울릉/독도
+                  - generic [ref=e1063]: 26°
+                  - generic [ref=e1064]: 흐리고 비
+                - link "대구 27° 구름많음" [ref=e1065] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1066]: 대구
+                  - generic [ref=e1067]: 27°
+                  - generic [ref=e1068]: 구름많음
+                - link "대전 28° 맑음" [ref=e1069] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1070]: 대전
+                  - generic [ref=e1071]: 28°
+                  - generic [ref=e1072]: 맑음
+                - link "부산 28° 구름많음" [ref=e1073] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1074]: 부산
+                  - generic [ref=e1075]: 28°
+                  - generic [ref=e1076]: 구름많음
+                - link "울산 27° 구름많음" [ref=e1077] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1078]: 울산
+                  - generic [ref=e1079]: 27°
+                  - generic [ref=e1080]: 구름많음
+                - link "청주 28° 맑음" [ref=e1081] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1082]: 청주
+                  - generic [ref=e1083]: 28°
+                  - generic [ref=e1084]: 맑음
+                - link "서울 28° 맑음" [ref=e1085] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1086]: 서울
+                  - generic [ref=e1087]: 28°
+                  - generic [ref=e1088]: 맑음
+                - link "목포 30° 구름많음" [ref=e1089] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1090]: 목포
+                  - generic [ref=e1091]: 30°
+                  - generic [ref=e1092]: 구름많음
+                - link "여수 28° 구름많음" [ref=e1093] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1094]: 여수
+                  - generic [ref=e1095]: 28°
+                  - generic [ref=e1096]: 구름많음
+                - link "인천 29° 맑음" [ref=e1097] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1098]: 인천
+                  - generic [ref=e1099]: 29°
+                  - generic [ref=e1100]: 맑음
+                - link "전주 30° 맑음" [ref=e1101] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1102]: 전주
+                  - generic [ref=e1103]: 30°
+                  - generic [ref=e1104]: 맑음
+                - link "제주 29° 흐림" [ref=e1105] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1106]: 제주
+                  - generic [ref=e1107]: 29°
+                  - generic [ref=e1108]: 흐림
+                - link "광주 29° 구름많음" [ref=e1109] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1110]: 광주
+                  - generic [ref=e1111]: 29°
+                  - generic [ref=e1112]: 구름많음
+            - generic [ref=e1113]:
+              - heading "09.07. 오전 기온" [level=3] [ref=e1114]
+              - generic [ref=e1117]:
+                - link "춘천 18° 맑음" [ref=e1118] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1119]: 춘천
+                  - generic [ref=e1120]: 18°
+                  - generic [ref=e1121]: 맑음
+                - link "강릉 20° 구름많음" [ref=e1122] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1123]: 강릉
+                  - generic [ref=e1124]: 20°
+                  - generic [ref=e1125]: 구름많음
+                - link "수원 20° 맑음" [ref=e1126] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1127]: 수원
+                  - generic [ref=e1128]: 20°
+                  - generic [ref=e1129]: 맑음
+                - link "포항 23° 구름많음" [ref=e1130] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1131]: 포항
+                  - generic [ref=e1132]: 23°
+                  - generic [ref=e1133]: 구름많음
+                - link "안동 19° 구름많음" [ref=e1134] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1135]: 안동
+                  - generic [ref=e1136]: 19°
+                  - generic [ref=e1137]: 구름많음
+                - link "울릉/독도 23° 구름많음" [ref=e1138] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1139]: 울릉/독도
+                  - generic [ref=e1140]: 23°
+                  - generic [ref=e1141]: 구름많음
+                - link "대구 21° 구름많음" [ref=e1142] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1143]: 대구
+                  - generic [ref=e1144]: 21°
+                  - generic [ref=e1145]: 구름많음
+                - link "대전 20° 맑음" [ref=e1146] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1147]: 대전
+                  - generic [ref=e1148]: 20°
+                  - generic [ref=e1149]: 맑음
+                - link "부산 23° 구름많음" [ref=e1150] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1151]: 부산
+                  - generic [ref=e1152]: 23°
+                  - generic [ref=e1153]: 구름많음
+                - link "울산 21° 구름많음" [ref=e1154] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1155]: 울산
+                  - generic [ref=e1156]: 21°
+                  - generic [ref=e1157]: 구름많음
+                - link "청주 20° 맑음" [ref=e1158] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1159]: 청주
+                  - generic [ref=e1160]: 20°
+                  - generic [ref=e1161]: 맑음
+                - link "서울 21° 맑음" [ref=e1162] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1163]: 서울
+                  - generic [ref=e1164]: 21°
+                  - generic [ref=e1165]: 맑음
+                - link "목포 21° 구름많음" [ref=e1166] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1167]: 목포
+                  - generic [ref=e1168]: 21°
+                  - generic [ref=e1169]: 구름많음
+                - link "여수 22° 구름많음" [ref=e1170] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1171]: 여수
+                  - generic [ref=e1172]: 22°
+                  - generic [ref=e1173]: 구름많음
+                - link "인천 21° 맑음" [ref=e1174] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1175]: 인천
+                  - generic [ref=e1176]: 21°
+                  - generic [ref=e1177]: 맑음
+                - link "전주 22° 맑음" [ref=e1178] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1179]: 전주
+                  - generic [ref=e1180]: 22°
+                  - generic [ref=e1181]: 맑음
+                - link "제주 25° 구름많음" [ref=e1182] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1183]: 제주
+                  - generic [ref=e1184]: 25°
+                  - generic [ref=e1185]: 구름많음
+                - link "광주 20° 구름많음" [ref=e1186] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1187]: 광주
+                  - generic [ref=e1188]: 20°
+                  - generic [ref=e1189]: 구름많음
+            - generic [ref=e1190]:
+              - heading "09.07. 오후 기온" [level=3] [ref=e1191]
+              - generic [ref=e1194]:
+                - link "춘천 27° 맑음" [ref=e1195] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B6%98%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1196]: 춘천
+                  - generic [ref=e1197]: 27°
+                  - generic [ref=e1198]: 맑음
+                - link "강릉 25° 구름많음" [ref=e1199] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EA%B0%95%EB%A6%89%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1200]: 강릉
+                  - generic [ref=e1201]: 25°
+                  - generic [ref=e1202]: 구름많음
+                - link "수원 29° 맑음" [ref=e1203] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%88%98%EC%9B%90%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1204]: 수원
+                  - generic [ref=e1205]: 29°
+                  - generic [ref=e1206]: 맑음
+                - link "포항 26° 구름많음" [ref=e1207] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%ED%8F%AC%ED%95%AD%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1208]: 포항
+                  - generic [ref=e1209]: 26°
+                  - generic [ref=e1210]: 구름많음
+                - link "안동 28° 구름많음" [ref=e1211] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%95%88%EB%8F%99%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1212]: 안동
+                  - generic [ref=e1213]: 28°
+                  - generic [ref=e1214]: 구름많음
+                - link "울릉/독도 26° 구름많음" [ref=e1215] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EB%A6%89%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1216]: 울릉/독도
+                  - generic [ref=e1217]: 26°
+                  - generic [ref=e1218]: 구름많음
+                - link "대구 28° 구름많음" [ref=e1219] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1220]: 대구
+                  - generic [ref=e1221]: 28°
+                  - generic [ref=e1222]: 구름많음
+                - link "대전 29° 맑음" [ref=e1223] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%8C%80%EC%A0%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1224]: 대전
+                  - generic [ref=e1225]: 29°
+                  - generic [ref=e1226]: 맑음
+                - link "부산 28° 구름많음" [ref=e1227] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1228]: 부산
+                  - generic [ref=e1229]: 28°
+                  - generic [ref=e1230]: 구름많음
+                - link "울산 27° 구름많음" [ref=e1231] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9A%B8%EC%82%B0%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1232]: 울산
+                  - generic [ref=e1233]: 27°
+                  - generic [ref=e1234]: 구름많음
+                - link "청주 29° 맑음" [ref=e1235] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%B2%AD%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1236]: 청주
+                  - generic [ref=e1237]: 29°
+                  - generic [ref=e1238]: 맑음
+                - link "서울 29° 맑음" [ref=e1239] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%84%9C%EC%9A%B8%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1240]: 서울
+                  - generic [ref=e1241]: 29°
+                  - generic [ref=e1242]: 맑음
+                - link "목포 31° 구름많음" [ref=e1243] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EB%AA%A9%ED%8F%AC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1244]: 목포
+                  - generic [ref=e1245]: 31°
+                  - generic [ref=e1246]: 구름많음
+                - link "여수 30° 구름많음" [ref=e1247] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%97%AC%EC%88%98%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1248]: 여수
+                  - generic [ref=e1249]: 30°
+                  - generic [ref=e1250]: 구름많음
+                - link "인천 29° 맑음" [ref=e1251] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%9D%B8%EC%B2%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1252]: 인천
+                  - generic [ref=e1253]: 29°
+                  - generic [ref=e1254]: 맑음
+                - link "전주 31° 맑음" [ref=e1255] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EC%A3%BC%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1256]: 전주
+                  - generic [ref=e1257]: 31°
+                  - generic [ref=e1258]: 맑음
+                - link "제주 29° 구름많음" [ref=e1259] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%9C%EC%A3%BC%EB%8F%84%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1260]: 제주
+                  - generic [ref=e1261]: 29°
+                  - generic [ref=e1262]: 구름많음
+                - link "광주 31° 구름많음" [ref=e1263] [cursor=pointer]:
+                  - /url: "?where=m&sm=mtb_etc&mra=blQ3&qvt=0&query=%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C%EB%82%A0%EC%94%A8"
+                  - generic [ref=e1264]: 광주
+                  - generic [ref=e1265]: 31°
+                  - generic [ref=e1266]: 구름많음
+      - generic [ref=e1267]:
+        - generic [ref=e1268]:
+          - text: 출처
+          - link "기상청" [ref=e1269] [cursor=pointer]:
+            - /url: http://www.weather.go.kr/
+          - text: ", 제공"
+          - link "웨더아이" [ref=e1270] [cursor=pointer]:
+            - /url: http://www.weatheri.co.kr/
+          - text: 2026.09.01. 20:19 업데이트
+          - link "더보기" [ref=e1271] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e1273]:
+          - generic [ref=e1274]: 관련
+          - generic [ref=e1275]:
+            - link "날씨뉴스" [ref=e1276] [cursor=pointer]:
+              - /url: https://weather.naver.com/news
+            - text: ","
+            - link "기상특보" [ref=e1277] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_etc&qvt=0&query=%EA%B8%B0%EC%83%81%ED%8A%B9%EB%B3%B4"
+      - link "전국날씨 지도 더보기" [ref=e1279] [cursor=pointer]:
+        - /url: https://weather.naver.com/map
+        - generic [ref=e1280]: 전국날씨 지도
+        - generic [ref=e1281]: 더보기
+    - generic [ref=e1285]:
+      - generic [ref=e1287]:
+        - heading "뉴스" [level=2] [ref=e1289]
+        - generic [ref=e1291]:
+          - link "관련도순" [ref=e1292] [cursor=pointer]:
+            - /url: "?nso=so%3Ar%2Cp%3Aall&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_amr&sort=0&ssc=tab.m_news.all"
+          - link "최신순" [ref=e1297] [cursor=pointer]:
+            - /url: "?nso=so%3Add%2Cp%3Aall&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_amr&sort=1&ssc=tab.m_news.all"
+          - link "모바일 메인 언론사" [ref=e1302] [cursor=pointer]:
+            - /url: "?nso=so%3Ar%2Cp%3Aall&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&service_area=1&sm=mtb_amr&sort=0&ssc=tab.m_news.all"
+            - switch "모바일 메인 언론사"
+      - generic [ref=e1303]:
+        - generic [ref=e1304]:
+          - generic [ref=e1305]:
+            - generic [ref=e1306]:
+              - link [ref=e1308] [cursor=pointer]:
+                - /url: https://media.naver.com/press/422
+                - img "연합뉴스TV의 프로필 이미지" [ref=e1311]
+              - link "연합뉴스TV" [ref=e1314] [cursor=pointer]:
+                - /url: https://media.naver.com/press/422
+              - generic [ref=e1316]:
+                - generic [ref=e1318]: 2시간 전
+                - generic [ref=e1322]: 네이버뉴스
+            - button "옵션 메뉴 열기" [ref=e1326] [cursor=pointer]
+          - generic [ref=e1331]:
+            - link [ref=e1332] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/422/0000901732?sid=103
+              - generic [ref=e1333]:
+                - text: "["
+                - mark [ref=e1334]: 날씨
+                - text: "] 9월 첫날 중부 비…남부는 폭염특보"
+            - generic [ref=e1335]:
+              - link [ref=e1336] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/422/0000901732?sid=103
+                - generic [ref=e1337]:
+                  - text: 9월의 첫날인
+                  - mark [ref=e1338]: 오늘
+                  - text: 중부 지방에 비가 이어지고 있습니다. 현재 수도권과 강원도에 비가 내리고 있고, 이 비는
+                  - mark [ref=e1339]: 오늘
+                  - text: 밤에 그치겠는데요. 강수량은... 제주도에 비가 자주 내릴 전망입니다. 지금까지
+                  - mark [ref=e1340]: 날씨
+                  - text: "전해드렸습니다. (김수진 기상캐스터) #"
+                  - mark [ref=e1341]: 날씨
+                  - text: "#비 #더위 #소나기 #폭염특보 #강수전망 #가을"
+              - link [ref=e1342] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/422/0000901732?sid=103
+                - img "[<mark>날씨</mark>] 9월 첫날 중부 비…남부는 폭염특보의 이미지" [ref=e1344]
+          - generic [ref=e1350]:
+            - link "[날씨] 9월 첫날부터 중부 물벼락…남부 폭염특보 계속 연합뉴스TV 1시간 전 네이버뉴스" [ref=e1351] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/422/0000901772?sid=103
+              - generic [ref=e1352]:
+                - generic [ref=e1353]:
+                  - text: "["
+                  - mark [ref=e1354]: 날씨
+                  - text: "] 9월 첫날부터 중부 물벼락…남부 폭염특보 계속"
+                - generic [ref=e1356]:
+                  - generic [ref=e1357]: 연합뉴스TV
+                  - generic [ref=e1359]:
+                    - generic [ref=e1361]: 1시간 전
+                    - generic [ref=e1365]: 네이버뉴스
+            - link "[날씨] 9월의 첫날, 중부 많은 비…남부는 폭염 계속 연합뉴스TV 12분 전 네이버뉴스" [ref=e1368] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/422/0000901787?sid=103
+              - generic [ref=e1369]:
+                - generic [ref=e1370]:
+                  - text: "["
+                  - mark [ref=e1371]: 날씨
+                  - text: "] 9월의 첫날, 중부 많은 비…남부는 폭염 계속"
+                - generic [ref=e1373]:
+                  - generic [ref=e1374]: 연합뉴스TV
+                  - generic [ref=e1376]:
+                    - generic [ref=e1378]: 12분 전
+                    - generic [ref=e1382]: 네이버뉴스
+        - generic [ref=e1386]:
+          - generic [ref=e1387]:
+            - generic [ref=e1388]:
+              - link [ref=e1390] [cursor=pointer]:
+                - /url: https://media.naver.com/press/056
+                - img "KBS의 프로필 이미지" [ref=e1393]
+              - link "KBS" [ref=e1396] [cursor=pointer]:
+                - /url: https://media.naver.com/press/056
+              - generic [ref=e1398]:
+                - generic [ref=e1400]: 30분 전
+                - generic [ref=e1404]: 네이버뉴스
+            - button "옵션 메뉴 열기" [ref=e1408] [cursor=pointer]
+          - generic [ref=e1413]:
+            - link [ref=e1414] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/056/0012248914?sid=103
+              - generic [ref=e1415]:
+                - text: "["
+                - mark [ref=e1416]: 날씨
+                - text: "] 대구·경북 내일까지 ‘후텁지근’…모레까지 곳곳 소나기"
+            - generic [ref=e1417]:
+              - link [ref=e1418] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/056/0012248914?sid=103
+                - generic [ref=e1419]:
+                  - mark [ref=e1420]: 오늘
+                  - text: 대구는 32.3도, 경주는 34.7도로 어제보다 조금 더 오른 지역도 있었습니다. 내일까지는
+                  - mark [ref=e1421]: 오늘
+                  - text: 처럼 후텁지근하겠습니다. 모레까지 곳곳에... 주 후반으로 갈 수록 하늘은 맑겠고, 기온은 차차 떨어져 평년 이맘때 초가을
+                  - mark [ref=e1422]: 날씨
+                  - text: 가 나타날 것으로 예상됩니다.
+                  - mark [ref=e1423]: 날씨
+                  - text: 정보였습니다.
+              - link [ref=e1424] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/056/0012248914?sid=103
+                - img "[<mark>날씨</mark>] 대구·경북 내일까지 ‘후텁지근’…모레까지 곳곳 소나기의 이미지" [ref=e1426]
+        - generic [ref=e1431]:
+          - generic [ref=e1432]:
+            - generic [ref=e1433]:
+              - link [ref=e1435] [cursor=pointer]:
+                - /url: https://media.naver.com/press/052
+                - img "YTN의 프로필 이미지" [ref=e1438]
+              - link "YTN" [ref=e1441] [cursor=pointer]:
+                - /url: https://media.naver.com/press/052
+              - generic [ref=e1443]:
+                - generic [ref=e1445]: 53분 전
+                - generic [ref=e1449]: 네이버뉴스
+            - button "옵션 메뉴 열기" [ref=e1453] [cursor=pointer]
+          - generic [ref=e1458]:
+            - link [ref=e1459] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/052/0002401365?sid=103
+              - generic [ref=e1460]:
+                - text: "["
+                - mark [ref=e1461]: 날씨
+                - text: "] 내일 서울 낮 기온 29도...습도 높은 더위"
+            - generic [ref=e1462]:
+              - link [ref=e1463] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/052/0002401365?sid=103
+                - generic [ref=e1464]:
+                  - mark [ref=e1465]: 오늘
+                  - text: 도 중북부 지방은 더위가 쉬어갔습니다. 맞습니다. 비구름이 하늘을 뒤덮으면서 연일 예년 기온을 밑돌았는데요. 하지만 내일은 서울 낮... 호두는 스트레스 해소 효과까지 볼 수 있습니다. 또 건강에도 도움이 되는 만큼 틈틈이 챙겨 드시기 바랍니다.
+                  - mark [ref=e1466]: 날씨
+                  - text: 캔버스의 정수현. 김수현이었습니다.
+              - link [ref=e1467] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/052/0002401365?sid=103
+                - img "[<mark>날씨</mark>] 내일 서울 낮 기온 29도...습도 높은 더위의 이미지" [ref=e1469]
+        - generic [ref=e1474]:
+          - generic [ref=e1475]:
+            - generic [ref=e1476]:
+              - link [ref=e1478] [cursor=pointer]:
+                - /url: https://media.naver.com/press/055
+                - img "SBS의 프로필 이미지" [ref=e1481]
+              - link "SBS" [ref=e1484] [cursor=pointer]:
+                - /url: https://media.naver.com/press/055
+              - generic [ref=e1486]:
+                - generic [ref=e1488]: 3시간 전
+                - generic [ref=e1492]: 네이버뉴스
+            - button "옵션 메뉴 열기" [ref=e1496] [cursor=pointer]
+          - generic [ref=e1501]:
+            - link [ref=e1502] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/055/0001385050?sid=103
+              - generic [ref=e1503]:
+                - text: "["
+                - mark [ref=e1504]: 날씨
+                - text: "] 남부 산발적 소나기…습한 무더위 이어져"
+            - generic [ref=e1505]:
+              - link [ref=e1506] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/055/0001385050?sid=103
+                - generic [ref=e1507]:
+                  - text: 정체 전선의 영향으로
+                  - mark [ref=e1508]: 오늘
+                  - text: (1일)도 비가 이어지고 있습니다. 나흘간 영광 낙월도에 522mm, 홍성에도 200mm가 넘는 큰비가 내렸는데요. 지금...
+                  - mark [ref=e1509]: 오늘
+                  - text: 경주의 낮 기온이 34.7도까지 치솟았는데요. 내일 아침 기온 부산 25도, 낮 기온은 남부를 중심으로 30도를 웃돌며 더위가 이어지겠습니다. 내일...
+              - link [ref=e1510] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/055/0001385050?sid=103
+                - img "[<mark>날씨</mark>] 남부 산발적 소나기…습한 무더위 이어져의 이미지" [ref=e1512]
+      - link "뉴스 더보기" [ref=e1517] [cursor=pointer]:
+        - /url: "?nso=so%3Ar%2Cp%3Aall&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_amr&sort=0&ssc=tab.m_news.all"
+        - generic [ref=e1521]:
+          - generic [ref=e1522]: 뉴스
+          - generic [ref=e1523]: 더보기
+    - generic [ref=e1528]:
+      - generic [ref=e1533]:
+        - generic [ref=e1534]:
+          - generic [ref=e1535]:
+            - link "기상청 날씨누리 www.weather.go.kr" [ref=e1536] [cursor=pointer]:
+              - /url: https://www.weather.go.kr/
+              - generic [ref=e1538]:
+                - generic [ref=e1542]: 기상청 날씨누리
+                - generic [ref=e1544]: www.weather.go.kr
+            - button "옵션 메뉴 열기" [ref=e1549] [cursor=pointer]
+          - generic [ref=e1554]:
+            - link [ref=e1556] [cursor=pointer]:
+              - /url: https://www.weather.go.kr/
+              - generic [ref=e1557]:
+                - mark [ref=e1558]: 기상
+                - text: 청
+                - mark [ref=e1559]: 날씨
+                - text: 누리
+            - generic [ref=e1560]:
+              - link "레이더·낙뢰" [ref=e1561] [cursor=pointer]:
+                - /url: https://www.weather.go.kr/w/weather/radar/radar.do
+              - link "예보 종합" [ref=e1563] [cursor=pointer]:
+                - /url: https://www.weather.go.kr/w/forecast/overall/short-term.do
+              - link "현재날씨" [ref=e1565] [cursor=pointer]:
+                - /url: https://www.weather.go.kr/w/weather/land.do
+              - link "특보·예보" [ref=e1567] [cursor=pointer]:
+                - /url: https://www.weather.go.kr/w/special-report/overall.do
+              - link "위험기상" [ref=e1569] [cursor=pointer]:
+                - /url: https://www.weather.go.kr/w/hazard/typhoon.do
+              - link "위성" [ref=e1571] [cursor=pointer]:
+                - /url: https://www.weather.go.kr/w/weather/satellite.do
+            - link [ref=e1574] [cursor=pointer]:
+              - /url: https://www.weather.go.kr/
+              - generic [ref=e1575]:
+                - text: 지역별 기온, 강수, 바람, 폭염, 태풍, 미세먼지 등
+                - mark [ref=e1576]: 날씨
+                - text: 정보 제공.
+        - generic [ref=e1577]:
+          - generic [ref=e1579]:
+            - link "예보 종합 - 단기예보" [ref=e1580] [cursor=pointer]:
+              - /url: https://www.weather.go.kr/w/forecast/overall/short-term.do
+            - generic [ref=e1583]:
+              - text: □ (종합)
+              - mark [ref=e1584]: 오늘
+              - text: 수도권과 강원도, 내일 충청권 중심 비, 모레까지 남부지방 중심 소나기, 돌풍과 천둥.번개 유의 ○ (
+              - mark [ref=e1585]: 오늘
+              - text: ", 1일) 중부지방 흐리고, 남부지방과 제주도 구름많음, 밤(18~24시)까지 수도권과 강원도 곳에 따라 비, 저녁(18~21시)까지 충청남부와 남부지방, 제주도 곳에 따라 소나기 ○ (내일, 2일) 중부지방 대체로 흐리고, 남부지방과 제주도 구름많음, 늦은 새벽(03~06시)부....."
+          - link "관련문서 더보기" [ref=e1587] [cursor=pointer]:
+            - /url: "?page=2&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8+site%3Awww.weather.go.kr&qvt=0&ssc=tab.m_ur.all"
+      - generic [ref=e1595]:
+        - generic [ref=e1596]:
+          - generic [ref=e1597]:
+            - link "네이버 날씨 weather.naver.com" [ref=e1598] [cursor=pointer]:
+              - /url: https://weather.naver.com/
+              - generic [ref=e1600]:
+                - generic [ref=e1604]: 네이버 날씨
+                - generic [ref=e1606]: weather.naver.com
+            - button "옵션 메뉴 열기" [ref=e1611] [cursor=pointer]
+          - generic [ref=e1616]:
+            - link [ref=e1618] [cursor=pointer]:
+              - /url: https://weather.naver.com/
+              - generic [ref=e1619]:
+                - text: 네이버
+                - mark [ref=e1620]: 날씨
+                - text: 홈
+            - generic [ref=e1621]:
+              - link "초단기강수예측" [ref=e1622] [cursor=pointer]:
+                - /url: https://weather.naver.com/map?visualMapType=maple
+              - link "제보톡" [ref=e1624] [cursor=pointer]:
+                - /url: https://weather.naver.com/today/talk
+              - link "예보비교" [ref=e1626] [cursor=pointer]:
+                - /url: https://weather.naver.com/compare/02135580
+              - link "세이프티" [ref=e1628] [cursor=pointer]:
+                - /url: https://weather.naver.com/safety
+              - link "미세먼지" [ref=e1630] [cursor=pointer]:
+                - /url: https://weather.naver.com/air/02135580
+              - link "지도" [ref=e1632] [cursor=pointer]:
+                - /url: https://weather.naver.com/map/02135580
+              - link "영상" [ref=e1634] [cursor=pointer]:
+                - /url: https://weather.naver.com/video/02135580
+            - link [ref=e1637] [cursor=pointer]:
+              - /url: https://weather.naver.com/
+              - generic [ref=e1638]:
+                - text: 전국 모든 읍・면・동의 현재
+                - mark [ref=e1639]: 날씨
+                - text: 와 시간별 예보, 주간 예보를 제공합니다.
+        - generic [ref=e1640]:
+          - generic [ref=e1642]:
+            - link [ref=e1643] [cursor=pointer]:
+              - /url: https://weather.naver.com/today/LSGF0256
+              - generic [ref=e1644]:
+                - text: 대구CC - 네이버
+                - mark [ref=e1645]: 날씨
+                - text: 홈
+            - generic [ref=e1647]:
+              - text: 전국 모든 읍・면・동의 현재
+              - mark [ref=e1648]: 날씨
+              - text: 와 시간별 예보, 주간 예보를 제공합니다.
+          - link "관련문서 더보기" [ref=e1650] [cursor=pointer]:
+            - /url: "?page=2&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8+site%3Aweather.naver.com&qvt=0&ssc=tab.m_ur.all"
+      - generic [ref=e1659]:
+        - generic [ref=e1660]:
+          - generic [ref=e1661]:
+            - link [ref=e1663] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/iandgood001
+            - link "예랑햇살 스마트팜 유통" [ref=e1668] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/iandgood001
+            - generic [ref=e1670]: 13시간 전
+          - button "옵션 메뉴 열기" [ref=e1674] [cursor=pointer]
+        - generic [ref=e1681]:
+          - link [ref=e1682] [cursor=pointer]:
+            - /url: https://m.blog.naver.com/iandgood001/224396851118
+            - generic [ref=e1683]:
+              - mark [ref=e1684]: 날씨
+              - text: 예보 실시간 팩트체크!
+              - mark [ref=e1685]: 오늘날씨
+              - text: 수도권 비 및 농산물 생육 온도 가이드
+          - generic [ref=e1686]:
+            - link [ref=e1688] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/iandgood001/224396851118
+              - generic [ref=e1689]:
+                - text: 벤토 그리드 핵심 정보 요약지 실시간
+                - mark [ref=e1690]: 기상
+                - text: 및 생육 데이터 분석 내용 짠테크 및 행동 지침 비고 ☔
+                - mark [ref=e1691]: 오늘 날씨
+                - text: (수도권) 서울·인천 오전/오후 비! 습도 94~97% 극한 눅눅함 접이식 우산... 확보
+                - mark [ref=e1692]: 날씨
+                - text: "예보 실시간 팩트체크: 양극화된 하늘과 극한 습도의 공포"
+                - mark [ref=e1693]: 오늘
+                - text: (8월 29일) 대한민국의 하늘은 수도권과 남부권이 완벽하게 두 동강 났습니다. 서울과 인천 등 수도권은 현재...
+            - link [ref=e1694] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/iandgood001/224396851118
+      - generic [ref=e1704]:
+        - generic [ref=e1705]:
+          - generic [ref=e1706]:
+            - link [ref=e1708] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/blueoceantour
+            - link "블루오션투어 네이버 공식 블로그" [ref=e1713] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/blueoceantour
+            - generic [ref=e1718]: 8시간 전
+          - button "옵션 메뉴 열기" [ref=e1722] [cursor=pointer]
+        - generic [ref=e1729]:
+          - link [ref=e1730] [cursor=pointer]:
+            - /url: https://m.blog.naver.com/blueoceantour/224397131025
+            - generic [ref=e1731]:
+              - text: 나고야 골프여행 준비, 명문 골프장 특징과 호텔 패키지 예약 팁(10월, 11월, 12월
+              - mark [ref=e1732]: 날씨
+              - text: )
+          - generic [ref=e1733]:
+            - link [ref=e1735] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/blueoceantour/224397131025
+              - generic [ref=e1736]:
+                - text: 현지
+                - mark [ref=e1737]: 날씨
+                - text: 를 고려한 준비와 효율적인 이동 동선, 티타임 확보 등 기획이 필수인데요. 실패 없는 완벽한 라운드를 위해 10월, 11월, 12월 나고야
+                - mark [ref=e1738]: 날씨
+                - text: 부터 엄선된 명문 골프장들의 핵심 특징, 그리고 자유여행 즐기기 좋은 최적의 시내 호텔 선택까지 핵심만 모아 총정리해 드리겠습니다. 나고야 골프 패키지 함께 떠나보실까요? 나고야 골프여행 10월, 11월, 12월
+                - mark [ref=e1739]: 날씨
+                - text: ...
+            - link "98" [ref=e1740] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/blueoceantour/224397131025
+      - generic [ref=e1753]:
+        - generic [ref=e1754]:
+          - generic [ref=e1755]:
+            - link [ref=e1757] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/urimalo_
+            - link "줌줌투어 공식 블로그 ⎮ ZoomZoomTour" [ref=e1762] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/urimalo_
+            - generic [ref=e1767]: 1일 전
+          - button "옵션 메뉴 열기" [ref=e1771] [cursor=pointer]
+        - generic [ref=e1778]:
+          - link [ref=e1779] [cursor=pointer]:
+            - /url: https://m.blog.naver.com/urimalo_/224396569685
+            - generic [ref=e1780]:
+              - text: 하와이 9월 여행
+              - mark [ref=e1781]: 날씨
+              - text: "| 거북이 스노클링 액티비티 패러세일링 항공편"
+          - generic [ref=e1782]:
+            - link [ref=e1784] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/urimalo_/224396569685
+              - generic [ref=e1785]:
+                - text: "비: 하와이는 지역에 따라"
+                - mark [ref=e1786]: 날씨
+                - text: "차이가 크고 짧은 소나기가 지나가는 경우가 있어요. 비가 보인다고 하루 종일 비가 내릴 것이라고 생각하기보다는 여행 직전 시간대별 예보를 확인하는 것이 좋아요. 바람: 스노클링과 패러세일링은 기온보다 바람과 파도 상태가 더 중요해요. 특히 패러세일링은 현지"
+                - mark [ref=e1787]: 기상
+                - text: 상황에 따라 예약 시간이 조정되거나 진행이 어려울 수...
+            - link "36" [ref=e1788] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/urimalo_/224396569685
+    - generic [ref=e1799]:
+      - generic [ref=e1802]:
+        - generic [ref=e1803]: 함께 많이 찾는
+        - button "정보 확인 도움말" [ref=e1804] [cursor=pointer]
+      - generic [ref=e1848]:
+        - generic [ref=e1850]:
+          - generic [ref=e1853]:
+            - link "오늘 광주 날씨" [ref=e1854] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EA%B4%91%EC%A3%BC%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1857]:
+                - text: 오늘
+                - mark [ref=e1858]: 광주
+                - text: 날씨
+            - link [ref=e1864] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%A0%84%EA%B5%AD%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1867]:
+                - text: 오늘
+                - mark [ref=e1868]: 전국
+                - text: 날씨
+            - link [ref=e1873] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%84%9C%EC%9A%B8%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1876]:
+                - text: 오늘
+                - mark [ref=e1877]: 서울
+                - text: 날씨
+            - link [ref=e1882] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%EB%B6%80%EC%82%B0%EB%82%A0%EC%94%A8"
+              - generic [ref=e1885]:
+                - text: 오늘
+                - mark [ref=e1886]: 부산
+                - text: 날씨
+            - link [ref=e1891] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%9D%B8%EC%B2%9C%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1894]:
+                - text: 오늘
+                - mark [ref=e1895]: 인천
+                - text: 날씨
+          - generic [ref=e1902]:
+            - link [ref=e1903] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EB%8C%80%EC%A0%84%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1906]:
+                - text: 오늘
+                - mark [ref=e1907]: 대전
+                - text: 날씨
+            - link [ref=e1912] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%88%98%EC%9B%90%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1915]:
+                - text: 오늘
+                - mark [ref=e1916]: 수원
+                - text: 날씨
+            - link [ref=e1921] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%EB%8C%80%EA%B5%AC%EB%82%A0%EC%94%A8"
+              - generic [ref=e1924]:
+                - text: 오늘
+                - mark [ref=e1925]: 대구
+                - text: 날씨
+            - link [ref=e1930] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%B2%AD%EC%A3%BC%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1933]:
+                - text: 오늘
+                - mark [ref=e1934]: 청주
+                - text: 날씨
+            - link [ref=e1939] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%9A%A9%EC%9D%B8%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1942]:
+                - text: 오늘
+                - mark [ref=e1943]: 용인
+                - text: 날씨
+          - generic [ref=e1950]:
+            - link [ref=e1951] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EA%B2%BD%EC%A3%BC%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1954]:
+                - text: 오늘
+                - mark [ref=e1955]: 경주
+                - text: 날씨
+            - link [ref=e1960] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%B2%9C%EC%95%88%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1963]:
+                - text: 오늘
+                - mark [ref=e1964]: 천안
+                - text: 날씨
+            - link [ref=e1969] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%EC%B0%BD%EC%9B%90%EB%82%A0%EC%94%A8"
+              - generic [ref=e1972]:
+                - text: 오늘
+                - mark [ref=e1973]: 창원
+                - text: 날씨
+            - link [ref=e1978] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%20%EC%9A%B8%EC%82%B0%20%EB%82%A0%EC%94%A8"
+              - generic [ref=e1981]:
+                - text: 오늘
+                - mark [ref=e1982]: 울산
+                - text: 날씨
+            - link [ref=e1987] [cursor=pointer]:
+              - /url: "?where=m&sm=mtb_clk.ndT&query=%EC%98%A4%EB%8A%98%EC%A0%9C%EC%A3%BC%EB%82%A0%EC%94%A8"
+              - generic [ref=e1990]:
+                - text: 오늘
+                - mark [ref=e1991]: 제주
+                - text: 날씨
+        - navigation "페이지 네비게이션" [ref=e1996]:
+          - generic "페이지 1" [ref=e1997]: "1"
+          - generic "페이지 2" [ref=e1999]: "2"
+          - generic "페이지 3" [ref=e2001]: "3"
+    - generic [ref=e2003]:
+      - generic [ref=e2004]:
+        - generic [ref=e2010]:
+          - generic [ref=e2011]:
+            - generic [ref=e2012]:
+              - link [ref=e2014] [cursor=pointer]:
+                - /url: https://in.naver.com/dongnejjicsaphoto
+              - generic [ref=e2017]:
+                - link "동네찍사" [ref=e2019] [cursor=pointer]:
+                  - /url: https://in.naver.com/dongnejjicsaphoto
+                - generic [ref=e2021]: 23.5만 인용
+              - generic [ref=e2026]: 11시간 전
+            - button "옵션 메뉴 열기" [ref=e2030] [cursor=pointer]
+          - generic [ref=e2037]:
+            - link [ref=e2038] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/teddyjun/224396935601
+              - generic [ref=e2039]:
+                - text: 2026 서울 세계 불꽃축제 일정과 시간 명당자리 9월 5일
+                - mark [ref=e2040]: 날씨
+            - generic [ref=e2041]:
+              - link [ref=e2043] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/teddyjun/224396935601
+                - generic [ref=e2044]:
+                  - text: 저는
+                  - mark [ref=e2045]: 기상
+                  - text: 청
+                  - mark [ref=e2046]: 날씨
+                  - text: 정보도 체크하지만 윈디 앱을 많이 씁니다. 없으신 분들은 하나 깔아두세요. 무료 버전으로도 충분히 사용할 수 있습니다. 시간별로
+                  - mark [ref=e2047]: 날씨
+                  - text: 변화를 체크할 수 있기 때문에 출사나 여행 때
+                  - mark [ref=e2048]: 날씨
+                  - text: 체크용으로 아주 좋습니다. https://apps.apple.com/kr/app/windy-com-
+                  - mark [ref=e2049]: 날씨
+                  - text: 와-레이더/id1161387262 그리고 가장 중요한 것! 불꽃축제 후 쓰레기는 꼭 집까지 가지고...
+              - generic [ref=e2050]:
+                - link [ref=e2051] [cursor=pointer]:
+                  - /url: https://m.blog.naver.com/teddyjun/224396935601
+                - link [ref=e2055] [cursor=pointer]:
+                  - /url: https://m.blog.naver.com/teddyjun/224396935601
+                - link [ref=e2059] [cursor=pointer]:
+                  - /url: https://m.blog.naver.com/teddyjun/224396935601
+                - link [ref=e2063] [cursor=pointer]:
+                  - /url: https://m.blog.naver.com/teddyjun/224396935601
+                - link [ref=e2067] [cursor=pointer]:
+                  - /url: https://m.blog.naver.com/teddyjun/224396935601
+                - generic [ref=e2071]: "16"
+        - generic [ref=e2077]:
+          - generic [ref=e2078]:
+            - generic [ref=e2079]:
+              - link [ref=e2081] [cursor=pointer]:
+                - /url: https://in.naver.com/travelys
+              - link "뚜벅이는 윤슬" [ref=e2086] [cursor=pointer]:
+                - /url: https://in.naver.com/travelys
+              - generic [ref=e2088]: 8시간 전
+            - button "옵션 메뉴 열기" [ref=e2092] [cursor=pointer]
+          - generic [ref=e2099]:
+            - link [ref=e2100] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/ddubuck2travel/224397103729
+              - generic [ref=e2101]:
+                - text: 9월 대만
+                - mark [ref=e2102]: 날씨
+                - text: 태풍 집중시기 현지 예보 확인하는 방법
+            - generic [ref=e2103]:
+              - link [ref=e2105] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/ddubuck2travel/224397103729
+                - generic [ref=e2106]:
+                  - text: 9월 대만여행 대만
+                  - mark [ref=e2107]: 날씨
+                  - text: 현지 정보로 확인하는 방법 CWA 메인 화면 대만 현지의 9월 대만
+                  - mark [ref=e2108]: 날씨
+                  - text: 를 가장 정확하게 확인하고 싶다면 대만 중앙
+                  - mark [ref=e2109]: 기상
+                  - text: 서(CWA)를 이용하는 것을 추천합니다. CWA는 우리나라의
+                  - mark [ref=e2110]: 기상
+                  - text: 청과 비슷한 역할을 하는 대만의 공식
+                  - mark [ref=e2111]: 기상
+                  - text: 기관입니다. 특히 태풍이 발생했을 때는 일반적인
+                  - mark [ref=e2112]: 날씨
+                  - text: 앱보다 CWA의 태풍경보와 호우·강풍특보를 함께 확인하는 방식이...
+              - link "20" [ref=e2113] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/ddubuck2travel/224397103729
+        - generic [ref=e2126]:
+          - generic [ref=e2127]:
+            - generic [ref=e2128]:
+              - link [ref=e2130] [cursor=pointer]:
+                - /url: https://in.naver.com/earth_day
+              - link "홍지구" [ref=e2135] [cursor=pointer]:
+                - /url: https://in.naver.com/earth_day
+              - generic [ref=e2137]: 2시간 전
+            - button "옵션 메뉴 열기" [ref=e2141] [cursor=pointer]
+          - generic [ref=e2148]:
+            - link [ref=e2149] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/be_ok-/224397561347
+              - generic [ref=e2150]:
+                - text: 미국 뉴욕 여행 9월 10월
+                - mark [ref=e2151]: 날씨
+                - text: 입국심사 숙소 추천 투어 가볼만한곳까지
+            - generic [ref=e2152]:
+              - link [ref=e2154] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/be_ok-/224397561347
+                - generic [ref=e2155]:
+                  - text: 예약 링크 EWR, JFK ⇔ 맨해튼(킹사우나, 포트리 H마트, 뉴저지, 타임스퀘어, 한인타운) 최소 출발 인원 2인
+                  - mark [ref=e2156]: 오늘
+                  - text: 은 미국 뉴욕 여행을 다녀온 경험을 바탕으로 9월 10월
+                  - mark [ref=e2157]: 날씨
+                  - text: 에 입국심사 질문, 숙소 추천에 투어 & 가볼만한곳까지 소개해 드렸는데요. 제가 갔을 때는 1520원 대로 환율이 진짜 높았는데, 비교적 떨어져서 그래도 괜찮을 것 같다고... 생각하며 뉴욕 여행 재밌
+              - link "18" [ref=e2158] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/be_ok-/224397561347
+        - generic [ref=e2171]:
+          - generic [ref=e2172]:
+            - generic [ref=e2173]:
+              - link [ref=e2175] [cursor=pointer]:
+                - /url: https://in.naver.com/hktb
+              - link "정대리" [ref=e2180] [cursor=pointer]:
+                - /url: https://in.naver.com/hktb
+              - generic [ref=e2185]: 12시간 전
+            - button "옵션 메뉴 열기" [ref=e2189] [cursor=pointer]
+          - generic [ref=e2196]:
+            - link [ref=e2197] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/hktb1/224396270190
+              - generic [ref=e2198]:
+                - text: 홍콩 9월
+                - mark [ref=e2199]: 날씨
+                - text: 와 옷차림, 공휴일 & 중추절 여행 팁!
+            - generic [ref=e2200]:
+              - link [ref=e2202] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/hktb1/224396270190
+                - generic [ref=e2203]:
+                  - mark [ref=e2204]: 오늘
+                  - text: 은 9월
+                  - mark [ref=e2205]: 날씨
+                  - text: 와 옷차림부터 다채로운 볼거리로 가득한 중추절 축제 소식까지 소개할게요. 2026년 9월 홍콩
+                  - mark [ref=e2206]: 날씨
+                  - text: 먼저 홍콩
+                  - mark [ref=e2207]: 기상
+                  - text: 청에서 제공하는 현재
+                  - mark [ref=e2208]: 날씨
+                  - text: 부터 살펴볼게요! 얼마 전 지나간 태풍 사우델(Saudel)이 다시 발달할 가능성이 있다고 예보되어 있는데요. 이동 경로와
+                  - mark [ref=e2209]: 날씨
+                  - text: 변화에 따라 폭우와 함께 태풍 경보가 발령될 수도 있습니다. 9월은 아직...
+              - link "34" [ref=e2210] [cursor=pointer]:
+                - /url: https://m.blog.naver.com/hktb1/224396270190
+        - generic [ref=e2222]:
+          - generic [ref=e2223]:
+            - generic [ref=e2224]:
+              - link "웨더닷컴 weather.com›ko-KR›kr›city" [ref=e2225] [cursor=pointer]:
+                - /url: https://weather.com/ko-KR/kr/city/seoul/today
+                - generic [ref=e2227]:
+                  - generic [ref=e2231]: 웨더닷컴
+                  - generic [ref=e2233]: weather.com›ko-KR›kr›city
+              - button "옵션 메뉴 열기" [ref=e2238] [cursor=pointer]
+            - generic [ref=e2243]:
+              - link [ref=e2245] [cursor=pointer]:
+                - /url: https://weather.com/ko-KR/kr/city/seoul/today
+                - generic [ref=e2246]:
+                  - text: 서울특별시 일기예보 및
+                  - mark [ref=e2247]: 날씨
+                  - text: "- The Weather Channel"
+              - link [ref=e2249] [cursor=pointer]:
+                - /url: https://weather.com/ko-KR/kr/city/seoul/today
+                - generic [ref=e2250]:
+                  - text: The Weather Channel 및 Weather.com이 제공하는
+                  - mark [ref=e2251]: 오늘
+                  - text: 과
+                  - mark [ref=e2252]: 오늘
+                  - text: 밤 서울특별시 일기예보,
+                  - mark [ref=e2253]: 날씨
+                  - text: 상태 및 도플러 레이더
+          - generic [ref=e2254]:
+            - generic [ref=e2256]:
+              - link [ref=e2257] [cursor=pointer]:
+                - /url: https://weather.com/ko-KR/kr/city/incheon/today
+                - generic [ref=e2258]:
+                  - text: 인천광역시 일기예보 및
+                  - mark [ref=e2259]: 날씨
+                  - text: "- The Weather Channel"
+              - generic [ref=e2261]:
+                - text: The Weather Channel 및 Weather.com이 제공하는
+                - mark [ref=e2262]: 오늘
+                - text: 과
+                - mark [ref=e2263]: 오늘
+                - text: 밤 인천광역시 일기예보,
+                - mark [ref=e2264]: 날씨
+                - text: 상태 및 도플러 레이더
+            - link "관련문서 더보기" [ref=e2266] [cursor=pointer]:
+              - /url: "?page=2&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8+site%3Aweather.com&qvt=0&ssc=tab.m_ur.all"
+        - generic [ref=e2275]:
+          - generic [ref=e2276]:
+            - generic [ref=e2277]:
+              - link [ref=e2279] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/jejutip
+              - link "[느영나영] 제주도여행 대표카페 제주맛집 렌터카 숙소 여행지도" [ref=e2284] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/jejutip
+              - generic [ref=e2289]: 4시간 전
+            - button "옵션 메뉴 열기" [ref=e2293] [cursor=pointer]
+          - generic [ref=e2300]:
+            - link [ref=e2301] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/jejutip/2668535?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImplanV0aXAiLCJhcnRpY2xlSWQiOjI2Njg1MzUsImlzc3VlZEF0IjoxNzg4MjYxMjU0MDg1fQ.5cbo3yBgWsk5G_q6U4lvQHhbiLqMQcC3MLrg3OS7sd4
+              - generic [ref=e2302]:
+                - mark [ref=e2303]: 오늘 날씨
+                - text: 어떤가요?
+            - link [ref=e2306] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/jejutip/2668535?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImplanV0aXAiLCJhcnRpY2xlSWQiOjI2Njg1MzUsImlzc3VlZEF0IjoxNzg4MjYxMjU0MDg1fQ.5cbo3yBgWsk5G_q6U4lvQHhbiLqMQcC3MLrg3OS7sd4
+              - generic [ref=e2307]:
+                - text: 요번주에 가는데
+                - mark [ref=e2308]: 날씨
+                - text: 가 궁금합니다 제가 있는 곳은 짐 비가 옵니다 ㅜㅜ
+        - generic [ref=e2314]:
+          - generic [ref=e2315]:
+            - link "기상청 날씨누리 www.kma.go.kr›metropolitan" [ref=e2316] [cursor=pointer]:
+              - /url: https://www.kma.go.kr/metropolitan/html/main/index.jsp
+              - generic [ref=e2318]:
+                - generic [ref=e2322]: 기상청 날씨누리
+                - generic [ref=e2324]: www.kma.go.kr›metropolitan
+            - button "옵션 메뉴 열기" [ref=e2329] [cursor=pointer]
+          - generic [ref=e2334]:
+            - link [ref=e2336] [cursor=pointer]:
+              - /url: https://www.kma.go.kr/metropolitan/html/main/index.jsp
+              - generic [ref=e2337]:
+                - text: 수도권
+                - mark [ref=e2338]: 기상
+                - text: 청
+            - generic [ref=e2339]:
+              - link "채용" [ref=e2340] [cursor=pointer]:
+                - /url: https://www.kma.go.kr/metropolitan/html/news/notice_list.jsp?boardId=recruit
+              - link "인천기상대" [ref=e2342] [cursor=pointer]:
+                - /url: https://www.kma.go.kr/metropolitan/html/info/affiliated1.jsp
+              - link "예보업무" [ref=e2344] [cursor=pointer]:
+                - /url: https://www.kma.go.kr/metropolitan/html/info/business02.jsp
+              - link "조직·직원" [ref=e2346] [cursor=pointer]:
+                - /url: https://www.kma.go.kr/metropolitan/html/info/organization.jsp
+              - link "관측업무" [ref=e2348] [cursor=pointer]:
+                - /url: https://www.kma.go.kr/metropolitan/html/info/business01.jsp
+              - link "보도자료" [ref=e2350] [cursor=pointer]:
+                - /url: https://www.kma.go.kr/metropolitan/html/news/notice_list.jsp?boardId=press2
+            - link [ref=e2353] [cursor=pointer]:
+              - /url: https://www.kma.go.kr/metropolitan/html/main/index.jsp
+              - generic [ref=e2354]:
+                - mark [ref=e2355]: 기상
+                - text: 정보,
+                - mark [ref=e2356]: 날씨
+                - text: 예보, 계절별 특이사항, 공항
+                - mark [ref=e2357]: 날씨
+                - text: 등 제공.
+        - generic [ref=e2363]:
+          - generic [ref=e2364]:
+            - generic [ref=e2365]:
+              - link [ref=e2367] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/dieselmania
+              - link "●디젤매니아● 대한민국 일등 패션 커뮤니티 디매인 DMAIN" [ref=e2372] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/dieselmania
+              - generic [ref=e2377]: 8시간 전
+            - button "옵션 메뉴 열기" [ref=e2381] [cursor=pointer]
+          - generic [ref=e2388]:
+            - link [ref=e2389] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/dieselmania/47421846?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpZXNlbG1hbmlhIiwiYXJ0aWNsZUlkIjo0NzQyMTg0NiwiaXNzdWVkQXQiOjE3ODgyNjEyNTQwODV9.N-egIa3wr_XMrnKlpg4gU2_xPmDhAK1itAIBLdlgEUM
+              - generic [ref=e2390]:
+                - text: 어제
+                - mark [ref=e2391]: 오늘 날씨
+                - text: 가 안좋네요
+            - link [ref=e2394] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/dieselmania/47421846?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpZXNlbG1hbmlhIiwiYXJ0aWNsZUlkIjo0NzQyMTg0NiwiaXNzdWVkQXQiOjE3ODgyNjEyNTQwODV9.N-egIa3wr_XMrnKlpg4gU2_xPmDhAK1itAIBLdlgEUM
+              - generic [ref=e2395]:
+                - text: 계속 안좋으니 덥더라도 화창한
+                - mark [ref=e2396]: 날씨
+                - text: 가 보고싶네요 ~
+        - generic [ref=e2402]:
+          - generic [ref=e2403]:
+            - generic [ref=e2404]:
+              - link [ref=e2406] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/uouv96
+              - link "오늘도 달린다 ㅣ영업·창업·부업 ㅣ온네스 챗GPT 마스터" [ref=e2411] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/uouv96
+              - generic [ref=e2413]: 35분 전
+            - button "옵션 메뉴 열기" [ref=e2417] [cursor=pointer]
+          - generic [ref=e2424]:
+            - link [ref=e2425] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/uouv96/80217?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVvdXY5NiIsImFydGljbGVJZCI6ODAyMTcsImlzc3VlZEF0IjoxNzg4MjYxMjU0MDg1fQ.EQZPurEwTE0VE2kcmMoEWTn9KE8iAzAO-RVW8mQqfPU
+              - mark [ref=e2427]: 오늘날씨
+            - link [ref=e2430] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/uouv96/80217?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVvdXY5NiIsImFydGljbGVJZCI6ODAyMTcsImlzc3VlZEF0IjoxNzg4MjYxMjU0MDg1fQ.EQZPurEwTE0VE2kcmMoEWTn9KE8iAzAO-RVW8mQqfPU
+              - generic [ref=e2431]:
+                - mark [ref=e2432]: 오늘날씨
+                - text: 는 흐림이네요 어젠 그렇게 비가 내리더니
+                - mark [ref=e2433]: 오늘
+                - text: 은 또
+                - mark [ref=e2434]: 날씨
+                - text: 가 멀쩡해지고 지구가 많이 아픈가봅니다
+        - generic [ref=e2440]:
+          - generic [ref=e2441]:
+            - generic [ref=e2442]:
+              - link [ref=e2444] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/gpfleamarket
+              - link "김행나-김포여인들의 행복한 나눔(김포맘 한강신도시 엄마 여자)" [ref=e2449] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/gpfleamarket
+              - generic [ref=e2454]: 3시간 전
+            - button "옵션 메뉴 열기" [ref=e2458] [cursor=pointer]
+          - generic [ref=e2465]:
+            - link [ref=e2466] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/gpfleamarket/3971008?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdwZmxlYW1hcmtldCIsImFydGljbGVJZCI6Mzk3MTAwOCwiaXNzdWVkQXQiOjE3ODgyNjEyNTQwODV9.jlhQcDrz33UNpFSk9Yb3Oh-RanZmPYJkr4Y_kQQMpjU
+              - generic [ref=e2467]:
+                - mark [ref=e2468]: 오늘 날씨
+                - text: ...
+            - link [ref=e2471] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/gpfleamarket/3971008?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdwZmxlYW1hcmtldCIsImFydGljbGVJZCI6Mzk3MTAwOCwiaXNzdWVkQXQiOjE3ODgyNjEyNTQwODV9.jlhQcDrz33UNpFSk9Yb3Oh-RanZmPYJkr4Y_kQQMpjU
+              - generic [ref=e2472]:
+                - mark [ref=e2473]: 오늘 날씨
+                - text: 풀린다더니... 왜이렇게 꾸리꾸리한걸까요 ㅜㅜㅜㅜ........
+        - generic [ref=e2479]:
+          - generic [ref=e2480]:
+            - link "다음날씨 weather.daum.net" [ref=e2481] [cursor=pointer]:
+              - /url: https://weather.daum.net/
+              - generic [ref=e2483]:
+                - generic [ref=e2487]: 다음날씨
+                - generic [ref=e2489]: weather.daum.net
+            - button "옵션 메뉴 열기" [ref=e2494] [cursor=pointer]
+          - generic [ref=e2499]:
+            - link [ref=e2501] [cursor=pointer]:
+              - /url: https://weather.daum.net/
+              - generic [ref=e2502]:
+                - text: 다음
+                - mark [ref=e2503]: 날씨
+                - text: "| 동네"
+                - mark [ref=e2504]: 날씨
+            - generic [ref=e2505]:
+              - link "기상특보" [ref=e2506] [cursor=pointer]:
+                - /url: https://weather.daum.net/weather/specialreport
+              - link "전국" [ref=e2508] [cursor=pointer]:
+                - /url: https://weather.daum.net/weather/nation
+              - link "영상" [ref=e2510] [cursor=pointer]:
+                - /url: https://weather.daum.net/weather/video
+              - link "호우" [ref=e2512] [cursor=pointer]:
+                - /url: https://weather.daum.net/weather/heavyrain
+            - link [ref=e2515] [cursor=pointer]:
+              - /url: https://weather.daum.net/
+              - generic [ref=e2516]:
+                - text: 다음
+                - mark [ref=e2517]: 날씨
+                - text: 를 확인하고 하루를 계획하세요.
+        - generic [ref=e2522]:
+          - generic [ref=e2523]:
+            - generic [ref=e2524]:
+              - link "웨더아이 www.weatheri.co.kr›forecast" [ref=e2525] [cursor=pointer]:
+                - /url: https://www.weatheri.co.kr/forecast/forecast04.php
+                - generic [ref=e2527]:
+                  - generic [ref=e2531]: 웨더아이
+                  - generic [ref=e2533]: www.weatheri.co.kr›forecast
+              - button "옵션 메뉴 열기" [ref=e2538] [cursor=pointer]
+            - generic [ref=e2543]:
+              - 'link "주간예보 : 웨더아이" [ref=e2545] [cursor=pointer]':
+                - /url: https://www.weatheri.co.kr/forecast/forecast04.php
+              - 'link "- 2026-09-01 00:20:00 o 폭염경보 : 전라남도(광양, 영암, 흑산도홍도, 해남남부, 완도(여서도 제외)) o 폭염주의보 : 전라남도(담양, 장성, 화순, 보성, 여수, 순천, 장흥, 강진, 함평, 목포, 신안(흑산면제외), 진도, 거문도.초도, 영광(낙월면 제외), 나주동남부, 나주서북부, 곡성북부, 곡성남부, 구례평지, 고흥북부, 고흥남부, 해남북부, 무안북부, 무안남부), 전북자치도(고창, 장수, 남원...." [ref=e2547] [cursor=pointer]':
+                - /url: https://www.weatheri.co.kr/forecast/forecast04.php
+          - generic [ref=e2549]:
+            - generic [ref=e2551]:
+              - link [ref=e2552] [cursor=pointer]:
+                - /url: https://www.weatheri.co.kr/forecast/forecast01.php
+                - img "지역별<mark>날씨</mark> - 웨더아이의 이미지" [ref=e2554]
+              - link [ref=e2556] [cursor=pointer]:
+                - /url: https://www.weatheri.co.kr/forecast/forecast01.php
+                - generic [ref=e2557]:
+                  - text: 지역별
+                  - mark [ref=e2558]: 날씨
+                  - text: "- 웨더아이"
+              - generic [ref=e2559]: "- 2026-09-01 16:00:00 o 폭염주의보 : 전라남도(영광낙월면, 구례산간, 완도여서도 제외), 전북자치도(고창, 임실, 남원, 부안(위도면 제외)), 경상북도(구미, 영천, 경산, 청도, 고령, 성주, 칠곡, 의성, 청송, 포항, 김천북부, 김천남부, 안동동남부, 영양평지, 경주중북부, 경주남부, 경주서부), 경상남도(양산, 창원, 김해, 밀양, 의령, 함안, 창녕, 진주, 통영, 거제, 하동북부, 하동남부, 함...."
+            - link "관련문서 더보기" [ref=e2562] [cursor=pointer]:
+              - /url: "?page=2&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8+site%3Awww.weatheri.co.kr&qvt=0&ssc=tab.m_ur.all"
+        - generic [ref=e2570]:
+          - generic [ref=e2571]:
+            - generic [ref=e2572]:
+              - link [ref=e2574] [cursor=pointer]:
+                - /url: https://m.youtube.com/channel/UCgqMjKxRWAKUvgYqgomighw
+                - img "KBS충북" [ref=e2577]
+              - link "KBS충북" [ref=e2580] [cursor=pointer]:
+                - /url: https://m.youtube.com/channel/UCgqMjKxRWAKUvgYqgomighw
+              - generic [ref=e2582]:
+                - link "YouTube" [ref=e2585] [cursor=pointer]:
+                  - /url: https://www.youtube.com
+                - generic [ref=e2588]: 23시간 전
+            - button "옵션 메뉴 열기" [ref=e2591] [cursor=pointer]
+          - generic [ref=e2596]:
+            - link [ref=e2598] [cursor=pointer]:
+              - /url: https://m.youtube.com/watch?v=YF7mt_jXEOg
+              - generic [ref=e2599]:
+                - text: "["
+                - mark [ref=e2600]: 날씨
+                - text: "] 충북 호우특보 해제…내일 오전까지 비 / KBS 2026.08.31."
+            - link "[날씨] 충북 호우특보 해제…내일 오전까지 비 / KBS 2026.08.31. 01:26" [ref=e2603] [cursor=pointer]:
+              - /url: https://m.youtube.com/watch?v=YF7mt_jXEOg
+              - generic [ref=e2604]:
+                - img "[날씨] 충북 호우특보 해제…내일 오전까지 비 / KBS 2026.08.31." [ref=e2605]
+                - generic [ref=e2606]: 01:26
+        - generic [ref=e2615]:
+          - generic [ref=e2616]:
+            - generic [ref=e2617]:
+              - link [ref=e2619] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/zzop
+              - link "나트랑 도깨비 - 베트남 나트랑 자유여행,무이네,달랏,맛집,호텔" [ref=e2624] [cursor=pointer]:
+                - /url: https://m.cafe.naver.com/zzop
+              - generic [ref=e2629]: 1일 전
+            - button "옵션 메뉴 열기" [ref=e2633] [cursor=pointer]
+          - generic [ref=e2640]:
+            - link [ref=e2641] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/zzop/4217066?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6b3AiLCJhcnRpY2xlSWQiOjQyMTcwNjYsImlzc3VlZEF0IjoxNzg4MjYxMjU0MDg1fQ.KxVVKezjg6_QUvouW1QFecbjqdr6rg47fuL-vgEFNF0
+              - mark [ref=e2643]: 날씨
+            - link [ref=e2646] [cursor=pointer]:
+              - /url: https://m.cafe.naver.com/zzop/4217066?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6b3AiLCJhcnRpY2xlSWQiOjQyMTcwNjYsImlzc3VlZEF0IjoxNzg4MjYxMjU0MDg1fQ.KxVVKezjg6_QUvouW1QFecbjqdr6rg47fuL-vgEFNF0
+              - generic [ref=e2647]:
+                - text: 이제
+                - mark [ref=e2648]: 날씨
+                - text: 가 선선해지려나봐요 비가마니오네요
+        - generic [ref=e2654]:
+          - generic [ref=e2655]:
+            - link "Visit Seoul korean.visitseoul.net›weather" [ref=e2656] [cursor=pointer]:
+              - /url: https://korean.visitseoul.net/weather
+              - generic [ref=e2658]:
+                - generic [ref=e2662]: Visit Seoul
+                - generic [ref=e2664]: korean.visitseoul.net›weather
+            - button "옵션 메뉴 열기" [ref=e2669] [cursor=pointer]
+          - generic [ref=e2674]:
+            - link [ref=e2676] [cursor=pointer]:
+              - /url: https://korean.visitseoul.net/weather
+              - generic [ref=e2677]:
+                - text: 서울 실시간
+                - mark [ref=e2678]: 날씨
+                - text: 정보
+            - link [ref=e2680] [cursor=pointer]:
+              - /url: https://korean.visitseoul.net/weather
+              - generic [ref=e2681]:
+                - mark [ref=e2682]: 오늘
+                - text: ", 내일, 이번 주 서울"
+                - mark [ref=e2683]: 날씨
+                - text: 알아보기. 서울 일기예보. 최저/최고기온, 강수확률, 미세먼지 현황. 이번 주 서울 일기예보까지 원클릭 조회. 완벽한 서울 여행을 위해 여행 전 서울 일기예보를 확인하세요. 서울관광재단 Visit Seoul에서 확인하는 실시간
+                - mark [ref=e2684]: 날씨
+                - text: 정보.
+      - link "검색결과 더보기" [ref=e2687] [cursor=pointer]:
+        - /url: "?nso=&page=2&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pge&ssc=tab.m_ur.all&start=1"
+    - generic [ref=e2691]:
+      - heading "이미지" [level=2] [ref=e2695]
+      - generic [ref=e2696]:
+        - generic [ref=e2697]:
+          - generic [ref=e2698]:
+            - link "서울" [ref=e2699] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%84%9C%EC%9A%B8+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "전국" [ref=e2706] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%A0%84%EA%B5%AD+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "대구" [ref=e2713] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EB%8C%80%EA%B5%AC+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "부산" [ref=e2720] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EB%B6%80%EC%82%B0+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "대전" [ref=e2727] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EB%8C%80%EC%A0%84+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "인천" [ref=e2734] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%9D%B8%EC%B2%9C+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "광주" [ref=e2741] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EA%B4%91%EC%A3%BC+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "경기도" [ref=e2748] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "수원" [ref=e2755] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%88%98%EC%9B%90+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "제주" [ref=e2762] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%A0%9C%EC%A3%BC+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "창원" [ref=e2769] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%B0%BD%EC%9B%90+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "청주" [ref=e2776] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%B2%AD%EC%A3%BC+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "시간별" [ref=e2783] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%8B%9C%EA%B0%84%EB%B3%84+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "포항" [ref=e2790] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%ED%8F%AC%ED%95%AD+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "강릉" [ref=e2797] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EA%B0%95%EB%A6%89+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "경주" [ref=e2804] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EA%B2%BD%EC%A3%BC+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "비" [ref=e2811] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EB%82%A0%EC%94%A8+%EB%B9%84&sm=mtb_imt&where=m_image"
+            - link "김해" [ref=e2818] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EA%B9%80%ED%95%B4+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "구미" [ref=e2825] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EA%B5%AC%EB%AF%B8+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "평택" [ref=e2832] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%ED%8F%89%ED%83%9D+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "용인" [ref=e2839] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EC%9A%A9%EC%9D%B8+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "부천" [ref=e2846] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EB%B6%80%EC%B2%9C+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "하남" [ref=e2853] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%98%A4%EB%8A%98+%EB%82%A0%EC%94%A8+%ED%95%98%EB%82%A8&sm=mtb_imt&where=m_image"
+            - link "통영" [ref=e2860] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%ED%86%B5%EC%98%81+%EC%98%A4%EB%8A%98+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+            - link "정읍" [ref=e2867] [cursor=pointer]:
+              - /url: "?pq=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&qdt=0&query=%EC%A0%95%EC%9D%8D+%EC%98%A4%EB%8A%98+%EB%82%A0%EC%94%A8&sm=mtb_imt&where=m_image"
+          - button "다음" [ref=e2874] [cursor=pointer]
+        - generic [ref=e2878]:
+          - generic:
+            - img "[표] 오늘의 날씨"
+          - generic:
+            - img "[오늘 날씨] \"우산 챙겨야\"…전국에 비 소식, 낮 최고 34도"
+          - generic:
+            - img "[전국 오늘~모레 날씨] '변화무쌍'…곳곳 비와 소나기 속 모레까지 흐리고 선선한 날씨"
+          - generic:
+            - img "[오늘의 날씨 및 내일날씨]2차(가을)장마 영향 내일까지 중부지방 중심 비, 돌풍.천둥.번개 유의!"
+          - generic:
+            - img "[오늘 날씨] 비오는 수요일…낮 최고 36도, 더위는 계속"
+          - generic:
+            - img "<오늘의 날씨> 중부 더위 식힐 단비⋯최대 60mm"
+          - generic:
+            - img "[오늘 날씨] 전북 고창 호우주의보…최대 100mm 이상 폭우, 하천범람·침수 유의"
+          - generic:
+            - img "[수도권 오늘날씨] 오전 시간당 20~30㎜ 강한 비…서해 먼바다 강풍·높은 물결"
+          - generic:
+            - img "전국 흐리고 남부 비 시작…내일 오전 전국 확대(오늘날씨)"
+      - link "이미지 더보기" [ref=e2880] [cursor=pointer]:
+        - /url: "?mode=&nso=so%3Ar%2Cp%3Aall&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_nmr&ssc=tab.m_image.all&where=m_image"
+        - generic [ref=e2884]:
+          - generic [ref=e2885]: 이미지
+          - generic [ref=e2886]: 더보기
+    - generic [ref=e2892]:
+      - button "이전페이지" [disabled] [ref=e2893]
+      - generic "페이지 탐색" [ref=e2895]:
+        - link "1페이지" [ref=e2896] [cursor=pointer]:
+          - /url: "?nso=&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pge&ssc=tab.m.all"
+          - text: "1"
+        - link "2페이지" [ref=e2897] [cursor=pointer]:
+          - /url: "?nso=&page=2&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pge&ssc=tab.m_ur.all&start=1"
+          - text: "2"
+        - link "3페이지" [ref=e2898] [cursor=pointer]:
+          - /url: "?nso=&page=3&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pge&ssc=tab.m_ur.all&start=21"
+          - text: "3"
+        - link "4페이지" [ref=e2899] [cursor=pointer]:
+          - /url: "?nso=&page=4&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pge&ssc=tab.m_ur.all&start=41"
+          - text: "4"
+        - link "5페이지" [ref=e2900] [cursor=pointer]:
+          - /url: "?nso=&page=5&qdt=0&query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pge&ssc=tab.m_ur.all&start=61"
+          - text: "5"
+      - button "다음페이지" [ref=e2901]
+  - contentinfo [ref=e2903]:
+    - generic [ref=e2904]:
+      - generic [ref=e2905]:
+        - generic [ref=e2906]:
+          - button "가 폰트작게보기" [ref=e2908] [cursor=pointer]:
+            - text: 가
+            - generic [ref=e2909]: 폰트작게보기
+          - button "가 폰트크게보기" [ref=e2911] [cursor=pointer]:
+            - text: 가
+            - generic [ref=e2912]: 폰트크게보기
+        - generic [ref=e2913]:
+          - button "공유하기" [ref=e2915] [cursor=pointer]
+          - button "맨위로" [ref=e2918] [cursor=pointer]
+      - generic [ref=e2921]:
+        - link "로그인" [ref=e2923] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login?svctype=262144&url=https%3A%2F%2Fm.search.naver.com%2Fsearch.naver%3Fquery%3D%25EC%2598%25A4%25EB%258A%2598%25EB%2582%25A0%25EC%2594%25A8
+        - link "전체서비스" [ref=e2925] [cursor=pointer]:
+          - /url: https://m.naver.com/services.html?f=svc.search
+        - link "PC버전" [ref=e2927] [cursor=pointer]:
+          - /url: https://search.naver.com/search.naver?query=%EC%98%A4%EB%8A%98%EB%82%A0%EC%94%A8&sm=mtb_pcv&ssc=tab.nx.all&where=nexearch
+      - generic [ref=e2928]:
+        - generic [ref=e2929]:
+          - link "이용약관" [ref=e2931] [cursor=pointer]:
+            - /url: https://policy.naver.com/policy-mobile/term.html
+          - link "개인정보처리방침" [ref=e2933] [cursor=pointer]:
+            - /url: https://policy.naver.com/policy-mobile/privacy.html
+          - link "검색 고객센터" [ref=e2935] [cursor=pointer]:
+            - /url: https://help.naver.com/alias/search/integration/main.naver
+        - link "NAVER" [ref=e2936] [cursor=pointer]:
+          - /url: https://www.navercorp.com/

@@ -1,0 +1,680 @@
+- generic [ref=f100e1]:
+  - generic [ref=f100e3]:
+    - banner [ref=f100e5]:
+      - generic [ref=f100e6]:
+        - link [ref=f100e7] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - generic [ref=f100e8]:
+          - link "카페홈" [ref=f100e10] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com
+          - link "이웃" [ref=f100e12] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/home/town
+          - button "가입카페" [ref=f100e14] [cursor=pointer]
+          - link "새글" [ref=f100e16] [cursor=pointer]:
+            - /url: https://section.cafe.naver.com/ca-fe/home/feed
+          - button "내소식" [ref=f100e18] [cursor=pointer]
+          - button "채팅" [ref=f100e20] [cursor=pointer]
+          - generic [ref=f100e87]:
+            - strong [ref=f100e88]: 사용자 링크
+            - list [ref=f100e89]:
+              - listitem [ref=f100e90]:
+                - link "btax1.. 내정보 보기" [ref=f100e92] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=f100e93]: btax1..
+                  - emphasis [ref=f100e94]: 내정보 보기
+              - listitem [ref=f100e95]:
+                - link "네이버톡 새 창 알림" [ref=f100e96] [cursor=pointer]:
+                  - /url: https://talks.naver.com/?frm=pcgnb&anchor=&category=
+              - listitem [ref=f100e99]:
+                - link "서비스 더보기" [ref=f100e100] [cursor=pointer]:
+                  - /url: javascript:;
+      - link [ref=f100e23] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+        - img "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [ref=f100e24]
+    - generic [ref=f100e25]:
+      - complementary [ref=f100e27]:
+        - generic [ref=f100e29]:
+          - tablist [ref=f100e31]:
+            - tab "카페정보" [selected] [ref=f100e32] [cursor=pointer]
+            - tab "나의활동" [ref=f100e33] [cursor=pointer]
+          - tabpanel [ref=f100e34]:
+            - generic [ref=f100e36]:
+              - link [ref=f100e38] [cursor=pointer]:
+                - /url: https://cafe.naver.com/semusarangkclep
+                - img "카페아이콘" [ref=f100e40]
+              - generic [ref=f100e41]:
+                - generic [ref=f100e42]:
+                  - link "카페지기" [ref=f100e43] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/cafes/29179359/members/4Jvvm0TRuKYQ9UzXmIrxe4pzbmZN0dhF0OXUIUa4eY8
+                  - emphasis [ref=f100e44]: 매니저
+                - link "2017.09.22. 개설" [ref=f100e46] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/history
+                - link "카페소개" [ref=f100e48] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/CafeProfileView.nhn?clubid=29179359
+            - list [ref=f100e50]:
+              - listitem [ref=f100e51]:
+                - link [ref=f100e52] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/f-e/cafes/29179359/introduction/ranking
+                  - strong [ref=f100e53]: 카페등급
+                  - emphasis [ref=f100e55]: 열매1단계
+              - listitem [ref=f100e56]:
+                - button "카페멤버수 41,859 멤버목록 비공개" [ref=f100e103] [cursor=pointer]:
+                  - generic [ref=f100e104]: 카페멤버수
+                  - emphasis [ref=f100e59]:
+                    - text: 41,859
+                    - img "멤버목록 비공개"
+                - link "초대" [ref=f100e60] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/semusarangkclep?iframe_url=/CafeInviteCheck.nhn?m=check&clubid=29179359
+        - button "카페 글쓰기" [ref=f100e269] [cursor=pointer]
+        - button "카페 채팅 NEW" [ref=f100e106] [cursor=pointer]:
+          - text: 카페 채팅
+          - img "NEW"
+        - generic [ref=f100e66]:
+          - textbox "카페글 검색어 입력" [ref=f100e67]
+          - button "검색" [ref=f100e68] [cursor=pointer]
+        - generic [ref=f100e107]:
+          - button "즐겨찾는 게시판 그룹펴기" [ref=f100e109] [cursor=pointer]:
+            - strong [ref=f100e110]: 즐겨찾는 게시판
+            - generic [ref=f100e111]: 그룹펴기
+          - menu [ref=f100e112]:
+            - menuitem "전체글보기" [ref=f100e113] [cursor=pointer]
+            - generic [ref=f100e114]: 54,957
+            - menuitem "인기글새 게시글" [ref=f100e115] [cursor=pointer]:
+              - text: 인기글
+              - img "새 게시글"
+            - menuitem "카페지식활동" [ref=f100e116] [cursor=pointer]
+          - strong [ref=f100e118]: 출입구
+          - list [ref=f100e119]:
+            - menuitem "출석체크새 게시글" [ref=f100e120] [cursor=pointer]:
+              - text: 출석체크
+              - img "새 게시글"
+            - menuitem "가입소식새 게시글" [ref=f100e121] [cursor=pointer]:
+              - text: 가입소식
+              - img "새 게시글"
+            - menuitem "가입인사" [ref=f100e122] [cursor=pointer]
+            - menuitem "일반등업요청(일반->모범)" [ref=f100e123] [cursor=pointer]
+          - strong [ref=f100e125]: 세무사랑Pro 관련 소식지
+          - list [ref=f100e126]:
+            - menuitem "조덕희세무사의 활용노트" [ref=f100e127] [cursor=pointer]
+            - menuitem "이문희세무사의 마스터클래스" [ref=f100e128] [cursor=pointer]
+            - menuitem "플랫폼세무사회 100% 활용하기" [ref=f100e129] [cursor=pointer]
+            - menuitem "세무사님들의 기고문 모음" [ref=f100e130] [cursor=pointer]
+            - menuitem "세무사랑 관련 신문 모음" [ref=f100e131] [cursor=pointer]
+            - menuitem "★세·알·고★" [ref=f100e132] [cursor=pointer]
+            - menuitem "세알고유튜브(크롬추천)" [ref=f100e134] [cursor=pointer]
+          - strong [ref=f100e136]: 프로그램문의(누구나답변가능)
+          - list [ref=f100e137]:
+            - menuitem "★VVIP(프로그램)멤버등업 (아이디등록)새 게시글" [ref=f100e139] [cursor=pointer]:
+              - text: ★VVIP(프로그램)멤버등업 (아이디등록)
+              - img "새 게시글"
+            - menuitem "↑등업시 꼭 스텝만보기(비밀글) 클릭~^^" [ref=f100e141] [cursor=pointer]
+            - menuitem "★★VVIP게시판 이용전 필독!!!!" [ref=f100e142] [cursor=pointer]
+            - menuitem "회계관리새 게시글" [ref=f100e144] [cursor=pointer]:
+              - text: 회계관리
+              - img "새 게시글"
+            - menuitem "부가가치세" [ref=f100e146] [cursor=pointer]
+            - menuitem "V-BOT(검증)" [ref=f100e148] [cursor=pointer]
+            - menuitem "원천징수새 게시글" [ref=f100e150] [cursor=pointer]:
+              - text: 원천징수
+              - img "새 게시글"
+            - menuitem "법인조정" [ref=f100e152] [cursor=pointer]
+            - menuitem "개인조정" [ref=f100e154] [cursor=pointer]
+            - menuitem "물류관리" [ref=f100e156] [cursor=pointer]
+            - menuitem "시스템새 게시글" [ref=f100e158] [cursor=pointer]:
+              - text: 시스템
+              - img "새 게시글"
+            - menuitem "OCT(원클릭택스)" [ref=f100e160] [cursor=pointer]
+            - menuitem "기타새 게시글" [ref=f100e162] [cursor=pointer]:
+              - text: 기타
+              - img "새 게시글"
+            - menuitem "주요문의사항(FAQ)" [ref=f100e164] [cursor=pointer]
+            - menuitem "세무사랑 업데이트새 게시글" [ref=f100e166] [cursor=pointer]:
+              - text: 세무사랑 업데이트
+              - img "새 게시글"
+            - menuitem "프로그램구입문의 새 게시글" [ref=f100e168] [cursor=pointer]:
+              - text: 프로그램구입문의
+              - img "새 게시글"
+            - menuitem "뉴젠에듀" [ref=f100e170] [cursor=pointer]
+            - menuitem "(구)VVIP 검색하기" [ref=f100e172] [cursor=pointer]
+          - strong [ref=f100e174]: 묻고답하기(모든회원)
+          - list [ref=f100e175]:
+            - menuitem "세무사랑의 정석 질문게시판" [ref=f100e176] [cursor=pointer]
+            - menuitem "[액셀활용팁 및 Q&A]" [ref=f100e177] [cursor=pointer]
+            - menuitem "무엇이든 질문새 게시글" [ref=f100e178] [cursor=pointer]:
+              - text: 무엇이든 질문
+              - img "새 게시글"
+            - menuitem "원천/4대보험새 게시글" [ref=f100e179] [cursor=pointer]:
+              - text: 원천/4대보험
+              - img "새 게시글"
+            - menuitem "부가세&소득세&법인세새 게시글" [ref=f100e180] [cursor=pointer]:
+              - text: 부가세&소득세&법인세
+              - img "새 게시글"
+          - strong [ref=f100e182]: 회원궁금증(모든회원)
+          - list [ref=f100e183]:
+            - menuitem "월별 주요신고 TIP" [ref=f100e184] [cursor=pointer]
+            - menuitem "신고실무 교육영상" [ref=f100e185] [cursor=pointer]
+          - strong [ref=f100e187]: 소식통(모든회원)
+          - list [ref=f100e188]:
+            - menuitem "공지사항" [ref=f100e189] [cursor=pointer]
+            - menuitem "세무일정 & 안내 새 게시글" [ref=f100e190] [cursor=pointer]:
+              - text: 세무일정 & 안내
+              - img "새 게시글"
+            - menuitem "이벤트" [ref=f100e191] [cursor=pointer]
+            - menuitem "세무사랑 꿀팁 알리기" [ref=f100e193] [cursor=pointer]
+            - menuitem "플랫폼세무사회 활용 사례" [ref=f100e195] [cursor=pointer]
+            - menuitem "플랫폼세무사회 개선 제안새 게시글" [ref=f100e197] [cursor=pointer]:
+              - text: 플랫폼세무사회 개선 제안
+              - img "새 게시글"
+            - menuitem "당첨자 발표" [ref=f100e199] [cursor=pointer]
+          - strong [ref=f100e201]: 지식공유(모든회원)
+          - list [ref=f100e202]:
+            - menuitem "업무 Tip & Tech" [ref=f100e203] [cursor=pointer]
+            - menuitem "업무서식 공유" [ref=f100e204] [cursor=pointer]
+            - menuitem "주요신고 FAQ" [ref=f100e205] [cursor=pointer]
+            - menuitem "세무사랑 유용한 TIP" [ref=f100e206] [cursor=pointer]
+            - menuitem "노무정보" [ref=f100e207] [cursor=pointer]
+          - strong [ref=f100e209]: 배움터(모든회원)
+          - list [ref=f100e210]:
+            - menuitem "초보Part" [ref=f100e211] [cursor=pointer]
+            - menuitem "회계Part" [ref=f100e212] [cursor=pointer]
+            - menuitem "결산part새 게시글" [ref=f100e213] [cursor=pointer]:
+              - text: 결산part
+              - img "새 게시글"
+            - menuitem "원천/4대보험Part" [ref=f100e214] [cursor=pointer]
+            - menuitem "부가가치세Part" [ref=f100e215] [cursor=pointer]
+            - menuitem "소득세part" [ref=f100e216] [cursor=pointer]
+            - menuitem "법인세Part" [ref=f100e217] [cursor=pointer]
+            - menuitem "세무사랑part" [ref=f100e218] [cursor=pointer]
+          - button "자격시험 & 교육일정 그룹펴기" [ref=f100e220] [cursor=pointer]:
+            - strong [ref=f100e221]: 자격시험 & 교육일정
+            - generic [ref=f100e222]: 그룹펴기
+          - strong [ref=f100e224]: 세무사랑 연동 세무포털
+          - list [ref=f100e225]:
+            - menuitem "한국세무사회전산법인" [ref=f100e226] [cursor=pointer]
+            - menuitem "세무라인(업무효율화)" [ref=f100e227] [cursor=pointer]
+          - strong [ref=f100e229]: 커뮤니티(모든회원)
+          - list [ref=f100e230]:
+            - menuitem "자유게시판" [ref=f100e231] [cursor=pointer]
+            - menuitem "유머·이슈·사용후기" [ref=f100e232] [cursor=pointer]
+            - menuitem "카페관련 건의사항" [ref=f100e233] [cursor=pointer]
+          - strong [ref=f100e235]: 링크
+          - list [ref=f100e236]:
+            - menuitem "홈택스" [ref=f100e237] [cursor=pointer]
+            - menuitem "국세청" [ref=f100e238] [cursor=pointer]
+            - menuitem "한국표준산업분류표" [ref=f100e239] [cursor=pointer]
+            - menuitem "주요 세법 개정내용" [ref=f100e240] [cursor=pointer]
+            - menuitem "세무서식" [ref=f100e241] [cursor=pointer]
+            - menuitem "무료세무상담(한국세무사회)" [ref=f100e242] [cursor=pointer]
+            - menuitem "전산세무회계자격시험" [ref=f100e243] [cursor=pointer]
+            - menuitem "세무사랑Pro" [ref=f100e244] [cursor=pointer]
+            - menuitem "한국세무사회전산법인" [ref=f100e245] [cursor=pointer]
+            - menuitem "뉴젠솔루션" [ref=f100e246] [cursor=pointer]
+          - strong [ref=f100e248]: 이전 메뉴
+          - list [ref=f100e249]:
+            - menuitem "세무사랑 AI 자동조정 활용(~3/31)" [ref=f100e251] [cursor=pointer]
+            - menuitem "[종료]득템이벤트 인증샷" [ref=f100e253] [cursor=pointer]
+            - menuitem "[종료]나만의 세무사랑Pro 활용노트" [ref=f100e255] [cursor=pointer]
+            - menuitem "[종료]옥에 티를 찾아라!" [ref=f100e257] [cursor=pointer]
+            - menuitem "[종료]세무사랑Pro 새내기 모여라!" [ref=f100e259] [cursor=pointer]
+            - menuitem "[종료]세무사랑 행복 추첨 이벤트" [ref=f100e261] [cursor=pointer]
+            - menuitem "출석체크" [ref=f100e263] [cursor=pointer]
+        - link "카페탈퇴하기" [ref=f100e265] [cursor=pointer]:
+          - /url: "#"
+      - main [ref=f100e267]:
+        - iframe [active] [ref=f100e268]:
+          - generic [ref=f101e4]:
+            - generic [ref=f101e6]:
+              - button "이전글" [ref=f101e7] [cursor=pointer]
+              - button "다음글" [ref=f101e8] [cursor=pointer]
+              - button "목록" [ref=f101e9] [cursor=pointer]
+            - generic [ref=f101e10]:
+              - generic [ref=f101e11]:
+                - generic [ref=f101e13]:
+                  - link "법인조정" [ref=f101e14] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/f-e/ArticleList.nhn?search.clubid=29179359&search.menuid=132&search.boardtype=L
+                  - heading "통합고용 청년 개정이 전부 반영완료 된건가요" [level=3] [ref=f101e16]
+                - generic [ref=f101e17]:
+                  - link "프로필 사진 인기멤버" [ref=f101e19] [cursor=pointer]:
+                    - /url: /ca-fe/cafes/29179359/members/QcxcpQOs37g9_Wj4GJ_0ezgElZ8QOOCYFX6SJs86PUI
+                    - img "프로필 사진" [ref=f101e20]
+                    - emphasis:
+                      - generic [ref=f101e21]: 인기멤버
+                  - generic [ref=f101e22]:
+                    - generic [ref=f101e23]:
+                      - button "뿌니맘" [ref=f101e25] [cursor=pointer]
+                      - emphasis [ref=f101e26]: VVIP멤버
+                      - button "구독" [ref=f101e29] [cursor=pointer]
+                      - link "1:1 채팅" [ref=f101e30] [cursor=pointer]:
+                        - /url: "#"
+                    - generic [ref=f101e31]: 2026.03.07. 04:04조회 264
+                - generic [ref=f101e32]:
+                  - button [ref=f101e284] [cursor=pointer]:
+                    - text: 댓글
+                    - strong [ref=f101e34]: "4"
+                  - button "URL 복사" [ref=f101e35] [cursor=pointer]
+                  - button "더보기" [ref=f101e37] [cursor=pointer]:
+                    - img "더보기"
+              - generic [ref=f101e38]:
+                - generic [ref=f101e48]:
+                  - paragraph [ref=f101e49]: 2025년 청년과 비교 대상이 되는 2024년 청년 계산법도 개정이 반영되야 하는거 아닌가요
+                  - paragraph [ref=f101e50]: 둘다 12.31일 퇴사라 할때
+                  - paragraph [ref=f101e51]: 24.1.1 입사한 891228 생은 12월이 상시
+                  - paragraph [ref=f101e52]: 25.1.1 입사한 900216 생은 12월까지 청년
+                  - paragraph [ref=f101e53]
+                  - paragraph [ref=f101e54]: 단순히 세법이 개정된걸로 청년이 0.09 증가한게 됩니다. 이게 맞는걸까요.
+                  - paragraph [ref=f101e55]
+                  - paragraph [ref=f101e56]
+                - link [ref=f101e60] [cursor=pointer]:
+                  - /url: /ca-fe/cafes/29179359/members/QcxcpQOs37g9_Wj4GJ_0ezgElZ8QOOCYFX6SJs86PUI
+                  - img "프로필 사진" [ref=f101e62]
+                  - generic [ref=f101e63]:
+                    - strong [ref=f101e64]: 뿌니맘
+                    - text: 님의 게시글 더보기
+                - generic [ref=f101e65]:
+                  - generic [ref=f101e66]:
+                    - generic [ref=f101e68]:
+                      - button [ref=f101e69] [cursor=pointer]:
+                        - emphasis [ref=f101e71]: 좋아요
+                        - emphasis: "0"
+                      - button "이 글을 '좋아요'한 멤버 리스트" [ref=f101e72] [cursor=pointer]
+                    - button [pressed] [ref=f101e285] [cursor=pointer]:
+                      - text: 댓글
+                      - strong [ref=f101e76]: "4"
+                  - generic [ref=f101e77]:
+                    - link "공유" [ref=f101e80] [cursor=pointer]:
+                      - /url: "#"
+                    - link "신고" [ref=f101e83] [cursor=pointer]:
+                      - /url: "#"
+                - generic [ref=f101e84]:
+                  - generic [ref=f101e86]:
+                    - heading "댓글" [level=3] [ref=f101e87]
+                    - generic [ref=f101e88]:
+                      - list [ref=f101e89]:
+                        - listitem [ref=f101e90]:
+                          - button "등록순" [ref=f101e91] [cursor=pointer]
+                        - listitem [ref=f101e92]:
+                          - button "최신순" [ref=f101e93] [cursor=pointer]
+                      - button "새로고침" [ref=f101e94] [cursor=pointer]
+                    - generic [ref=f101e96]:
+                      - generic [ref=f101e97]:
+                        - generic [ref=f101e98]:
+                          - strong [ref=f101e99]: 클린봇
+                          - text: 이 악성 댓글을 감지합니다.
+                        - button "클린봇 설정" [ref=f101e100] [cursor=pointer]:
+                          - emphasis [ref=f101e101]: 클린봇
+                      - button [ref=f101e103] [cursor=pointer]:
+                        - img "관심글 댓글 알림"
+                        - emphasis [ref=f101e104]: 댓글알림
+                  - list [ref=f101e106]:
+                    - listitem [ref=f101e107]:
+                      - generic [ref=f101e108]:
+                        - link [ref=f101e109] [cursor=pointer]:
+                          - /url: /ca-fe/cafes/29179359/members/xt958IPBEXvSmbOxxa3S2dVy1rtX_LwvqFRSbJqxqOg
+                          - img "프로필 사진" [ref=f101e110]
+                        - generic [ref=f101e111]:
+                          - button "야근" [ref=f101e114] [cursor=pointer]
+                          - paragraph [ref=f101e117]: 24년도 개정된걸로 계산되어야 하는데 청년 간주 규정은 25년 입사자 부터 적용일거에요
+                          - generic [ref=f101e119]:
+                            - generic [ref=f101e120]: 2026.03.07. 14:32
+                            - button "답글쓰기" [ref=f101e121] [cursor=pointer]
+                          - generic [ref=f101e122]:
+                            - button "더보기" [ref=f101e124] [cursor=pointer]
+                            - link [ref=f101e126] [cursor=pointer]:
+                              - /url: "#"
+                    - listitem [ref=f101e128]:
+                      - generic [ref=f101e129]:
+                        - link [ref=f101e130] [cursor=pointer]:
+                          - /url: /ca-fe/cafes/29179359/members/QcxcpQOs37g9_Wj4GJ_0ezgElZ8QOOCYFX6SJs86PUI
+                          - img "프로필 사진" [ref=f101e131]
+                        - generic [ref=f101e132]:
+                          - generic [ref=f101e133]:
+                            - button "뿌니맘" [ref=f101e135] [cursor=pointer]
+                            - emphasis [ref=f101e137]:
+                              - img "작성자"
+                          - paragraph [ref=f101e139]: 개정세법 부칙 올려주신거 읽어보니 그렇군요. 국세청이 또 한번 혼란을 주네요. 감사합니다.
+                          - generic [ref=f101e141]:
+                            - generic [ref=f101e142]: 2026.03.08. 02:30
+                            - button "답글쓰기" [ref=f101e143] [cursor=pointer]
+                          - generic [ref=f101e144]:
+                            - button "더보기" [ref=f101e146] [cursor=pointer]
+                            - link [ref=f101e148] [cursor=pointer]:
+                              - /url: "#"
+                    - listitem [ref=f101e150]:
+                      - paragraph [ref=f101e153]: 삭제된 댓글입니다.
+                    - listitem [ref=f101e154]:
+                      - generic [ref=f101e155]:
+                        - link [ref=f101e156] [cursor=pointer]:
+                          - /url: /ca-fe/cafes/29179359/members/QcxcpQOs37g9_Wj4GJ_0ezgElZ8QOOCYFX6SJs86PUI
+                          - img "프로필 사진" [ref=f101e157]
+                        - generic [ref=f101e158]:
+                          - generic [ref=f101e159]:
+                            - button "뿌니맘" [ref=f101e161] [cursor=pointer]
+                            - emphasis [ref=f101e163]:
+                              - img "작성자"
+                          - paragraph [ref=f101e165]: 계산법을 쉽게 설명해주실수있나요? 업데이트 후에 세무사랑은 야근님 말처럼 계산이 되길래 질문을 올린거에요
+                          - generic [ref=f101e167]:
+                            - generic [ref=f101e168]: 2026.03.09. 06:54
+                            - button "답글쓰기" [ref=f101e169] [cursor=pointer]
+                          - generic [ref=f101e170]:
+                            - button "더보기" [ref=f101e172] [cursor=pointer]
+                            - link [ref=f101e174] [cursor=pointer]:
+                              - /url: "#"
+                    - listitem [ref=f101e286]:
+                      - generic [ref=f101e287]:
+                        - link [ref=f101e288] [cursor=pointer]:
+                          - /url: /ca-fe/cafes/29179359/members/8M6GnNEsbFRGJq8ODuGyldVD-WABFHzmTCHXJM_9rdQ
+                          - img "프로필 사진" [ref=f101e289]
+                        - generic [ref=f101e290]:
+                          - button "비앤택스" [ref=f101e293] [cursor=pointer]
+                          - paragraph [ref=f101e296]: 너무 감사합니다.
+                          - generic [ref=f101e298]:
+                            - generic [ref=f101e299]: 2026.09.01. 20:54
+                            - button "답글쓰기" [ref=f101e300] [cursor=pointer]
+                          - generic [ref=f101e301]:
+                            - button "더보기" [ref=f101e303] [cursor=pointer]
+                            - link [ref=f101e305] [cursor=pointer]:
+                              - /url: "#"
+                  - generic [ref=f101e176]:
+                    - generic [ref=f101e177]:
+                      - strong [ref=f101e178]: 댓글을 입력하세요
+                      - emphasis [ref=f101e179]: 비앤택스
+                      - textbox "댓글을 남겨보세요" [ref=f101e180]
+                    - generic [ref=f101e181]:
+                      - generic [ref=f101e182]:
+                        - generic [ref=f101e183] [cursor=pointer]:
+                          - img "사진첨부"
+                          - button "사진첨부" [ref=f101e184]
+                        - button "스티커첨부" [ref=f101e185] [cursor=pointer]:
+                          - img "스티커첨부"
+                      - button "등록" [active] [ref=f101e187] [cursor=pointer]
+            - generic [ref=f101e188]:
+              - button "글쓰기" [ref=f101e190] [cursor=pointer]
+              - generic [ref=f101e191]:
+                - button "목록" [ref=f101e192] [cursor=pointer]
+                - button "TOP" [ref=f101e193] [cursor=pointer]
+            - iframe [ref=f101e198]:
+              - generic [ref=f106e5]:
+                - generic [ref=f106e6]: 관심 있을만한 상품
+                - generic [ref=f106e8]:
+                  - list [ref=f106e9]:
+                    - listitem [ref=f106e10]:
+                      - link "구매 1천+ 광고 이미지 에어매트 캠핑 자충 매트리스 더블 프로 149,000원 광고 이미지 코지모해 공식 별점 4.8 리뷰수 451 찜 980" [ref=f106e11] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/YmkK8jazbSNNd_SYXrZB8PlFhf32ncO4aGHuS1FueEaTHrAcjKn0C3weRXOuddhYpxIWWkmAUSlGlyELbjSVQGgItcUDmGijGzhEHblO0r3mo9NpNt48PiINYS-QYkXN0eF8cM7oyEeqoh86ryLIxgRKNJc5BBWaL9pQ4e6ux2u7IcLmFPcO_IRIrr5hr809u0ZUhA0ip0j1gKgD-5OFut-BUyfG71t0XA3qz2tgcT84neUFs-lKuFru79IxI8bsDSwWWznBEVNKz7_PYxaDNsTXSvIaxwmSDDbXBGytD2__nnnl6-d43PfsDsosqT-_0z11qvQLSSYhqWfJ8tFQCExcGTUULaSHGOgWi78604KEDZPpoJvxUej0mRylPuapNk6L0FSRBXfOjXEKSchcr8R3JVQBoic8VQnLipcrB6s=?c=pncafe.new&t=0
+                        - generic [ref=f106e12]:
+                          - generic [ref=f106e13]: 구매 1천+
+                          - img "광고 이미지" [ref=f106e14]
+                        - generic [ref=f106e15]:
+                          - generic [ref=f106e16]: 에어매트 캠핑 자충 매트리스 더블 프로
+                          - generic [ref=f106e17]: 149,000원
+                          - generic [ref=f106e19]:
+                            - img "광고 이미지" [ref=f106e21]
+                            - generic [ref=f106e22]: 코지모해
+                            - generic [ref=f106e23]: 공식
+                          - generic [ref=f106e24]:
+                            - generic [ref=f106e25]:
+                              - generic [ref=f106e26]: 별점
+                              - generic [ref=f106e30]: "4.8"
+                              - generic [ref=f106e31]:
+                                - generic [ref=f106e32]: 리뷰수
+                                - text: "451"
+                            - generic [ref=f106e33]: 찜 980
+                    - listitem [ref=f106e34]:
+                      - link "광고 이미지 휴렉 지니 설치형 음식물처리기 미생물 분쇄기 1,399,000원 광고 이미지 휴렉 공식 별점 4.9 리뷰수 83 찜 302" [ref=f106e35] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/YmkK8jazbSNNd_SYXrZB8O-UBf0JXAr8ysdFEsNu7dH7-o4gjxyRP7E7mkiNEqyLA3RzUPUWGGhCQR0ve6EmJxT5kh43_Ga4dV6FfxLaveU0GSyAyShLsG-l31H_ZR99wDRMe_BAijHV4CLvIztWvMfP0OM1OCSuaxbCtcyqzFpJu2Keja-F2l4OkgcIErTabSRwE_NIDP1gy41FpAOyjnQJbXStdC5MV-ijH9zSrAWyAXhMDuKo-u4x6SHUTFznDQR-V5qNyllP317DGDC-HIfHB_kAbobFjOgdXdT7CObfdPnncULh0ZheNurv53XxXUMbPFUTSE5KrlGrk_ZaLvCRZULtA_c_CgWPO4sn9VFf1KuV4KSnSatfI9y7u9_RMBSRgbzKrm7ZnyCTi8ILNTqvGH6xTggdeBvOT4oHrgc=?c=pncafe.new&t=0
+                        - img "광고 이미지" [ref=f106e37]
+                        - generic [ref=f106e38]:
+                          - generic [ref=f106e39]: 휴렉 지니 설치형 음식물처리기 미생물 분쇄기
+                          - generic [ref=f106e40]: 1,399,000원
+                          - generic [ref=f106e42]:
+                            - img "광고 이미지" [ref=f106e44]
+                            - generic [ref=f106e45]: 휴렉
+                            - generic [ref=f106e46]: 공식
+                          - generic [ref=f106e47]:
+                            - generic [ref=f106e48]:
+                              - generic [ref=f106e49]: 별점
+                              - generic [ref=f106e53]: "4.9"
+                              - generic [ref=f106e54]:
+                                - generic [ref=f106e55]: 리뷰수
+                                - text: "83"
+                            - generic [ref=f106e56]: 찜 302
+                    - listitem [ref=f106e57]:
+                      - link "광고 이미지 삼성전자 갤럭시 핏3 SM-R390 블루투스 스마트워치 밴드 관부가세포함 49,900원 광고 이미지 크로켓Croket 별점 5.0 리뷰수 45 찜 32" [ref=f106e58] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/kZxCxCpsZ8f2KYm2t0vknrTUq3z-TyKls3JAwGXu6APd3DvMO8l8blXKSPDOL3zbd87W4wPxLZU_oeMzN7TxvIsEmKDTjn179cllBtQ2choY-GMazw4eFRwc8vl6XGsNsgsbp9y7K4ytOU05PrecxsbEilIadbg9UfBTfVDrcMEXD9-en_lLIFyHVLyuv0e_fHjAIS6g0TUeFTpsnmfJpNpKx4ONbZRiS8-W1Kb-R8NHXY6AS3qfA-1HP9mRftuVOwz9mdBXYLRg6cqVRBrZIxqI5klMX25PUsAxvAX5OFqu7kCQ6qumDzH6fInJKWeBj1SQORJ9P2VKDdNsACXzQIQvSjpe0JF7-jip0TcKoVautDrvNVJgRsWl28csrjZSkTpcwj15vN11HP4A5bjWLKsHyjzqjh_K1SkloU_LEQuI1cukPKEtJ9EwkUZL6GVwU1QSn6P1J1B-pdaptzqxS5OpdlOgd70uTS60PNkACuZq4YKhpeUrThIqdBv4PcAO?c=pncafe.new&t=0
+                        - img "광고 이미지" [ref=f106e60]
+                        - generic [ref=f106e61]:
+                          - generic [ref=f106e62]: 삼성전자 갤럭시 핏3 SM-R390 블루투스 스마트워치 밴드 관부가세포함
+                          - generic [ref=f106e63]: 49,900원
+                          - generic [ref=f106e65]:
+                            - img "광고 이미지" [ref=f106e67]
+                            - generic [ref=f106e68]: 크로켓Croket
+                          - generic [ref=f106e69]:
+                            - generic [ref=f106e70]:
+                              - generic [ref=f106e71]: 별점
+                              - generic [ref=f106e75]: "5.0"
+                              - generic [ref=f106e76]:
+                                - generic [ref=f106e77]: 리뷰수
+                                - text: "45"
+                            - generic [ref=f106e78]: 찜 32
+                    - listitem [ref=f106e79]:
+                      - link "구매 4천+ 광고 이미지 리바이스 남자 캐쥬얼 양면 가죽 벨트 11LV1226 29,600원 광고 이미지 KNSBEST 별점 4.8 리뷰수 7,767 찜 1,488" [ref=f106e80] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/q9C3n1GjHdYZgWKTMrVXYrsPRNfY2igxKMApBbS3NJ7pZEfwGWaooP-Xy5je2SmynDrK8nbVZIpC2VtWvEoWqZ4SEoKCXzr--VAJlScIg5sKD3Snx3sL2VJk3EBcC3vtc5uW892whu3v8GEma0IfzqvDs-wsv0uvE1qV6D8EVHd1UBNjnSGfeaqUKyTps1rydYIVqLXKAsCwN23dL_x7k5E8u_psEFRpIYzuD4VjAyvmhfFd_lnsCTJpviQVDHWq6lV4x4wtHlk3oj_XPPq8Yz9IRDUCDPDNaBTCFiBzGqFWXoztQY4jOVACh4cXO87ztjpjvVMbMpfU9ii2cC3j2DrRJTB6xOUN5aPSen4KI5GZA3UGC3ZWjINOrV3DbDfqxY9g7L9eXNycnnHJfboPD_o3kgMT7oee0WbSgP6fw3asl6yKshoWngWJsFyG6Ox0oNjOc2bIOLUHysmkjo70AZQaoagNQDGFbGrC376CJwKz70q_w8cJXYZIZ9wpXUwDxpSpiM9c4HGNLil_xZANPSKoTZ72Zx2ksowOWAqKdqaNcS36LGJ4YQOS3hvNz0Ve?c=pncafe.new&t=0
+                        - generic [ref=f106e81]:
+                          - generic [ref=f106e82]: 구매 4천+
+                          - img "광고 이미지" [ref=f106e83]
+                        - generic [ref=f106e84]:
+                          - generic [ref=f106e85]: 리바이스 남자 캐쥬얼 양면 가죽 벨트 11LV1226
+                          - generic [ref=f106e86]: 29,600원
+                          - generic [ref=f106e88]:
+                            - img "광고 이미지" [ref=f106e90]
+                            - generic [ref=f106e91]: KNSBEST
+                          - generic [ref=f106e92]:
+                            - generic [ref=f106e93]:
+                              - generic [ref=f106e94]: 별점
+                              - generic [ref=f106e98]: "4.8"
+                              - generic [ref=f106e99]:
+                                - generic [ref=f106e100]: 리뷰수
+                                - text: 7,767
+                            - generic [ref=f106e101]: 찜 1,488
+                    - listitem [ref=f106e102]:
+                      - link "구매 3만+ 광고 이미지 연세두유 무가당 두유 190ml 오리지널 24팩 + 검은콩 24팩 (총 48팩) 22,200원 광고 이미지 연세유업 직영스토어 공식 별점 4.8 리뷰수 9,999+ 찜 5,762" [ref=f106e103] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/5pEddywGt3FGOV_b2ETDI-AQrHeFYH-j7qZ-agbYDlp0FdmZK9-0DAuZJWQFjbvl4so2jrYnRptztnjiF_Epay6z3BwGwA1P8Dw1Nfh8J_ncInKNk5TwN0JBeVqE5WTmXgT13PVvgPpZhpTE-ASL3gyx2aJ_4EKSQLSm1mG-QCDMXlVMkENo_RvOi5TwvyBHsrEeinhxt4v-jhCP7C4CVY6ecKlSeSvs9mim2Pf8WdFayMqi9K2B18LQdNNODMz7_i2gHzQG7svDPCxMkw8dyyzDy3sc1gADiK1KxCXajs6luemnHeucn6GQfYYXR3PCUViIcbxYAqM4oFVbPDu3R18Auuy-m_mKWA3oWnQmdIM724CxVHhsKBuwz7gIrkzQJmMrQJq2QUjqf3-97uXijhdsZa-shyZ_tXEigIPu-EE=?c=pncafe.new&t=0
+                        - generic [ref=f106e104]:
+                          - generic [ref=f106e105]: 구매 3만+
+                          - img "광고 이미지" [ref=f106e106]
+                        - generic [ref=f106e107]:
+                          - generic [ref=f106e108]: 연세두유 무가당 두유 190ml 오리지널 24팩 + 검은콩 24팩 (총 48팩)
+                          - generic [ref=f106e109]: 22,200원
+                          - generic [ref=f106e111]:
+                            - img "광고 이미지" [ref=f106e113]
+                            - generic [ref=f106e114]: 연세유업 직영스토어
+                            - generic [ref=f106e115]: 공식
+                          - generic [ref=f106e116]:
+                            - generic [ref=f106e117]:
+                              - generic [ref=f106e118]: 별점
+                              - generic [ref=f106e122]: "4.8"
+                              - generic [ref=f106e123]:
+                                - generic [ref=f106e124]: 리뷰수
+                                - text: 9,999+
+                            - generic [ref=f106e125]: 찜 5,762
+                    - listitem [ref=f106e126]:
+                      - link "광고 이미지 CHERRY XTRFY K5 PRO TMR 8K 65% (블랙) 99,000원 광고 이미지 히트정보" [ref=f106e127] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/Ic0lXnbwgszoqK3Cx78G_B786YFYTW_XNTBr8nZYipsvBU0E6YIJyz1Hd7LSy0maZIbhJdIkxebEqsQq6s8gekl6lT7cSSYYZ1JiPa_x-XRIxSsQ2JSPPd3Cg1Y0-qKhCtH5jEfxZLdicEL28kpOpO3ASG4pyQuxTKbDp7TGtfPdhxKPTviq9W5-hufjNyzxrXBNuIjvODkLhOsK1yOn_q01InNUWkUiGV2WTX829qOrVv_9k4pefmm8J2oRPkgo0oQD141F62KWTYjtA5pCtyZdNuedFHvrRr3eeVR8CLb_-acTmfI-lSV6U5SqL5dXU4tow3rg0FJT16I9vGAXP1BfePiwjTtcc3eu5cEwT0yC75wcXgrLePWrPNIilcPe5dZO0VJIjJoROGYAb8IaK--uOi0kjl7OVWaqZC5-29c=?c=pncafe.new&t=0
+                        - img "광고 이미지" [ref=f106e129]
+                        - generic [ref=f106e130]:
+                          - generic [ref=f106e131]: CHERRY XTRFY K5 PRO TMR 8K 65% (블랙)
+                          - generic [ref=f106e132]: 99,000원
+                          - generic [ref=f106e134]:
+                            - img "광고 이미지" [ref=f106e136]
+                            - generic [ref=f106e137]: 히트정보
+                    - listitem [ref=f106e138]:
+                      - link "광고 이미지 LG그램 프로 16ZD90TR-EX7BK 인텔 15세대 RTX 5050 블랙 4,069,000원 광고 이미지 정품전문몰" [ref=f106e139] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/kLVnEo4rWfFZ_Jfj5lgcCgKrJjO88bWqR_8y0LmrqP4FyJf0snRWhRYWacRqMFTyFrSoMYNbBZt6rZ1_ERxh4jlixAR1vn5JLFB0FCXIXYp8dfm_Gj6a2ThecZlyciRjpNyHhguxIfKLxkeJ6lZY9rN2IQzIZ00RQQqLJkAGijD6DdK3Civ6iXBtuouetY7Vedp8Lr3IHsBs4pliDNowfwJjRX38pQfgVnq-m0RMFafUEexN7BdZoXnWpoaTq0ubUy3iao0J1H30pcaX7YIVfsazOvhOHqgtFWrjZ141WhY=?c=pncafe.new&NaPm=1
+                        - img "광고 이미지" [ref=f106e141]
+                        - generic [ref=f106e142]:
+                          - generic [ref=f106e143]: LG그램 프로 16ZD90TR-EX7BK 인텔 15세대 RTX 5050 블랙
+                          - generic [ref=f106e144]: 4,069,000원
+                          - generic [ref=f106e146]:
+                            - img "광고 이미지" [ref=f106e148]
+                            - generic [ref=f106e149]: 정품전문몰
+                    - listitem [ref=f106e150]:
+                      - link "구매 40+ 광고 이미지 2026 LG그램 15 15ZD90U-GX59K 인텔 코어 Ultra5 팬서레이크 4Xe 32GB 256GB AI 멀티태스킹 고성능 가벼운 노트북 2,797,000원 광고 이미지 LG전자인증점 베스트CNF 별점 5.0 리뷰수 58 찜 288" [ref=f106e151] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SgoxyysltIeIY2GZL7r0ANQpejWPb9PzanK0LJe48dZpRWrSdb8HIBhyaaMojEr57QuE3XYsYGaPKuz4Ga1BboOwK09Ikp50-SX2nKYy3ot1mHXrkvVez5p1krf3uKDxv-7pSTDeQ7CmJzs88iMpDYO-CVO4j8MqgyMPAs5iy9XdFTdgtprXsPBHDE5SDntEgUMGrOWVySeO7DKl46ZcHJ74guPYlNSB-oh-DT5x98Ye2N1JoZkgL_K1x0eepHhhfLxt2Kg4tVM2xk31xvx74GgOaS0b2PaULaeUPyK9BJs=?c=pncafe.new&NaPm=1
+                        - generic [ref=f106e152]:
+                          - generic [ref=f106e153]: 구매 40+
+                          - img "광고 이미지" [ref=f106e154]
+                        - generic [ref=f106e155]:
+                          - generic [ref=f106e156]: 2026 LG그램 15 15ZD90U-GX59K 인텔 코어 Ultra5 팬서레이크 4Xe 32GB 256GB AI 멀티태스킹 고성능 가벼운 노트북
+                          - generic [ref=f106e157]: 2,797,000원
+                          - generic [ref=f106e159]:
+                            - img "광고 이미지" [ref=f106e161]
+                            - generic [ref=f106e162]: LG전자인증점 베스트CNF
+                          - generic [ref=f106e163]:
+                            - generic [ref=f106e164]:
+                              - generic [ref=f106e165]: 별점
+                              - generic [ref=f106e169]: "5.0"
+                              - generic [ref=f106e170]:
+                                - generic [ref=f106e171]: 리뷰수
+                                - text: "58"
+                            - generic [ref=f106e172]: 찜 288
+                    - listitem [ref=f106e173]:
+                      - link "광고 이미지 아치보호깔창 테니스 풋살 등산 골프화 건강인솔 8,900원 광고 이미지 이노밸런스 별점 4.7 리뷰수 227 찜 65" [ref=f106e174] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/5pEddywGt3FGOV_b2ETDI3adkEkq74fMu7c8u1n623s-rc7bMq-ALb_nYdccpzGxKNKoFbOKKjUUzKMIR4I6ZIiUgKpmNvrznhvaTBGCyHy9B_JdkLe-C7Cz7h5ePymAhV0ZNOvP5tgM4a5xlihw5JVuAFxiQddocX0zOYD1BsFJI1lcQaDhgN_x31qcgcxeHD8xGyVot9hg9erosJu6RGwvwT-IGw7IsDU1mi8btEtp55lw8sAgXaGiuScZZ-9UR1JspGG4-4GnZhk1YbLSnDx0tB25LEYsPrP2_F8lNDJLLn6DLL9kmGb2kIwxrRf7W4X-o4dy7xz07qJPOSxr1uXkIAw_-LmlK9zuo6PMX9-v9w4BnYr9M6GmzzpljQnBkMKz3B4hkqS49WzE_-bCxmcktdzRNo4iowOYF3N2HwM=?c=pncafe.new&t=0
+                        - img "광고 이미지" [ref=f106e176]
+                        - generic [ref=f106e177]:
+                          - generic [ref=f106e178]: 아치보호깔창 테니스 풋살 등산 골프화 건강인솔
+                          - generic [ref=f106e179]: 8,900원
+                          - generic [ref=f106e181]:
+                            - img "광고 이미지" [ref=f106e183]
+                            - generic [ref=f106e184]: 이노밸런스
+                          - generic [ref=f106e185]:
+                            - generic [ref=f106e186]:
+                              - generic [ref=f106e187]: 별점
+                              - generic [ref=f106e191]: "4.7"
+                              - generic [ref=f106e192]:
+                                - generic [ref=f106e193]: 리뷰수
+                                - text: "227"
+                            - generic [ref=f106e194]: 찜 65
+                    - listitem [ref=f106e195]:
+                      - link "구매 40+ 광고 이미지 스웨그키 Ticktype 틱타입 DP104 풀알루미늄 기계식 키보드 화이트, 라이축 298,000원 광고 이미지 왓키 WHATKEY 별점 5.0 리뷰수 19 찜 67" [ref=f106e196] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/mZ8jspfgoGe8DmAlR1rQXXZSJexSkNqne57U2OqPVwi8hAtiw8MKwBIy9I8G2edzh4MeD8jJUB0ws9VVBNw1D8nMHbd9ZR-6p8LWuIpx6lEu7RIK3LyGNucnF7Pc9D-MQ7e1z8TvErrtgpoeb9enpkdUyyxDdcojsUl0fBxTyWAye3jSK772zlRlDdW4CjrFaDxwOqahUE3tq9trySrjae_lqaVKuTGpTbDplmZygnEwnF6JaKbTGrbrS-6_d9D2SHvZFVPSmb85s7Dt28vFW1W3v_WEU-IrviTjTFLaV4k=?c=pncafe.new&t=0
+                        - generic [ref=f106e197]:
+                          - generic [ref=f106e198]: 구매 40+
+                          - img "광고 이미지" [ref=f106e199]
+                        - generic [ref=f106e200]:
+                          - generic [ref=f106e201]: 스웨그키 Ticktype 틱타입 DP104 풀알루미늄 기계식 키보드 화이트, 라이축
+                          - generic [ref=f106e202]: 298,000원
+                          - generic [ref=f106e204]:
+                            - img "광고 이미지" [ref=f106e206]
+                            - generic [ref=f106e207]: 왓키 WHATKEY
+                          - generic [ref=f106e208]:
+                            - generic [ref=f106e209]:
+                              - generic [ref=f106e210]: 별점
+                              - generic [ref=f106e214]: "5.0"
+                              - generic [ref=f106e215]:
+                                - generic [ref=f106e216]: 리뷰수
+                                - text: "19"
+                            - generic [ref=f106e217]: 찜 67
+                  - button "다음으로 가기" [ref=f106e218] [cursor=pointer]
+            - generic [ref=f101e199]:
+              - generic [ref=f101e200]:
+                - heading "' 법인조정 ' 게시판 글" [level=2] [ref=f101e201]:
+                  - strong [ref=f101e202]:
+                    - text: "'"
+                    - generic [ref=f101e203]: 법인조정
+                    - text: "'"
+                  - generic [ref=f101e204]: 게시판 글
+                - generic [ref=f101e206]:
+                  - generic [ref=f101e208]:
+                    - emphasis [ref=f101e209]: 이 게시판 새글 구독하기
+                    - generic [ref=f101e210]:
+                      - checkbox "등록" [ref=f101e211]
+                      - generic [ref=f101e212] [cursor=pointer]: 등록
+                  - list [ref=f101e216]:
+                    - listitem [ref=f101e217]:
+                      - link "계약체결일 현재 청년" [ref=f101e219] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/ArticleRead.nhn?menuid=132&boardtype=L&clubid=29179359&articleid=61081
+                      - button "뿌니맘" [ref=f101e221] [cursor=pointer]
+                      - generic [ref=f101e222]: 2026.03.08.
+                    - listitem [ref=f101e223]:
+                      - link "통합고용세액공제 정규직전환자" [ref=f101e225] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/ArticleRead.nhn?menuid=132&boardtype=L&clubid=29179359&articleid=61078
+                      - button "셈럽" [ref=f101e227] [cursor=pointer]
+                      - generic [ref=f101e228]: 2026.03.07.
+                    - listitem [ref=f101e229]:
+                      - generic [ref=f101e230]:
+                        - link "통합고용 청년 개정이 전부 반영완료 된건가요" [ref=f101e231] [cursor=pointer]:
+                          - /url: https://cafe.naver.com/ArticleRead.nhn?menuid=132&boardtype=L&clubid=29179359&articleid=61072
+                        - generic [ref=f101e232]:
+                          - generic [ref=f101e233]: 댓글
+                          - text: "[3]"
+                      - button "뿌니맘" [ref=f101e235] [cursor=pointer]
+                      - generic [ref=f101e236]: 2026.03.07.
+                    - listitem [ref=f101e237]:
+                      - generic [ref=f101e238]:
+                        - link "3/6일 주식출자지분 양도명세서 전자변환시 오류메시지" [ref=f101e239] [cursor=pointer]:
+                          - /url: https://cafe.naver.com/ArticleRead.nhn?menuid=132&boardtype=L&clubid=29179359&articleid=61069
+                        - generic [ref=f101e240]:
+                          - generic [ref=f101e241]: 댓글
+                          - text: "[1]"
+                      - button "오삼광빌라" [ref=f101e243] [cursor=pointer]
+                      - generic [ref=f101e244]: 2026.03.06.
+                    - listitem [ref=f101e245]:
+                      - generic [ref=f101e246]:
+                        - link "고용현황(통합고용세액공제상시근로자명세서) 전년도불러오기" [ref=f101e247] [cursor=pointer]:
+                          - /url: https://cafe.naver.com/ArticleRead.nhn?menuid=132&boardtype=L&clubid=29179359&articleid=61064
+                        - generic [ref=f101e248]:
+                          - img "사진"
+                        - generic [ref=f101e249]:
+                          - generic [ref=f101e250]: 댓글
+                          - text: "[1]"
+                      - button "냉수한잔" [ref=f101e252] [cursor=pointer]
+                      - generic [ref=f101e253]: 2026.03.06.
+                - generic [ref=f101e254]:
+                  - generic [ref=f101e255]:
+                    - strong [ref=f101e256]: 페이징 이동
+                    - button "1" [pressed] [ref=f101e257] [cursor=pointer]
+                    - button "2" [ref=f101e258] [cursor=pointer]
+                    - button "3" [ref=f101e259] [cursor=pointer]
+                  - link "전체보기" [ref=f101e260] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/ArticleList.nhn?search.clubid=29179359&search.boardtype=L&search.page=1&search.menuid=132
+              - generic [ref=f101e262]:
+                - heading "이 카페 인기글" [level=4] [ref=f101e263]
+                - list [ref=f101e264]:
+                  - listitem [ref=f101e265]:
+                    - link "[건의사항] 급여명세서 출력할때 파일명에 대괄호가 생겼던데 없애주세요 느아아앙ㅎ 좋아요 1 댓글수 6" [ref=f101e266] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=29179359&articleid=64568
+                      - generic [ref=f101e267]:
+                        - strong [ref=f101e268]: "[건의사항] 급여명세서 출력할때 파일명에 대괄호가 생겼던데 없애주세요"
+                        - generic [ref=f101e269]:
+                          - generic [ref=f101e270]: 느아아앙ㅎ
+                          - generic [ref=f101e271]:
+                            - img "좋아요"
+                            - text: "1"
+                          - generic [ref=f101e272]:
+                            - img "댓글수"
+                            - text: "6"
+                  - listitem [ref=f101e273]:
+                    - link "거래처원장 이리이리 좋아요 0 댓글수 6" [ref=f101e274] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/ArticleRead.nhn?fromPopular=true&clubid=29179359&articleid=64567
+                      - generic [ref=f101e275]:
+                        - strong [ref=f101e276]: 거래처원장
+                        - generic [ref=f101e277]:
+                          - generic [ref=f101e278]: 이리이리
+                          - generic [ref=f101e279]:
+                            - img "좋아요"
+                            - text: "0"
+                          - generic [ref=f101e280]:
+                            - img "댓글수"
+                            - text: "6"
+            - generic [ref=f101e281]:
+              - list
+              - link [ref=f101e282] [cursor=pointer]:
+                - /url: "#"
+                - img "레이어 닫기" [ref=f101e283]
+    - contentinfo [ref=f100e80]:
+      - heading "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [level=2] [ref=f100e81]
+      - link "https://cafe.naver.com/semusarangkclep" [ref=f100e82] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+      - link "NAVER 카페" [ref=f100e83] [cursor=pointer]:
+        - /url: https://cafe.naver.com/semusarangkclep
+  - alert [ref=f100e85]

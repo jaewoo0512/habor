@@ -1,0 +1,1503 @@
+- generic [active] [ref=f45e1]:
+  - generic:
+    - link "게시판 목록 바로가기" [ref=f45e2] [cursor=pointer]:
+      - /url: "#cafe-menu"
+    - link "본문 바로가기" [ref=f45e3] [cursor=pointer]:
+      - /url: "#main-area"
+    - link "웹 접근성이 좋은 모바일 웹에서 사용하겠습니까?" [ref=f45e4] [cursor=pointer]:
+      - /url: https://m.cafe.naver.com/semusarangkclep
+  - heading "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [level=1] [ref=f45e5]
+  - generic [ref=f45e6]:
+    - generic [ref=f45e7]:
+      - generic [ref=f45e8]:
+        - link [ref=f45e9] [cursor=pointer]:
+          - /url: http://www.naver.com
+          - img "NAVER" [ref=f45e10]
+        - generic [ref=f45e11]:
+          - paragraph [ref=f45e12]:
+            - link "카페홈" [ref=f45e13] [cursor=pointer]:
+              - /url: https://section.cafe.naver.com
+          - link "이웃" [ref=f45e15] [cursor=pointer]:
+            - /url: https://cafe.naver.com/ca-fe/home/town
+          - generic [ref=f45e16]:
+            - link "가입카페" [ref=f45e17] [cursor=pointer]:
+              - /url: "#"
+            - link [ref=f45e18] [cursor=pointer]:
+              - /url: "#"
+              - img "가입카페" [ref=f45e19]
+          - link "새글" [ref=f45e21] [cursor=pointer]:
+            - /url: "#"
+          - link "내소식" [ref=f45e23] [cursor=pointer]:
+            - /url: "#"
+          - link "채팅" [ref=f45e25] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=f45e26]:
+            - strong [ref=f45e27]: 사용자 링크
+            - list [ref=f45e28]:
+              - listitem [ref=f45e29]:
+                - link "btax1.. 내정보 보기" [ref=f45e31] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=f45e32]: btax1..
+                  - emphasis [ref=f45e33]: 내정보 보기
+              - listitem [ref=f45e34]:
+                - link "네이버톡 새 창 알림" [ref=f45e35] [cursor=pointer]:
+                  - /url: https://talks.naver.com/?frm=pcgnb&anchor=&category=
+              - listitem [ref=f45e38]:
+                - link "서비스 더보기" [ref=f45e39] [cursor=pointer]:
+                  - /url: javascript:;
+      - link [ref=f45e44] [cursor=pointer]:
+        - /url: /MyCafeIntro.nhn?clubid=29179359
+        - img "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [ref=f45e45]
+      - generic [ref=f45e46]:
+        - generic [ref=f45e47]:
+          - generic [ref=f45e49]:
+            - list [ref=f45e50]:
+              - listitem [ref=f45e51] [cursor=pointer]:
+                - button "카페정보" [disabled] [ref=f45e52]
+              - listitem [ref=f45e53] [cursor=pointer]:
+                - button "나의활동" [ref=f45e54]
+            - generic [ref=f45e55]:
+              - heading "카페정보" [level=4] [ref=f45e56]
+              - list [ref=f45e58]:
+                - listitem [ref=f45e59]:
+                  - link [ref=f45e60] [cursor=pointer]:
+                    - /url: /MyCafeIntro.nhn?clubid=29179359
+                    - img "카페아이콘" [ref=f45e61]
+                - listitem [ref=f45e62]:
+                  - link "카페지기" [ref=f45e63] [cursor=pointer]:
+                    - /url: /f-e/cafes/29179359/members/4Jvvm0TRuKYQ9UzXmIrxe4pzbmZN0dhF0OXUIUa4eY8
+                  - emphasis [ref=f45e66]: 매니저
+                  - link "2017.09.22. 개설" [ref=f45e68] [cursor=pointer]:
+                    - /url: "#"
+                  - link "카페소개" [ref=f45e70] [cursor=pointer]:
+                    - /url: "#"
+              - list [ref=f45e72]:
+                - listitem [ref=f45e73]:
+                  - link [ref=f45e74] [cursor=pointer]:
+                    - /url: "#"
+                    - strong [ref=f45e75]: 카페등급
+                    - emphasis [ref=f45e77]: 열매1단계
+                - listitem [ref=f45e78] [cursor=pointer]:
+                  - strong [ref=f45e79]: 카페멤버수
+                  - link "멤버수 41,858 비공개" [ref=f45e80]:
+                    - /url: "#"
+                    - img "멤버수" [ref=f45e81]
+                    - emphasis [ref=f45e82]:
+                      - text: 41,858
+                      - generic [ref=f45e83]: 비공개
+                  - link "닫기":
+                    - /url: "#"
+                  - link "초대" [ref=f45e85]:
+                    - /url: "#"
+            - link "카페 글쓰기" [ref=f45e87] [cursor=pointer]:
+              - /url: "#"
+            - list [ref=f45e89]:
+              - listitem [ref=f45e90]:
+                - link "카페 채팅 새로운 메시지" [ref=f45e91] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 카페 채팅
+                  - generic [ref=f45e92]: 새로운 메시지
+          - generic [ref=f45e94]:
+            - textbox "카페글 검색어 입력" [ref=f45e95]
+            - button "검색" [ref=f45e96] [cursor=pointer]
+          - generic [ref=f45e98]:
+            - generic [ref=f45e99]:
+              - heading [level=3] [ref=f45e100]:
+                - link "즐겨찾는 게시판" [ref=f45e101] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=f45e102]:
+                - link [ref=f45e103] [cursor=pointer]:
+                  - /url: "#"
+                  - img "열기/닫기" [ref=f45e104]
+            - list [ref=f45e106]:
+              - listitem [ref=f45e107]:
+                - link "전체글보기" [ref=f45e108] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.boardtype=L
+                - generic [ref=f45e109]: 54,957
+              - listitem [ref=f45e110]:
+                - link "인기글" [ref=f45e111] [cursor=pointer]:
+                  - /url: /f-e/cafes/29179359/popular
+                - img "새 게시글" [ref=f45e112]
+              - listitem [ref=f45e113]:
+                - link "카페지식활동" [ref=f45e114] [cursor=pointer]:
+                  - /url: /KinActivityNewQuestionList.nhn?search.clubid=29179359
+            - heading "출입구" [level=3] [ref=f45e116]
+            - list [ref=f45e118]:
+              - listitem [ref=f45e119]:
+                - link "출석체크" [ref=f45e120] [cursor=pointer]:
+                  - /url: /AttendanceView.nhn?search.clubid=29179359&search.menuid=139
+                - img "새 게시글" [ref=f45e121]
+              - listitem [ref=f45e122]:
+                - link "가입소식" [ref=f45e123] [cursor=pointer]:
+                  - /url: /MemoList.nhn?search.clubid=29179359&search.menuid=2&viewType=pc
+                - img "새 게시글" [ref=f45e124]
+              - listitem [ref=f45e125]:
+                - link "가입인사" [ref=f45e126] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=93&search.boardtype=L
+              - listitem [ref=f45e127]:
+                - link "일반등업요청(일반->모범)" [ref=f45e128] [cursor=pointer]:
+                  - /url: /LevelUpApplyList.nhn?search.clubid=29179359
+            - heading "세무사랑Pro 관련 소식지" [level=3] [ref=f45e130]
+            - list [ref=f45e132]:
+              - listitem [ref=f45e133]:
+                - link "조덕희세무사의 활용노트" [ref=f45e134] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=157&search.boardtype=L
+              - listitem [ref=f45e135]:
+                - link "이문희세무사의 마스터클래스" [ref=f45e136] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=172&search.boardtype=L
+              - listitem [ref=f45e137]:
+                - link "플랫폼세무사회 100% 활용하기" [ref=f45e138] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=180&search.boardtype=L
+              - listitem [ref=f45e139]:
+                - link "세무사님들의 기고문 모음" [ref=f45e140] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=159&search.boardtype=L
+              - listitem [ref=f45e141]:
+                - link "세무사랑 관련 신문 모음" [ref=f45e142] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=160&search.boardtype=L
+              - listitem [ref=f45e143]:
+                - link "★세·알·고★" [ref=f45e144] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=148&search.boardtype=L
+              - listitem [ref=f45e145]:
+                - link "세알고유튜브(크롬추천)" [ref=f45e146] [cursor=pointer]:
+                  - /url: https://youtube.com/playlist?list=PLveHa-ISrlHi0xY20YG4wC4Q2aGPRsfCk
+            - heading "프로그램문의(누구나답변가능)" [level=3] [ref=f45e148]
+            - list [ref=f45e150]:
+              - listitem [ref=f45e151]:
+                - link "★VVIP(프로그램)멤버등업 (아이디등록)" [ref=f45e152] [cursor=pointer]:
+                  - /url: /MemoList.nhn?search.clubid=29179359&search.menuid=127&viewType=pc
+                - img "새 게시글" [ref=f45e153]
+              - listitem [ref=f45e154]:
+                - link "↑등업시 꼭 스텝만보기(비밀글) 클릭~^^" [ref=f45e155] [cursor=pointer]:
+                  - /url: /MemoList.nhn?search.clubid=29179359&search.menuid=141&viewType=pc
+              - listitem [ref=f45e156]:
+                - link "★★VVIP게시판 이용전 필독!!!!" [ref=f45e157] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/semusarangkclep/13908
+              - listitem [ref=f45e158]:
+                - link "회계관리" [ref=f45e159] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=129&search.boardtype=L
+                - img "새 게시글" [ref=f45e160]
+              - listitem [ref=f45e161]:
+                - link "부가가치세" [ref=f45e162] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=130&search.boardtype=L
+              - listitem [ref=f45e163]:
+                - link "V-BOT(검증)" [ref=f45e164] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=156&search.boardtype=L
+              - listitem [ref=f45e165]:
+                - link "원천징수" [ref=f45e166] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=131&search.boardtype=L
+                - img "새 게시글" [ref=f45e167]
+              - listitem [ref=f45e168]:
+                - link "법인조정" [ref=f45e169] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=132&search.boardtype=L
+              - listitem [ref=f45e170]:
+                - link "개인조정" [ref=f45e171] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=133&search.boardtype=L
+              - listitem [ref=f45e172]:
+                - link "물류관리" [ref=f45e173] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=134&search.boardtype=L
+              - listitem [ref=f45e174]:
+                - link "시스템" [ref=f45e175] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=135&search.boardtype=L
+                - img "새 게시글" [ref=f45e176]
+              - listitem [ref=f45e177]:
+                - link "OCT(원클릭택스)" [ref=f45e178] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=136&search.boardtype=L
+              - listitem [ref=f45e179]:
+                - link "기타" [ref=f45e180] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=137&search.boardtype=L
+                - img "새 게시글" [ref=f45e181]
+              - listitem [ref=f45e182]:
+                - link "주요문의사항(FAQ)" [ref=f45e183] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=145&search.boardtype=L
+              - listitem [ref=f45e184]:
+                - link "세무사랑 업데이트" [ref=f45e185] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=105&search.boardtype=L
+                - img "새 게시글" [ref=f45e186]
+              - listitem [ref=f45e187]:
+                - link "프로그램구입문의" [ref=f45e188] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=154&search.boardtype=L
+                - img "새 게시글" [ref=f45e189]
+              - listitem [ref=f45e190]:
+                - link "뉴젠에듀" [ref=f45e191] [cursor=pointer]:
+                  - /url: http://newzenedu.newzensolution.co.kr/newzenedu/
+              - listitem [ref=f45e192]:
+                - link "(구)VVIP 검색하기" [ref=f45e193] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/semusarangkclep/15072
+            - heading "묻고답하기(모든회원)" [level=3] [ref=f45e195]
+            - list [ref=f45e197]:
+              - listitem [ref=f45e198]:
+                - link "세무사랑의 정석 질문게시판" [ref=f45e199] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=171&search.boardtype=L
+              - listitem [ref=f45e200]:
+                - link "[액셀활용팁 및 Q&A]" [ref=f45e201] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=149&search.boardtype=L
+              - listitem [ref=f45e202]:
+                - link "무엇이든 질문" [ref=f45e203] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=73&search.boardtype=L
+                - img "새 게시글" [ref=f45e204]
+              - listitem [ref=f45e205]:
+                - link "원천/4대보험" [ref=f45e206] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=81&search.boardtype=L
+                - img "새 게시글" [ref=f45e207]
+              - listitem [ref=f45e208]:
+                - link "부가세&소득세&법인세" [ref=f45e209] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=99&search.boardtype=L
+                - img "새 게시글" [ref=f45e210]
+            - heading "회원궁금증(모든회원)" [level=3] [ref=f45e212]
+            - list [ref=f45e214]:
+              - listitem [ref=f45e215]:
+                - link "월별 주요신고 TIP" [ref=f45e216] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=104&search.boardtype=L
+              - listitem [ref=f45e217]:
+                - link "신고실무 교육영상" [ref=f45e218] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=108&search.boardtype=L
+            - heading "소식통(모든회원)" [level=3] [ref=f45e220]
+            - list [ref=f45e222]:
+              - listitem [ref=f45e223]:
+                - link "공지사항" [ref=f45e224] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=15&search.boardtype=L
+              - listitem [ref=f45e225]:
+                - link "세무일정 & 안내" [ref=f45e226] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=16&search.boardtype=L
+                - img "새 게시글" [ref=f45e227]
+              - listitem [ref=f45e228]:
+                - link "이벤트" [ref=f45e229] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=19&search.boardtype=L
+              - listitem [ref=f45e230]:
+                - link "세무사랑 꿀팁 알리기" [ref=f45e231] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=173&search.boardtype=L
+              - listitem [ref=f45e232]:
+                - link "플랫폼세무사회 활용 사례" [ref=f45e233] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=177&search.boardtype=L
+              - listitem [ref=f45e234]:
+                - link "플랫폼세무사회 개선 제안" [ref=f45e235] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=174&search.boardtype=L
+                - img "새 게시글" [ref=f45e236]
+              - listitem [ref=f45e237]:
+                - link "당첨자 발표" [ref=f45e238] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=92&search.boardtype=L
+            - heading "지식공유(모든회원)" [level=3] [ref=f45e240]
+            - list [ref=f45e242]:
+              - listitem [ref=f45e243]:
+                - link "업무 Tip & Tech" [ref=f45e244] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=75&search.boardtype=L
+              - listitem [ref=f45e245]:
+                - link "업무서식 공유" [ref=f45e246] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=30&search.boardtype=L
+              - listitem [ref=f45e247]:
+                - link "주요신고 FAQ" [ref=f45e248] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=86&search.boardtype=L
+              - listitem [ref=f45e249]:
+                - link "세무사랑 유용한 TIP" [ref=f45e250] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=87&search.boardtype=L
+              - listitem [ref=f45e251]:
+                - link "노무정보" [ref=f45e252] [cursor=pointer]:
+                  - /url: https://kin.naver.com/qna/list.nhn?m=expertAnswer&dirId=608
+            - heading "배움터(모든회원)" [level=3] [ref=f45e254]
+            - list [ref=f45e256]:
+              - listitem [ref=f45e257]:
+                - link "초보Part" [ref=f45e258] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=59&search.boardtype=L
+              - listitem [ref=f45e259]:
+                - link "회계Part" [ref=f45e260] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=60&search.boardtype=L
+              - listitem [ref=f45e261]:
+                - link "결산part" [ref=f45e262] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=89&search.boardtype=L
+                - img "새 게시글" [ref=f45e263]
+              - listitem [ref=f45e264]:
+                - link "원천/4대보험Part" [ref=f45e265] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=91&search.boardtype=L
+              - listitem [ref=f45e266]:
+                - link "부가가치세Part" [ref=f45e267] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=62&search.boardtype=L
+              - listitem [ref=f45e268]:
+                - link "소득세part" [ref=f45e269] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=88&search.boardtype=L
+              - listitem [ref=f45e270]:
+                - link "법인세Part" [ref=f45e271] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=63&search.boardtype=L
+              - listitem [ref=f45e272]:
+                - link "세무사랑part" [ref=f45e273] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=98&search.boardtype=L
+            - list
+            - generic [ref=f45e275]:
+              - heading [level=3] [ref=f45e276]:
+                - link "자격시험 & 교육일정" [ref=f45e277] [cursor=pointer]:
+                  - /url: "#"
+              - paragraph [ref=f45e278]:
+                - link [ref=f45e279] [cursor=pointer]:
+                  - /url: "#"
+                  - img "열기/닫기" [ref=f45e280]
+            - heading "세무사랑 연동 세무포털" [level=3] [ref=f45e282]
+            - list [ref=f45e284]:
+              - listitem [ref=f45e285]:
+                - link "한국세무사회전산법인" [ref=f45e286] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=68&search.boardtype=L
+              - listitem [ref=f45e287]:
+                - link "세무라인(업무효율화)" [ref=f45e288] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=126&search.boardtype=L
+            - heading "커뮤니티(모든회원)" [level=3] [ref=f45e290]
+            - list [ref=f45e292]:
+              - listitem [ref=f45e293]:
+                - link "자유게시판" [ref=f45e294] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=1&search.boardtype=L
+              - listitem [ref=f45e295]:
+                - link "유머·이슈·사용후기" [ref=f45e296] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=26&search.boardtype=L
+              - listitem [ref=f45e297]:
+                - link "카페관련 건의사항" [ref=f45e298] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=23&search.boardtype=L
+            - heading "링크" [level=3] [ref=f45e300]
+            - list [ref=f45e302]:
+              - listitem [ref=f45e303]:
+                - link "홈택스" [ref=f45e304] [cursor=pointer]:
+                  - /url: http://hometax.go.kr
+              - listitem [ref=f45e305]:
+                - link "국세청" [ref=f45e306] [cursor=pointer]:
+                  - /url: http://nts.go.kr
+              - listitem [ref=f45e307]:
+                - link "한국표준산업분류표" [ref=f45e308] [cursor=pointer]:
+                  - /url: https://kssc.kostat.go.kr:8443/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001&categoryMenu=007&addGubun=no
+              - listitem [ref=f45e309]:
+                - link "주요 세법 개정내용" [ref=f45e310] [cursor=pointer]:
+                  - /url: https://d.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2466&cntntsId=7792
+              - listitem [ref=f45e311]:
+                - link "세무서식" [ref=f45e312] [cursor=pointer]:
+                  - /url: http://www.kacpta.or.kr/license_view/tax_publication/taxInfo/taxForm_n.asp
+              - listitem [ref=f45e313]:
+                - link "무료세무상담(한국세무사회)" [ref=f45e314] [cursor=pointer]:
+                  - /url: http://www.kacpta.or.kr/education_view/tax_counseling/internetCounseling_n.asp
+              - listitem [ref=f45e315]:
+                - link "전산세무회계자격시험" [ref=f45e316] [cursor=pointer]:
+                  - /url: http://license.kacpta.or.kr
+              - listitem [ref=f45e317]:
+                - link "세무사랑Pro" [ref=f45e318] [cursor=pointer]:
+                  - /url: http://kacpta.newgensoft.co.kr/
+              - listitem [ref=f45e319]:
+                - link "한국세무사회전산법인" [ref=f45e320] [cursor=pointer]:
+                  - /url: http://semuportal.com/
+              - listitem [ref=f45e321]:
+                - link "뉴젠솔루션" [ref=f45e322] [cursor=pointer]:
+                  - /url: https://www.newzensolution.co.kr/
+            - heading "이전 메뉴" [level=3] [ref=f45e324]
+            - list [ref=f45e326]:
+              - listitem [ref=f45e327]:
+                - link "세무사랑 AI 자동조정 활용(~3/31)" [ref=f45e328] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=176&search.boardtype=L
+              - listitem [ref=f45e329]:
+                - link "[종료]득템이벤트 인증샷" [ref=f45e330] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=110&search.boardtype=L
+              - listitem [ref=f45e331]:
+                - link "[종료]나만의 세무사랑Pro 활용노트" [ref=f45e332] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=168&search.boardtype=L
+              - listitem [ref=f45e333]:
+                - link "[종료]옥에 티를 찾아라!" [ref=f45e334] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=166&search.boardtype=L
+              - listitem [ref=f45e335]:
+                - link "[종료]세무사랑Pro 새내기 모여라!" [ref=f45e336] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=167&search.boardtype=L
+              - listitem [ref=f45e337]:
+                - link "[종료]세무사랑 행복 추첨 이벤트" [ref=f45e338] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=175&search.boardtype=L
+              - listitem [ref=f45e339]:
+                - link "출석체크" [ref=f45e340] [cursor=pointer]:
+                  - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=107&search.boardtype=L
+          - list [ref=f45e341]:
+            - listitem [ref=f45e342]:
+              - generic [ref=f45e343]:
+                - heading "지난주 멤버 랭킹" [level=4] [ref=f45e345]
+                - list [ref=f45e346]:
+                  - listitem [ref=f45e347]:
+                    - generic [ref=f45e348]: 댓글
+                  - listitem [ref=f45e349]:
+                    - generic [ref=f45e350]: ▼
+                    - link "게시글" [ref=f45e351] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f45e352]:
+                    - generic [ref=f45e353]: ▼
+                    - link "방문" [ref=f45e354] [cursor=pointer]:
+                      - /url: "#"
+                - heading "댓글" [level=5] [ref=f45e355]
+                - generic [ref=f45e356]:
+                  - list [ref=f45e357]:
+                    - listitem [ref=f45e358]:
+                      - generic [ref=f45e359]: "1."
+                      - link "플랫폼세무사회" [ref=f45e361] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f45e363]:
+                      - generic [ref=f45e364]: "2."
+                      - link "뉴젠지기13" [ref=f45e366] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f45e368]:
+                      - generic [ref=f45e369]: "3."
+                      - link "뉴젠지기23" [ref=f45e371] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f45e373]:
+                      - generic [ref=f45e374]: "4."
+                      - link "뉴젠지기25" [ref=f45e376] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f45e378]:
+                      - generic [ref=f45e379]: "5."
+                      - link "카페지기" [ref=f45e381] [cursor=pointer]:
+                        - /url: "#"
+                  - generic [ref=f45e383]:
+                    - text: 이전 ㅣ
+                    - link "다음" [ref=f45e385] [cursor=pointer]:
+                      - /url: "#"
+            - listitem [ref=f45e386]:
+              - generic [ref=f45e387]:
+                - heading "지난주 게시글 랭킹" [level=4] [ref=f45e389]
+                - list [ref=f45e390]:
+                  - listitem [ref=f45e391]:
+                    - generic [ref=f45e392]: 좋아요 횟수
+                  - listitem [ref=f45e393]:
+                    - generic [ref=f45e394]: ▼
+                    - link "댓글수" [ref=f45e395] [cursor=pointer]:
+                      - /url: "#"
+                - heading "좋아요 횟수" [level=5] [ref=f45e396]
+                - list [ref=f45e397]:
+                  - listitem [ref=f45e398]:
+                    - generic [ref=f45e399]: "1."
+                    - link "중소기업취업자.." [ref=f45e401] [cursor=pointer]:
+                      - /url: /ArticleRead.nhn?clubid=29179359&articleid=64548
+                  - listitem [ref=f45e403]:
+                    - generic [ref=f45e404]: "2."
+                    - link "DC형 퇴직연금 .." [ref=f45e406] [cursor=pointer]:
+                      - /url: /ArticleRead.nhn?clubid=29179359&articleid=64509
+                  - listitem [ref=f45e408]:
+                    - generic [ref=f45e409]: "3."
+                    - link "중소기업 취업자.." [ref=f45e411] [cursor=pointer]:
+                      - /url: /ArticleRead.nhn?clubid=29179359&articleid=64492
+                  - listitem [ref=f45e413]:
+                    - generic [ref=f45e414]: "4."
+                    - link "플랫폼세무사회.." [ref=f45e416] [cursor=pointer]:
+                      - /url: /ArticleRead.nhn?clubid=29179359&articleid=64570
+                  - listitem [ref=f45e418]:
+                    - generic [ref=f45e419]: "5."
+                    - link "[건의사항] 급여.." [ref=f45e421] [cursor=pointer]:
+                      - /url: /ArticleRead.nhn?clubid=29179359&articleid=64568
+                - generic [ref=f45e423]:
+                  - text: 이전 ㅣ
+                  - link "다음" [ref=f45e425] [cursor=pointer]:
+                    - /url: "#"
+            - listitem [ref=f45e426]:
+              - generic [ref=f45e427]:
+                - heading "멤버 소식" [level=4] [ref=f45e429]
+                - list [ref=f45e430]:
+                  - listitem [ref=f45e431]:
+                    - generic [ref=f45e432]: 방문
+                  - listitem [ref=f45e433]:
+                    - generic [ref=f45e434]: ▼
+                    - text: 신입
+                - heading "방문" [level=5] [ref=f45e435]
+                - list [ref=f45e436]:
+                  - list [ref=f45e437]:
+                    - listitem [ref=f45e438]:
+                      - generic [ref=f45e439]: 부르부루
+                    - listitem [ref=f45e443]:
+                      - generic [ref=f45e444]: jhw8715
+                    - listitem [ref=f45e448]:
+                      - generic [ref=f45e449]: 비앤택스
+                      - img "삭제" [ref=f45e455]
+                    - listitem [ref=f45e456]:
+                      - generic [ref=f45e457]: 제호탕
+                    - listitem [ref=f45e461]:
+                      - generic [ref=f45e462]: 목동
+                  - generic [ref=f45e466]:
+                    - text: 이전 ㅣ
+                    - generic [ref=f45e467]: 다음
+            - listitem [ref=f45e468]:
+              - paragraph [ref=f45e469]:
+                - link "카페탈퇴하기" [ref=f45e470] [cursor=pointer]:
+                  - /url: /CafeSecedeView.nhn?clubid=29179359&from=naver_login
+          - link [ref=f45e472] [cursor=pointer]:
+            - /url: https://talk.naver.com/ct/w4nd8o
+            - img "궁금한게 있을 땐 카페 스마트봇" [ref=f45e473]
+        - iframe [ref=f45e475]:
+          - generic [ref=f51e1]:
+            - generic [ref=f51e5]:
+              - generic [ref=f51e8]:
+                - generic [ref=f51e9]: 카페 대문
+                - table [ref=f51e11]:
+                  - rowgroup [ref=f51e12]:
+                    - row [ref=f51e13]:
+                      - cell [ref=f51e14]:
+                        - heading "[세무렙]한국세무사회 세무사랑 Pro & 케이렙 공식 카페 \"2017.12.01 정식 오픈 ~ 현재\"" [level=3] [ref=f51e15]
+                    - row [ref=f51e16]:
+                      - cell [ref=f51e17]
+                    - row [ref=f51e18]:
+                      - cell [ref=f51e19]:
+                        - table [ref=f51e20]:
+                          - rowgroup [ref=f51e21]:
+                            - row [ref=f51e22]:
+                              - cell [ref=f51e23]:
+                                - table [ref=f51e24]:
+                                  - rowgroup [ref=f51e25]:
+                                    - row [ref=f51e26]:
+                                      - cell [ref=f51e27]:
+                                        - table [ref=f51e28]:
+                                          - rowgroup [ref=f51e29]:
+                                            - row [ref=f51e30]:
+                                              - cell [ref=f51e31]
+                                            - row [ref=f51e32]:
+                                              - cell [ref=f51e33]
+                                            - row [ref=f51e34]:
+                                              - cell [ref=f51e35]:
+                                                - table [ref=f51e36]:
+                                                  - rowgroup [ref=f51e37]:
+                                                    - row [ref=f51e38]:
+                                                      - cell [ref=f51e39]:
+                                                        - heading "주요 신고 체크리스트 TOP 5" [level=4] [ref=f51e40]
+                                                    - row [ref=f51e41]:
+                                                      - cell [ref=f51e42]:
+                                                        - paragraph [ref=f51e43]:
+                                                          - link "① 원천세 이것만은 꼭 기억하자" [ref=f51e44] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/3433
+                                                          - strong
+                                                        - paragraph [ref=f51e45]:
+                                                          - link "② 부가세 신고 효율적으로 하는 법" [ref=f51e46] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/6796
+                                                        - paragraph [ref=f51e47]:
+                                                          - link "③ 5월의 개인사업자?종합소득세 신고 TIP" [ref=f51e48] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/5474
+                                                        - paragraph [ref=f51e49]:
+                                                          - link "④ 법인사업자의 법인세 신고 TIP" [ref=f51e50] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/2750
+                                                        - paragraph [ref=f51e51]:
+                                                          - link "⑤ 13월의 달 연말정산 실무 TIP" [ref=f51e52] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/1480
+                                                          - text: "??"
+                                      - cell [ref=f51e53]
+                                      - cell [ref=f51e54]:
+                                        - table [ref=f51e55]:
+                                          - rowgroup [ref=f51e56]:
+                                            - row [ref=f51e57]:
+                                              - cell [ref=f51e58]
+                                            - row [ref=f51e59]:
+                                              - cell [ref=f51e60]
+                                            - row [ref=f51e61]:
+                                              - cell [ref=f51e62]:
+                                                - table [ref=f51e63]:
+                                                  - rowgroup [ref=f51e64]:
+                                                    - row:
+                                                      - cell:
+                                                        - heading [level=4]
+                                                    - row [ref=f51e65]:
+                                                      - cell [ref=f51e66]:
+                                                        - heading "최근 5개월 주요 세무일정 및 일지" [level=4] [ref=f51e67]
+                                                        - paragraph [ref=f51e68]:
+                                                          - link "① 9월 세무일정 및 주요일지" [ref=f51e69] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64577
+                                                        - paragraph [ref=f51e70]:
+                                                          - link "② 8월 세무일정 및 주요일지" [ref=f51e71] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64277
+                                                        - paragraph [ref=f51e72]:
+                                                          - link "③ 7월 세무일정 및 주요일지" [ref=f51e73] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/63820
+                                                        - paragraph [ref=f51e74]:
+                                                          - link "④ 6월 세무일정 및 주요일지" [ref=f51e75] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/63271
+                                                        - paragraph [ref=f51e76]:
+                                                          - link "⑤ 5월 세무일정 및 주요일지" [ref=f51e77] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/62484
+                                      - cell [ref=f51e78]
+                                      - cell [ref=f51e79]:
+                                        - table [ref=f51e80]:
+                                          - rowgroup [ref=f51e81]:
+                                            - row [ref=f51e82]:
+                                              - cell [ref=f51e83]
+                                            - row [ref=f51e84]:
+                                              - cell [ref=f51e85]
+                                            - row [ref=f51e86]:
+                                              - cell [ref=f51e87]:
+                                                - table [ref=f51e88]:
+                                                  - rowgroup [ref=f51e89]:
+                                                    - row [ref=f51e90]:
+                                                      - cell [ref=f51e91]:
+                                                        - heading "카페의 다양한 이벤트소식!" [level=4] [ref=f51e92]
+                                                    - row [ref=f51e93]:
+                                                      - cell [ref=f51e94]:
+                                                        - paragraph [ref=f51e95]:
+                                                          - link "① 세무렙 활동보상이벤트 (2026.ver)" [ref=f51e96] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/55414
+                                                        - paragraph [ref=f51e97]:
+                                                          - link "② 세무사랑 꿀팁 알리기 이벤트(2026ver)" [ref=f51e98] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/55413
+                                                        - paragraph [ref=f51e99]:
+                                                          - link "③ 플랫폼세무사회 기능 개선제안 이벤트" [ref=f51e100] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/63039
+                                                        - paragraph [ref=f51e101]:
+                                                          - link "④ 7월 월간 활동보상이벤트 당첨자발표" [ref=f51e102] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64421
+                                                        - paragraph [ref=f51e103]:
+                                                          - link "⑤ 7월 월간 세무사랑 꿀팁이벤트 당첨자발표" [ref=f51e104] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64422
+                                                        - paragraph [ref=f51e105]:
+                                                          - link "⑥ 8월 3주차 활동보상이벤트 당첨자발표" [ref=f51e106] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64546
+                                                        - paragraph [ref=f51e107]:
+                                                          - link "⑦ 8월 3주차 꿀팁이벤트 당첨자발표" [ref=f51e108] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64547
+                                                        - paragraph [ref=f51e109]:
+                                                          - link "⑧ 플랫폼세무사회 개선 이벤트 당첨자발표" [ref=f51e110] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/64352
+                            - row [ref=f51e111]:
+                              - cell [ref=f51e112]:
+                                - table [ref=f51e113]:
+                                  - rowgroup [ref=f51e114]:
+                                    - row [ref=f51e115]:
+                                      - cell [ref=f51e116]:
+                                        - table [ref=f51e117]:
+                                          - rowgroup [ref=f51e118]:
+                                            - row [ref=f51e119]:
+                                              - cell [ref=f51e120]
+                                            - row [ref=f51e121]:
+                                              - cell [ref=f51e122]
+                                            - row [ref=f51e123]:
+                                              - cell [ref=f51e124]:
+                                                - table [ref=f51e125]:
+                                                  - rowgroup [ref=f51e126]:
+                                                    - row [ref=f51e127]:
+                                                      - cell [ref=f51e128]:
+                                                        - heading "실무 증빙처리방법" [level=4] [ref=f51e129]
+                                                    - row [ref=f51e130]:
+                                                      - cell [ref=f51e131]:
+                                                        - paragraph [ref=f51e132]:
+                                                          - link "① 주요 경비 '복리후생비' 증빙처리 방법" [ref=f51e133] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/2966
+                                                          - text: "!!!"
+                                                          - strong
+                                                        - paragraph [ref=f51e134]:
+                                                          - link "② 주요 경비 '접대비' 증빙처리 방법" [ref=f51e135] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/2973
+                                                          - text: "!!!"
+                                                        - paragraph [ref=f51e136]:
+                                                          - link "③ 주요 경비 '여비교통비' 증빙처리 방법" [ref=f51e137] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/2985
+                                                          - text: "!!!"
+                                                        - paragraph [ref=f51e138]:
+                                                          - link "④ 마이너스 통장 회계처리 방법" [ref=f51e139] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/3116
+                                                          - text: "!!!"
+                                                        - paragraph [ref=f51e140]:
+                                                          - link "⑤ 외화와 원화를 쉽게 관리 하는 방법" [ref=f51e141] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/3210
+                                                          - text: "!!!"
+                                      - cell [ref=f51e142]
+                                      - cell [ref=f51e143]:
+                                        - table [ref=f51e144]:
+                                          - rowgroup [ref=f51e145]:
+                                            - row [ref=f51e146]:
+                                              - cell [ref=f51e147]
+                                            - row [ref=f51e148]:
+                                              - cell [ref=f51e149]
+                                            - row [ref=f51e150]:
+                                              - cell [ref=f51e151]:
+                                                - table [ref=f51e152]:
+                                                  - rowgroup [ref=f51e153]:
+                                                    - row [ref=f51e154]:
+                                                      - cell [ref=f51e155]:
+                                                        - heading "실무 원천세, 4대보험 중요 포인트" [level=4] [ref=f51e156]
+                                                    - row [ref=f51e157]:
+                                                      - cell [ref=f51e158]:
+                                                        - paragraph [ref=f51e159]:
+                                                          - link "① 신입분들을 위한 원천세 신고 간단 TIP" [ref=f51e160] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/9190
+                                                          - strong
+                                                        - paragraph [ref=f51e161]:
+                                                          - link "② 사업소득 VS 기타소득 실무적인 TIP" [ref=f51e162] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/7595
+                                                        - paragraph [ref=f51e163]:
+                                                          - link "③ 매월 업체 원천세 신고 메뉴얼" [ref=f51e164] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/1222
+                                                        - paragraph [ref=f51e165]:
+                                                          - link "④ 실무 보수총액 신고하기(건강보험)" [ref=f51e166] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/2152
+                                                        - paragraph [ref=f51e167]:
+                                                          - link "⑤ 실무 보수총액 신고하기(고용산재)" [ref=f51e168] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/2199
+                                      - cell [ref=f51e169]
+                                      - cell [ref=f51e170]:
+                                        - table [ref=f51e171]:
+                                          - rowgroup [ref=f51e172]:
+                                            - row [ref=f51e173]:
+                                              - cell [ref=f51e174]
+                                            - row [ref=f51e175]:
+                                              - cell [ref=f51e176]
+                                            - row [ref=f51e177]:
+                                              - cell [ref=f51e178]:
+                                                - table [ref=f51e179]:
+                                                  - rowgroup [ref=f51e180]:
+                                                    - row [ref=f51e181]:
+                                                      - cell [ref=f51e182]:
+                                                        - heading "주요신고 온라인(오프라인) 교육영상" [level=4] [ref=f51e183]
+                                                    - row [ref=f51e184]:
+                                                      - cell [ref=f51e185]:
+                                                        - paragraph [ref=f51e186]:
+                                                          - link "① [2024 최신판] 부가가치세 실무" [ref=f51e187] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/50837
+                                                          - strong
+                                                        - paragraph [ref=f51e188]:
+                                                          - link "② [2025 최신판] 종합소득세 실무" [ref=f51e189] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/55893
+                                                        - paragraph [ref=f51e190]:
+                                                          - link "③ [2024 최신판] 법인세 실무" [ref=f51e191] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/54517
+                                                        - paragraph [ref=f51e192]:
+                                                          - link "④ [2025 최신판] 세무사랑Pro의 정석" [ref=f51e193] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/59121
+                                                        - paragraph [ref=f51e194]:
+                                                          - link "⑤ 세무사랑Pro 초단기 실무완성 [세무/회계]" [ref=f51e195] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/60198
+                                                        - paragraph [ref=f51e196]:
+                                                          - link "⑥ 세무사랑Pro 활용실무 [회계편]" [ref=f51e197] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/37045
+                                                        - paragraph [ref=f51e198]:
+                                                          - link "⑦ 세무사랑Pro 활용실무 [세무편-부가세]" [ref=f51e199] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/50837
+                                                        - paragraph [ref=f51e200]:
+                                                          - link "⑧ 세무사랑Pro 활용실무 [세무편-원천세]" [ref=f51e201] [cursor=pointer]:
+                                                            - /url: https://cafe.naver.com/semusarangkclep/37047
+                    - row [ref=f51e202]:
+                      - cell [ref=f51e203]:
+                        - paragraph
+                        - paragraph [ref=f51e204]
+                        - paragraph [ref=f51e205]
+                        - paragraph [ref=f51e206]
+                        - paragraph [ref=f51e207]:
+                          - link [ref=f51e208] [cursor=pointer]:
+                            - /url: https://kacpta.or.kr/event/plattform.asp
+                            - img "대문이미지" [ref=f51e209]
+                        - paragraph [ref=f51e210]
+                        - paragraph [ref=f51e211]:
+                          - img "대문이미지" [ref=f51e212]
+                        - paragraph [ref=f51e213]
+                        - paragraph [ref=f51e214]:
+                          - link [ref=f51e215] [cursor=pointer]:
+                            - /url: https://www.kacta.or.kr/a/movie/cyber_edu2026.asp?class_key=908010&nKey=08
+                            - img "대문이미지" [ref=f51e216]
+                        - paragraph [ref=f51e217]
+                        - paragraph [ref=f51e218]:
+                          - link [ref=f51e219] [cursor=pointer]:
+                            - /url: https://www.kacta.or.kr/a/movie/cyber_edu2026.asp?class_key=907010&nKey=07
+                            - img "대문이미지" [ref=f51e220]
+                        - paragraph [ref=f51e221]
+                        - paragraph [ref=f51e222]:
+                          - link [ref=f51e223] [cursor=pointer]:
+                            - /url: https://www.kacta.or.kr/event/taxmeup.asp
+                            - img "대문이미지" [ref=f51e224]
+                        - paragraph [ref=f51e225]
+                        - paragraph [ref=f51e226]:
+                          - link [ref=f51e227] [cursor=pointer]:
+                            - /url: https://www.ctaplatform.com/dash
+                            - img "대문이미지" [ref=f51e228]
+                        - paragraph [ref=f51e229]
+                        - paragraph [ref=f51e230]:
+                          - generic [ref=f51e231]:
+                            - link [ref=f51e232] [cursor=pointer]:
+                              - /url: https://www.ctaplatform.com/ai/tax-accountant/
+                              - img "대문이미지" [ref=f51e233]
+                            - link [ref=f51e234] [cursor=pointer]:
+                              - /url: https://play.google.com/store/apps/details?id=com.cptaplatform.app
+                              - img "대문이미지" [ref=f51e235]
+                        - paragraph [ref=f51e236]
+                        - paragraph [ref=f51e237]:
+                          - generic [ref=f51e238]:
+                            - link [ref=f51e239] [cursor=pointer]:
+                              - /url: http://kacpta.newzensolution.co.kr/product/productIntro.jsp
+                              - img "대문이미지" [ref=f51e240]
+                            - link [ref=f51e241] [cursor=pointer]:
+                              - /url: https://www.semuportal.com/bizon/service/serviceIntro.do?act=fee
+                              - img "대문이미지" [ref=f51e242]
+                - generic [ref=f51e244]:
+                  - link [ref=f51e245] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@semusarang
+                    - img "대문이미지" [ref=f51e246]
+                  - link [ref=f51e247] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UCmLSHXbIFByTqDa3Ybc0jCQ
+                    - img "대문이미지" [ref=f51e248]
+                - table [ref=f51e251]:
+                  - rowgroup [ref=f51e252]:
+                    - row [ref=f51e253]:
+                      - cell [ref=f51e254]
+                    - row [ref=f51e255]:
+                      - cell [ref=f51e256]:
+                        - blockquote:
+                          - strong
+                        - paragraph [ref=f51e257]
+                        - paragraph [ref=f51e258]
+                        - table:
+                          - rowgroup:
+                            - row:
+                              - cell
+                              - cell
+                              - cell
+                    - row [ref=f51e259]:
+                      - cell [ref=f51e260]:
+                        - paragraph [ref=f51e261]
+                - table [ref=f51e263]:
+                  - rowgroup [ref=f51e264]:
+                    - row [ref=f51e265]:
+                      - cell [ref=f51e266]:
+                        - link "▲ 대문접기" [ref=f51e268] [cursor=pointer]:
+                          - /url: "#"
+              - generic [ref=f51e270]:
+                - generic [ref=f51e271]:
+                  - generic [ref=f51e273]:
+                    - generic [ref=f51e275]:
+                      - heading [level=3] [ref=f51e276]:
+                        - link "전체글보기" [ref=f51e277] [cursor=pointer]:
+                          - /url: /ArticleList.nhn?search.clubid=29179359&search.boardtype=L
+                      - link "더보기" [ref=f51e279] [cursor=pointer]:
+                        - /url: /ArticleList.nhn?search.clubid=29179359&search.boardtype=L
+                    - table "게시물 목록" [ref=f51e280]:
+                      - caption:
+                        - generic [ref=f51e281]: 게시물 목록
+                      - rowgroup [ref=f51e285]:
+                        - row [ref=f51e286]:
+                          - cell [ref=f51e287]:
+                            - strong [ref=f51e289]: 필독
+                            - link "[이벤트] 플랫폼세무사회 기능 개선제안 이벤트 안내" [ref=f51e292] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=63039&referrerAllArticles=true
+                          - cell "224" [ref=f51e294]
+                        - row [ref=f51e295]:
+                          - cell [ref=f51e296]:
+                            - strong [ref=f51e298]: 필독
+                            - generic [ref=f51e300]:
+                              - link "[이벤트] 활동보상이벤트&꿀팁이벤트 경품 변경 안내 (2026년도.Ver)" [ref=f51e301] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=62956&referrerAllArticles=true
+                              - link [ref=f51e304] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=62956&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e305]: "12"
+                                - text: "]"
+                          - cell "146" [ref=f51e306]
+                        - row [ref=f51e307]:
+                          - cell "전체 공지 2026년 9월 세무일정 - 세무렙" [ref=f51e308]:
+                            - strong [ref=f51e310]:
+                              - generic [ref=f51e312]:
+                                - generic [ref=f51e313]: 전체
+                                - text: 공지
+                            - link "2026년 9월 세무일정 - 세무렙" [ref=f51e316] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64577&referrerAllArticles=true
+                          - cell "40" [ref=f51e318]
+                        - row [ref=f51e319]:
+                          - cell "전체 공지 2026년 8월 3주차 세무사랑꿀팁이벤트 당첨자 발표 - 세무렙 (주간당첨자)" [ref=f51e320]:
+                            - strong [ref=f51e322]:
+                              - generic [ref=f51e324]:
+                                - generic [ref=f51e325]: 전체
+                                - text: 공지
+                            - link "2026년 8월 3주차 세무사랑꿀팁이벤트 당첨자 발표 - 세무렙 (주간당첨자)" [ref=f51e328] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64547&referrerAllArticles=true
+                          - cell "33" [ref=f51e330]
+                        - row [ref=f51e331]:
+                          - cell "전체 공지 2026년 8월 3주차 활동보상이벤트 당첨자 발표 - 세무렙 (주간당첨자) [1]" [ref=f51e332]:
+                            - strong [ref=f51e334]:
+                              - generic [ref=f51e336]:
+                                - generic [ref=f51e337]: 전체
+                                - text: 공지
+                            - generic [ref=f51e339]:
+                              - link "2026년 8월 3주차 활동보상이벤트 당첨자 발표 - 세무렙 (주간당첨자)" [ref=f51e340] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64546&referrerAllArticles=true
+                              - link [ref=f51e343] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64546&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e344]: "1"
+                                - text: "]"
+                          - cell "16" [ref=f51e345]
+                        - row [ref=f51e346]:
+                          - cell "전체 공지 [공지] 신고업무 오류 축소를 위한 세무사랑Pro 신고검증 기능 안내 [3]" [ref=f51e347]:
+                            - strong [ref=f51e349]:
+                              - generic [ref=f51e351]:
+                                - generic [ref=f51e352]: 전체
+                                - text: 공지
+                            - generic [ref=f51e354]:
+                              - link "[공지] 신고업무 오류 축소를 위한 세무사랑Pro 신고검증 기능 안내" [ref=f51e355] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64541&referrerAllArticles=true
+                              - link [ref=f51e358] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64541&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e359]: "3"
+                                - text: "]"
+                          - cell "75" [ref=f51e360]
+                        - row [ref=f51e361]:
+                          - cell "전체 공지 2026년 7월 세무사랑꿀팁이벤트 당첨자 발표 - 세무렙 (월간당첨자) [1]" [ref=f51e362]:
+                            - strong [ref=f51e364]:
+                              - generic [ref=f51e366]:
+                                - generic [ref=f51e367]: 전체
+                                - text: 공지
+                            - generic [ref=f51e369]:
+                              - link "2026년 7월 세무사랑꿀팁이벤트 당첨자 발표 - 세무렙 (월간당첨자)" [ref=f51e370] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64422&referrerAllArticles=true
+                              - link [ref=f51e373] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64422&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e374]: "1"
+                                - text: "]"
+                          - cell "40" [ref=f51e375]
+                        - row [ref=f51e376]:
+                          - cell "전체 공지 2026년 7월 활동보상이벤트 당첨자 발표 - 세무렙 (월간당첨자) [3]" [ref=f51e377]:
+                            - strong [ref=f51e379]:
+                              - generic [ref=f51e381]:
+                                - generic [ref=f51e382]: 전체
+                                - text: 공지
+                            - generic [ref=f51e384]:
+                              - link "2026년 7월 활동보상이벤트 당첨자 발표 - 세무렙 (월간당첨자)" [ref=f51e385] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64421&referrerAllArticles=true
+                              - link [ref=f51e388] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64421&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e389]: "3"
+                                - text: "]"
+                          - cell "31" [ref=f51e390]
+                        - row [ref=f51e391]:
+                          - cell "전체 공지 [한국세무사회 공식] 플랫폼세무사회 4월 1일 GRAND OPEN 안내 [1]" [ref=f51e392]:
+                            - strong [ref=f51e394]:
+                              - generic [ref=f51e396]:
+                                - generic [ref=f51e397]: 전체
+                                - text: 공지
+                            - generic [ref=f51e399]:
+                              - link "[한국세무사회 공식] 플랫폼세무사회 4월 1일 GRAND OPEN 안내" [ref=f51e400] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=61646&referrerAllArticles=true
+                              - link [ref=f51e403] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=61646&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e404]: "1"
+                                - text: "]"
+                          - cell "514" [ref=f51e405]
+                        - row [ref=f51e406]:
+                          - cell "전체 공지 플랫폼세무사회 기능 개선제안 이벤트 당첨자 발표 - 세무렙" [ref=f51e407]:
+                            - strong [ref=f51e409]:
+                              - generic [ref=f51e411]:
+                                - generic [ref=f51e412]: 전체
+                                - text: 공지
+                            - link "플랫폼세무사회 기능 개선제안 이벤트 당첨자 발표 - 세무렙" [ref=f51e415] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64352&referrerAllArticles=true
+                          - cell "97" [ref=f51e417]
+                        - row [ref=f51e418]:
+                          - cell "전체 공지 2026 세제개편안 - 주요 핵심 개정 자료 안내" [ref=f51e419]:
+                            - strong [ref=f51e421]:
+                              - generic [ref=f51e423]:
+                                - generic [ref=f51e424]: 전체
+                                - text: 공지
+                            - link "2026 세제개편안 - 주요 핵심 개정 자료 안내" [ref=f51e427] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64323&referrerAllArticles=true
+                          - cell "274" [ref=f51e429]
+                        - row [ref=f51e430]:
+                          - cell "전체 공지 [2025최신판] 세무사랑Pro의 정석 교육영상 (세무/회계 전체)(88편, 교재포함) [11]" [ref=f51e431]:
+                            - strong [ref=f51e433]:
+                              - generic [ref=f51e435]:
+                                - generic [ref=f51e436]: 전체
+                                - text: 공지
+                            - generic [ref=f51e438]:
+                              - link "[2025최신판] 세무사랑Pro의 정석 교육영상 (세무/회계 전체)(88편, 교재포함)" [ref=f51e439] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=59121&referrerAllArticles=true
+                              - link [ref=f51e442] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=59121&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e443]: "11"
+                                - text: "]"
+                          - cell "2,128" [ref=f51e444]
+                        - row [ref=f51e445]:
+                          - cell "전체 공지 [2025] 세무사랑Pro 초단기 실무완성 오프라인 교육영상 (세무/회계 전체)(8편, 교재포함)" [ref=f51e446]:
+                            - strong [ref=f51e448]:
+                              - generic [ref=f51e450]:
+                                - generic [ref=f51e451]: 전체
+                                - text: 공지
+                            - link "[2025] 세무사랑Pro 초단기 실무완성 오프라인 교육영상 (세무/회계 전체)(8편, 교재포함)" [ref=f51e454] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=60198&referrerAllArticles=true
+                          - cell "527" [ref=f51e456]
+                        - row [ref=f51e457]:
+                          - cell "전체 공지 [공지] 신규 서비스 - 플랫폼세무사회 기능 건의 게시판 이용 안내" [ref=f51e458]:
+                            - strong [ref=f51e460]:
+                              - generic [ref=f51e462]:
+                                - generic [ref=f51e463]: 전체
+                                - text: 공지
+                            - link "[공지] 신규 서비스 - 플랫폼세무사회 기능 건의 게시판 이용 안내" [ref=f51e466] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=55644&referrerAllArticles=true
+                          - cell "321" [ref=f51e468]
+                        - row [ref=f51e469]:
+                          - cell "전체 공지 프로그램문의 게시판과 VVIP(프로그램)멤버 등급 안내 - 세무렙 [123]" [ref=f51e470]:
+                            - strong [ref=f51e472]:
+                              - generic [ref=f51e474]:
+                                - generic [ref=f51e475]: 전체
+                                - text: 공지
+                            - generic [ref=f51e477]:
+                              - link "프로그램문의 게시판과 VVIP(프로그램)멤버 등급 안내 - 세무렙" [ref=f51e478] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=13908&referrerAllArticles=true
+                              - link [ref=f51e481] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=13908&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e482]: "123"
+                                - text: "]"
+                          - cell "1.9만" [ref=f51e483]
+                        - row [ref=f51e484]:
+                          - cell "납부서 메일보낼때 파일추가 기능 넣어주세요 new" [ref=f51e485]:
+                            - generic [ref=f51e488]:
+                              - link "납부서 메일보낼때 파일추가 기능 넣어주세요" [ref=f51e489] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64582&referrerAllArticles=true
+                              - generic [ref=f51e491]: new
+                          - cell "3" [ref=f51e494]
+                        - row [ref=f51e495]:
+                          - cell "엑셀 다운로드 장소지정 [1] new" [ref=f51e496]:
+                            - generic [ref=f51e499]:
+                              - link "엑셀 다운로드 장소지정" [ref=f51e500] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64581&referrerAllArticles=true
+                              - generic [ref=f51e502]:
+                                - link [ref=f51e503] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64581&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e504]: "1"
+                                  - text: "]"
+                                - generic [ref=f51e505]: new
+                          - cell "13" [ref=f51e507]
+                        - row [ref=f51e508]:
+                          - cell "개인대표자 귀화(외국인등록번호 ➔ 주민등록번호 변경)에 따른 홈택스 스크래핑 오류 개선 요청 new" [ref=f51e509]:
+                            - generic [ref=f51e512]:
+                              - link "개인대표자 귀화(외국인등록번호 ➔ 주민등록번호 변경)에 따른 홈택스 스크래핑 오류 개선 요청" [ref=f51e513] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64580&referrerAllArticles=true
+                              - generic [ref=f51e515]: new
+                          - cell "16" [ref=f51e518]
+                        - row [ref=f51e519]:
+                          - cell "사업소득자등록시 체류자격 추가 [1] new" [ref=f51e520]:
+                            - generic [ref=f51e523]:
+                              - link "사업소득자등록시 체류자격 추가" [ref=f51e524] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64579&referrerAllArticles=true
+                              - generic [ref=f51e526]:
+                                - link [ref=f51e527] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64579&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e528]: "1"
+                                  - text: "]"
+                                - generic [ref=f51e529]: new
+                          - cell "42" [ref=f51e531]
+                        - row [ref=f51e532]:
+                          - cell "원천세납부서를 보내면 신고내역을 수집해야하는데 번거롭습니다. 사진 [1] new" [ref=f51e533]:
+                            - generic [ref=f51e536]:
+                              - link "원천세납부서를 보내면 신고내역을 수집해야하는데 번거롭습니다." [ref=f51e537] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64578&referrerAllArticles=true
+                              - generic [ref=f51e539]:
+                                - generic [ref=f51e540]: 사진
+                                - link [ref=f51e542] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64578&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e543]: "1"
+                                  - text: "]"
+                                - generic [ref=f51e544]: new
+                          - cell "43" [ref=f51e546]
+                        - row [ref=f51e547]:
+                          - cell "2026년 9월 세무일정 - 세무렙 파일 new" [ref=f51e548]:
+                            - generic [ref=f51e551]:
+                              - link "2026년 9월 세무일정 - 세무렙" [ref=f51e552] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64577&referrerAllArticles=true
+                              - generic [ref=f51e554]:
+                                - generic [ref=f51e555]: 파일
+                                - generic [ref=f51e557]: new
+                          - cell "40" [ref=f51e559]
+                        - row [ref=f51e560]:
+                          - cell "상용직 정규직이 아니라 계약직인데 이거 수정 어떻게 하나요? new" [ref=f51e561]:
+                            - generic [ref=f51e564]:
+                              - link "상용직 정규직이 아니라 계약직인데 이거 수정 어떻게 하나요?" [ref=f51e565] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64576&referrerAllArticles=true
+                              - generic [ref=f51e567]: new
+                          - cell "28" [ref=f51e570]
+                        - row [ref=f51e571]:
+                          - cell "법인세 똥장부 수정신고를 할때, 어떤 방법이 가장 효율적일까요? new" [ref=f51e572]:
+                            - generic [ref=f51e575]:
+                              - link "법인세 똥장부 수정신고를 할때, 어떤 방법이 가장 효율적일까요?" [ref=f51e576] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64575&referrerAllArticles=true
+                              - generic [ref=f51e578]: new
+                          - cell "48" [ref=f51e581]
+                        - row [ref=f51e582]:
+                          - cell "부가세예수금 분개 new" [ref=f51e583]:
+                            - generic [ref=f51e586]:
+                              - link "부가세예수금 분개" [ref=f51e587] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64574&referrerAllArticles=true
+                              - generic [ref=f51e589]: new
+                          - cell "20" [ref=f51e592]
+                        - row [ref=f51e593]:
+                          - cell "급여대장-상여입력시 고용보험등 공제항목의 금액이 안뜨게하는 방법이 있나요? 사진 [1] new" [ref=f51e594]:
+                            - generic [ref=f51e597]:
+                              - link "급여대장-상여입력시 고용보험등 공제항목의 금액이 안뜨게하는 방법이 있나요?" [ref=f51e598] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64573&referrerAllArticles=true
+                              - generic [ref=f51e600]:
+                                - generic [ref=f51e601]: 사진
+                                - link [ref=f51e603] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64573&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e604]: "1"
+                                  - text: "]"
+                                - generic [ref=f51e605]: new
+                          - cell "36" [ref=f51e607]
+                        - row [ref=f51e608]:
+                          - cell "잦은 데이터깨짐 발생 사진 [2] new" [ref=f51e609]:
+                            - generic [ref=f51e612]:
+                              - link "잦은 데이터깨짐 발생" [ref=f51e613] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64572&referrerAllArticles=true
+                              - generic [ref=f51e615]:
+                                - generic [ref=f51e616]: 사진
+                                - link [ref=f51e618] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64572&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e619]: "2"
+                                  - text: "]"
+                                - generic [ref=f51e620]: new
+                          - cell "69" [ref=f51e622]
+                        - row [ref=f51e623]:
+                          - cell "의제매입세액공제 신고서 예정신고 마감 및 미작성분 삭제 기능 추가 개선 요청 new" [ref=f51e624]:
+                            - generic [ref=f51e627]:
+                              - link "의제매입세액공제 신고서 예정신고 마감 및 미작성분 삭제 기능 추가 개선 요청" [ref=f51e628] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64571&referrerAllArticles=true
+                              - generic [ref=f51e630]: new
+                          - cell "11" [ref=f51e633]
+                        - row [ref=f51e634]:
+                          - cell "플랫폼세무사회에서 납부서를 보낼 때 개선사항 요청 사진 new" [ref=f51e635]:
+                            - generic [ref=f51e638]:
+                              - link "플랫폼세무사회에서 납부서를 보낼 때 개선사항 요청" [ref=f51e639] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64570&referrerAllArticles=true
+                              - generic [ref=f51e641]:
+                                - generic [ref=f51e642]: 사진
+                                - generic [ref=f51e644]: new
+                          - cell "15" [ref=f51e646]
+                        - row [ref=f51e647]:
+                          - cell "세무사랑 홈택스 세무대리인정보이용신청서(위임받은사람의 날인문의드립니다) [2] new" [ref=f51e648]:
+                            - generic [ref=f51e651]:
+                              - link "세무사랑 홈택스 세무대리인정보이용신청서(위임받은사람의 날인문의드립니다)" [ref=f51e652] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64569&referrerAllArticles=true
+                              - generic [ref=f51e654]:
+                                - link [ref=f51e655] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64569&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e656]: "2"
+                                  - text: "]"
+                                - generic [ref=f51e657]: new
+                          - cell "41" [ref=f51e659]
+                        - row [ref=f51e660]:
+                          - cell "[건의사항] 급여명세서 출력할때 파일명에 대괄호가 생겼던데 없애주세요 [6] new" [ref=f51e661]:
+                            - generic [ref=f51e664]:
+                              - link "[건의사항] 급여명세서 출력할때 파일명에 대괄호가 생겼던데 없애주세요" [ref=f51e665] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64568&referrerAllArticles=true
+                              - generic [ref=f51e667]:
+                                - link [ref=f51e668] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64568&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e669]: "6"
+                                  - text: "]"
+                                - generic [ref=f51e670]: new
+                          - cell "71" [ref=f51e672]
+                        - row [ref=f51e673]:
+                          - cell "거래처원장 [6] new" [ref=f51e674]:
+                            - generic [ref=f51e677]:
+                              - link "거래처원장" [ref=f51e678] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64567&referrerAllArticles=true
+                              - generic [ref=f51e680]:
+                                - link [ref=f51e681] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64567&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e682]: "6"
+                                  - text: "]"
+                                - generic [ref=f51e683]: new
+                          - cell "50" [ref=f51e685]
+                        - row [ref=f51e686]:
+                          - cell "매입매출전표에서 계정과목 일괄변경 [1] new" [ref=f51e687]:
+                            - generic [ref=f51e690]:
+                              - link "매입매출전표에서 계정과목 일괄변경" [ref=f51e691] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64566&referrerAllArticles=true
+                              - generic [ref=f51e693]:
+                                - link [ref=f51e694] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64566&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e695]: "1"
+                                  - text: "]"
+                                - generic [ref=f51e696]: new
+                          - cell "37" [ref=f51e698]
+                        - row [ref=f51e699]:
+                          - cell "예수금 질문있습니당! [2] new" [ref=f51e700]:
+                            - generic [ref=f51e703]:
+                              - link "예수금 질문있습니당!" [ref=f51e704] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64565&referrerAllArticles=true
+                              - generic [ref=f51e706]:
+                                - link [ref=f51e707] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64565&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e708]: "2"
+                                  - text: "]"
+                                - generic [ref=f51e709]: new
+                          - cell "27" [ref=f51e711]
+                        - row [ref=f51e712]:
+                          - cell [ref=f51e713]:
+                            - link "일정등록 개선제안" [ref=f51e717] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64564&referrerAllArticles=true
+                          - cell "25" [ref=f51e719]
+                        - row [ref=f51e720]:
+                          - cell "2027년 K-IFRS 제1118호(주요 재무제표 표시와 공시) 개정 관련 세무사랑 프로그램 반영 건의 사진 파일" [ref=f51e721]:
+                            - generic [ref=f51e724]:
+                              - link "2027년 K-IFRS 제1118호(주요 재무제표 표시와 공시) 개정 관련 세무사랑 프로그램 반영 건의" [ref=f51e725] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64563&referrerAllArticles=true
+                              - generic [ref=f51e727]:
+                                - generic [ref=f51e728]: 사진
+                                - generic [ref=f51e730]: 파일
+                          - cell "45" [ref=f51e732]
+                        - row [ref=f51e733]:
+                          - cell [ref=f51e734]:
+                            - generic [ref=f51e737]:
+                              - link "23년도 종소세 신고시 영세율 매출 누락일때 가산세 어떤거 해야하나요?" [ref=f51e738] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64562&referrerAllArticles=true
+                              - link [ref=f51e741] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64562&referrerAllArticles=true&commentFocus=true
+                                - text: "["
+                                - emphasis [ref=f51e742]: "1"
+                                - text: "]"
+                          - cell "33" [ref=f51e743]
+                        - row [ref=f51e744]:
+                          - cell "회무세무포털에서 세무사랑몰로 가는 길 사진" [ref=f51e745]:
+                            - generic [ref=f51e748]:
+                              - link "회무세무포털에서 세무사랑몰로 가는 길" [ref=f51e749] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64561&referrerAllArticles=true
+                              - generic [ref=f51e751]: 사진
+                          - cell "22" [ref=f51e754]
+                        - row [ref=f51e755]:
+                          - cell "각종 메뉴 거래처 조회시 담당세무사님 또는 그룹별로 조회할수 있었으면 좋겠습니다. 사진 [1]" [ref=f51e756]:
+                            - generic [ref=f51e759]:
+                              - link "각종 메뉴 거래처 조회시 담당세무사님 또는 그룹별로 조회할수 있었으면 좋겠습니다." [ref=f51e760] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64560&referrerAllArticles=true
+                              - generic [ref=f51e762]:
+                                - generic [ref=f51e763]: 사진
+                                - link [ref=f51e765] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64560&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e766]: "1"
+                                  - text: "]"
+                          - cell "15" [ref=f51e767]
+                        - row [ref=f51e768]:
+                          - cell "위택스 지방소득세 특별징수 신고 [개인/법인구분] 오류 문의드립니다. 사진 [1]" [ref=f51e769]:
+                            - generic [ref=f51e772]:
+                              - link "위택스 지방소득세 특별징수 신고 [개인/법인구분] 오류 문의드립니다." [ref=f51e773] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64559&referrerAllArticles=true
+                              - generic [ref=f51e775]:
+                                - generic [ref=f51e776]: 사진
+                                - link [ref=f51e778] [cursor=pointer]:
+                                  - /url: /ArticleRead.nhn?clubid=29179359&articleid=64559&referrerAllArticles=true&commentFocus=true
+                                  - text: "["
+                                  - emphasis [ref=f51e779]: "1"
+                                  - text: "]"
+                          - cell "24" [ref=f51e780]
+                  - generic [ref=f51e782]:
+                    - generic [ref=f51e784]:
+                      - heading [level=3] [ref=f51e785]:
+                        - link "신고실무 교육영상" [ref=f51e786] [cursor=pointer]:
+                          - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=108&search.boardtype=C
+                      - link "더보기" [ref=f51e788] [cursor=pointer]:
+                        - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=108&search.boardtype=C
+                    - list [ref=f51e789]:
+                      - listitem [ref=f51e790]:
+                        - generic [ref=f51e792]:
+                          - generic [ref=f51e793]:
+                            - link [ref=f51e794] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=62932&referrerAllArticles=true
+                              - strong [ref=f51e795]: 통합고용세액공제 작성방법 문의
+                            - link "처음 작성하는거고 내용을 몰라 공부 중입니다 완전 초보이구요 통합고용증대 작성 순서 방법 좀 알려주실수 있을까요?" [ref=f51e796] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=62932&referrerAllArticles=true
+                          - generic [ref=f51e798]:
+                            - link "달나라별" [ref=f51e800] [cursor=pointer]:
+                              - /url: "#"
+                            - generic [ref=f51e801]: 2026.05.18. 조회 232
+                      - listitem [ref=f51e802]:
+                        - generic [ref=f51e804]:
+                          - generic [ref=f51e805]:
+                            - link [ref=f51e806] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=62929&referrerAllArticles=true
+                              - strong [ref=f51e807]: 2026년 통합고용세액공제 유투브 교육 영상 있나요?
+                            - link "찾아보니 법인세는 있던데 종합소득세 교육동영상은 없는거 같던데 교육동영상 있는지 어디에서 볼수 있을까요? 고용증대세액공제 교육동영상도 알고 싶습니다" [ref=f51e808] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=62929&referrerAllArticles=true
+                          - generic [ref=f51e810]:
+                            - link "달나라별" [ref=f51e812] [cursor=pointer]:
+                              - /url: "#"
+                            - generic [ref=f51e813]: 2026.05.18. 조회 93
+                      - listitem [ref=f51e814]:
+                        - generic [ref=f51e815]:
+                          - generic [ref=f51e816]:
+                            - generic [ref=f51e817]:
+                              - link [ref=f51e818] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=60198&referrerAllArticles=true
+                                - strong [ref=f51e819]: "[2025] 세무사랑Pro 초단기 실무완성 오프라인 교육영상 (세무/회계 전체)(8편, 교재포함)"
+                              - link "★★ 참고 ★★ 아래 이미지를 클릭하시면 세무사랑 초단기 실무완성' 팝업화면이 오픈됩니다. 팝업 화면에서 교재와 음성파일 및 영상파일도 다운받을 수 있고, 세부 강좌명 확인 후 원하는 강좌명의 유튜브 아이콘 버튼을 누르시거나 강좌명 텍스트를 클릭하시면 해당 교육동영상의 유튜브로 이동됩니다. 강의 팝업창에서 교재가 정상적으로 보이지 않으신 분들은 강의 팝업창이 열려있는 브라우저 창에서 새로고침(Shitf + F5) 실행을 부탁드립니다.^^" [ref=f51e820] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=60198&referrerAllArticles=true
+                            - generic [ref=f51e822]:
+                              - link "카페지기" [ref=f51e824] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e825]: 2026.01.27. 조회 527
+                          - link "썸네일 이미지 8 개의 추가 이미지가 있습니다 +" [ref=f51e827] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=60198&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e828]
+                            - generic [ref=f51e829]:
+                              - text: "8"
+                              - generic [ref=f51e830]: 개의 추가 이미지가 있습니다
+                              - text: +
+                      - listitem [ref=f51e831]:
+                        - generic [ref=f51e832]:
+                          - generic [ref=f51e833]:
+                            - generic [ref=f51e834]:
+                              - link [ref=f51e835] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=59121&referrerAllArticles=true
+                                - strong [ref=f51e836]: "[2025최신판] 세무사랑Pro의 정석 교육영상 (세무/회계 전체)(88편, 교재포함)"
+                              - link "★★ 참고 ★★ 아래 이미지를 클릭하시면 '세무사랑Pro의 정석' 팝업화면이 오픈됩니다. 팝업 화면에서 교재와 음성파일도 다운받을 수 있고, 세부 강좌명 확인 후 원하는 강좌명의 유튜브 아이콘 버튼을 누르시거나 강좌명 텍스트를 클릭하시면 해당 교육동영상의 유튜브로 이동됩니다. 강의 팝업창에서 교재가 2026 귀속 책자로 보이지 않으신 분들은 강의 팝업창이 열려있는 브라우저 창에서 새로고침(Shitf + F5) 실행을 부탁드립니다.^^" [ref=f51e837] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=59121&referrerAllArticles=true
+                            - generic [ref=f51e839]:
+                              - link "카페지기" [ref=f51e841] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e842]: 2025.11.21. 조회 2,128
+                          - link "썸네일 이미지 88 개의 추가 이미지가 있습니다 +" [ref=f51e844] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=59121&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e845]
+                            - generic [ref=f51e846]:
+                              - text: "88"
+                              - generic [ref=f51e847]: 개의 추가 이미지가 있습니다
+                              - text: +
+                  - generic [ref=f51e849]:
+                    - generic [ref=f51e851]:
+                      - heading [level=3] [ref=f51e852]:
+                        - link "월별 주요신고 TIP" [ref=f51e853] [cursor=pointer]:
+                          - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=104&search.boardtype=C
+                      - link "더보기" [ref=f51e855] [cursor=pointer]:
+                        - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=104&search.boardtype=C
+                    - list [ref=f51e856]:
+                      - listitem [ref=f51e857]:
+                        - generic [ref=f51e859]:
+                          - generic [ref=f51e860]:
+                            - link [ref=f51e861] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64323&referrerAllArticles=true
+                              - strong [ref=f51e862]: 2026 세제개편안 - 주요 핵심 개정 자료 안내
+                            - 'link "출처 : 재정경부 > 뉴스 > 보도자료 > 보도 참고자료 2026.8.3(월) 기획재정부에서 ?2026년 세제개편안?을 확정?발표한 내용이 있어 공유합니다. ※ 현재는 세제개편안으로, 향후 국회 심의 과정에서 일부 내용이 변경될 수 있으니 최종 확정 법령은 추후 별도로 확인하시기 바랍니다." [ref=f51e863] [cursor=pointer]':
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64323&referrerAllArticles=true
+                          - generic [ref=f51e865]:
+                            - link "카페지기" [ref=f51e867] [cursor=pointer]:
+                              - /url: "#"
+                            - generic [ref=f51e868]: 2026.08.05. 조회 274
+                      - listitem [ref=f51e869]:
+                        - generic [ref=f51e870]:
+                          - generic [ref=f51e871]:
+                            - generic [ref=f51e872]:
+                              - link [ref=f51e873] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=63914&referrerAllArticles=true
+                                - strong [ref=f51e874]: (((((부가세))))) (대손받아보자)!!! 일 시키고 돈 안 주는 놈이 세상에서 젤 싫다!!(세무사미수는10년임)전에국세청자료올린게있음참고하시고예
+                              - 'link "중소기업외상매출금 2년 지났는가? 미수다 대손받자. 1. 미수금(외상매출금)거래처별원장첨부 2. 세금계산서첨부 3. 독촉장첨부 4.부가세신고시 대손세액공제신고하자 중소기업 채권 2년이 경과한 날이란 : 네이버 카페 퍼온글입니다. 참고하세요." [ref=f51e875] [cursor=pointer]':
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=63914&referrerAllArticles=true
+                            - generic [ref=f51e877]:
+                              - link "부산신팀장" [ref=f51e879] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e880]: 2026.07.08. 조회 258
+                          - link [ref=f51e882] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=63914&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e883]
+                      - listitem [ref=f51e884]:
+                        - generic [ref=f51e886]:
+                          - generic [ref=f51e887]:
+                            - link [ref=f51e888] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=63843&referrerAllArticles=true
+                              - strong [ref=f51e889]: 26년도 납부지연(납부불성실)가산세 개정 안내
+                            - link "안녕하세요. 세무렙 카페지기입니다. 국세 신고와 관련한 '납부지연가산세' 계산 방식이 2026년 7월1일을 기점으로 개정되었습니다. 이에 따른 7월 원천세 신고 및 부가세 신고 시 업무에 참고 부탁드립니다. 감사합니다." [ref=f51e890] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=63843&referrerAllArticles=true
+                          - generic [ref=f51e892]:
+                            - link "카페지기" [ref=f51e894] [cursor=pointer]:
+                              - /url: "#"
+                            - generic [ref=f51e895]: 2026.07.03. 조회 438
+                      - listitem [ref=f51e896]:
+                        - generic [ref=f51e897]:
+                          - generic [ref=f51e898]:
+                            - generic [ref=f51e899]:
+                              - link [ref=f51e900] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=63841&referrerAllArticles=true
+                                - strong [ref=f51e901]: 1기 확정부가세 (국세청자료) 일정 및 안내자료!! 7.1일 할일은 세무사랑에서 부가세 예정고지조회하자(오늘이라도하자)
+                              - link [ref=f51e902] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=63841&referrerAllArticles=true
+                            - generic [ref=f51e904]:
+                              - link "부산신팀장" [ref=f51e906] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e907]: 2026.07.03. 조회 244
+                          - link [ref=f51e909] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=63841&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e910]
+                  - generic [ref=f51e912]:
+                    - generic [ref=f51e914]:
+                      - heading [level=3] [ref=f51e915]:
+                        - link "업무 Tip & Tech" [ref=f51e916] [cursor=pointer]:
+                          - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=75&search.boardtype=C
+                      - link "더보기" [ref=f51e918] [cursor=pointer]:
+                        - /url: /ArticleList.nhn?search.clubid=29179359&search.menuid=75&search.boardtype=C
+                    - list [ref=f51e919]:
+                      - listitem [ref=f51e920]:
+                        - generic [ref=f51e922]:
+                          - generic [ref=f51e923]:
+                            - link [ref=f51e924] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64340&referrerAllArticles=true
+                              - strong [ref=f51e925]: 거래처 통화내용 또는 일과일지 기록
+                            - link "안녕하세요 나이 많은 세린이 입니다. 일을 시작한지 얼마안돼어 매일 업무하는 내용이나 거래처와 통화한 내용 등을 기록하고 싶은데 선배님들은 어떻게 관리하시는지 조언을 구합니다. 하루지나면 어제 뭐했지.. 언제 어떤 내용으로 통화했지.. 어떤 자료를 보냈지.... 기억이 나질 않아요ㅠㅠ 도와주세요ㅠ" [ref=f51e926] [cursor=pointer]:
+                              - /url: /ArticleRead.nhn?clubid=29179359&articleid=64340&referrerAllArticles=true
+                          - generic [ref=f51e928]:
+                            - link "Mommyfinger26" [ref=f51e930] [cursor=pointer]:
+                              - /url: "#"
+                            - generic [ref=f51e931]: 2026.08.06. 조회 157
+                      - listitem [ref=f51e932]:
+                        - generic [ref=f51e933]:
+                          - generic [ref=f51e934]:
+                            - generic [ref=f51e935]:
+                              - link [ref=f51e936] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64338&referrerAllArticles=true
+                                - strong [ref=f51e937]: ((2027년 최저임금)) 시급10,700. 주40시간기준 2,236,300(식대20만원포함)
+                              - link [ref=f51e938] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64338&referrerAllArticles=true
+                            - generic [ref=f51e940]:
+                              - link "부산신팀장" [ref=f51e942] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e943]: 2026.08.06. 조회 138
+                          - link [ref=f51e945] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=64338&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e946]
+                      - listitem [ref=f51e947]:
+                        - generic [ref=f51e948]:
+                          - generic [ref=f51e949]:
+                            - generic [ref=f51e950]:
+                              - link [ref=f51e951] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64328&referrerAllArticles=true
+                                - strong [ref=f51e952]: ((근로소득비과세)) 6세이하보육수당 - 2026년은 2020년1월1일이후 출생>>> 비과세
+                              - link [ref=f51e953] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64328&referrerAllArticles=true
+                            - generic [ref=f51e955]:
+                              - link "부산신팀장" [ref=f51e957] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e958]: 2026.08.05. 조회 79
+                          - link [ref=f51e960] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=64328&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e961]
+                      - listitem [ref=f51e962]:
+                        - generic [ref=f51e963]:
+                          - generic [ref=f51e964]:
+                            - generic [ref=f51e965]:
+                              - link [ref=f51e966] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64308&referrerAllArticles=true
+                                - strong [ref=f51e967]: 압류 할 수 없는 급여(2026.02.01개정) 수령액기준 250만원 이랍니다. (신용불량자 채용시 참고요)
+                              - link "퍼온글 입니다. 급여 압류금지 금액 - 신우법무사" [ref=f51e968] [cursor=pointer]:
+                                - /url: /ArticleRead.nhn?clubid=29179359&articleid=64308&referrerAllArticles=true
+                            - generic [ref=f51e970]:
+                              - link "부산신팀장" [ref=f51e972] [cursor=pointer]:
+                                - /url: "#"
+                              - generic [ref=f51e973]: 2026.08.04. 조회 122
+                          - link [ref=f51e975] [cursor=pointer]:
+                            - /url: /ArticleRead.nhn?clubid=29179359&articleid=64308&referrerAllArticles=true
+                            - img "썸네일 이미지" [ref=f51e976]
+                - generic [ref=f51e977]:
+                  - list
+            - link "콘텐츠 하단" [ref=f51e978] [cursor=pointer]:
+              - /url: "#"
+      - contentinfo [ref=f45e476]:
+        - heading "세무렙 - 한국세무사회 세무사랑Pro & 케이렙 공식 카페" [level=2] [ref=f45e477]
+        - link "https://cafe.naver.com/semusarangkclep" [ref=f45e478] [cursor=pointer]:
+          - /url: "#"
+        - heading "NAVER 카페" [level=2]:
+          - link "NAVER 카페" [ref=f45e479] [cursor=pointer]:
+            - /url: "#"
+    - link "콘텐츠 상단" [ref=f45e481] [cursor=pointer]:
+      - /url: "#"
+  - iframe
